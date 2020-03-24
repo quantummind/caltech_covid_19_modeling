@@ -8,6 +8,5 @@ These data are pulled from the [JHY CSSE github repo](https://github.com/CSSEGIS
 - **Lat**: JHU provided latitude of geographic center of region
 - **Long**: JHU provided longitude of geographic center of region
 - **Date**: Date of observation, as YYYY-MM-DD
-- **Confirmed**: No. of new confirmed cases for the region on date of observation
-- **Deaths**: No. of new deaths for the region on date of observation
-- **Recovered**: No. of new recovered cases for the region on date of observation
+- **Confirmed**: No. of cumulative confirmed cases for the region on date of observation
+- **Deaths**: No. of cumulative deaths for the region on date of observation
