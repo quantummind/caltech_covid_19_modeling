@@ -9,7 +9,7 @@ This is **not** a place to store all of your large (> 50 MB) data files, such as
 US datasets must all have a column named "FIPS" and international datasets must all have a column named "ISO" code.
 
 US data:
-* `icu_county.csv`: Hospitals and ICU beds per county. https://github.com/Yu-Group/covid-19-ventillator-demand-prediction
+* `icu_county.csv`: Hospitals and ICU beds per county; also population over the age of 60. https://khn.org/wp-content/uploads/sites/2/2020/03/KHN\_ICU\_bed\_county\_analysis.zip
 * `transit.csv`: Connectivity and frequency of transit per county. https://alltransit.cnt.org/rankings/
 * `JHU_daily_US.csv`: COVID-19 case and death counts per county. https://github.com/CSSEGISandData/COVID-19/tree/master/csse\_covid\_19\_data
 * `education.csv`: Education level per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
