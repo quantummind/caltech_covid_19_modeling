@@ -1,24 +1,18 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# COVID-19 modeling
 
 ## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
-
-## How to Use
-To use this template for your research, fork this repository, change the name
-to something descriptive for your project, and adjust the licensing as you
-see fit.
-
-To use this repository for your own research, simply clone the repo using the following:
-
-```
-git clone https://github.com/gchure/reproducible_research your_repo_title
-```
-
-> :warning: :warning: :warning: I wouldn't advise forking this repository. As you can only fork a given repository once, there is little utility in forking this repo if you hope to use it again in your future projects :warning: :warning: :warning:
+This repository contains all of the code generated during our efforts to
+understand and model the COVID-19 outbreak.
 
 ## Layout
 
-The repository is split into seven main directories, many of which have subdirectories. This structure has been designed to be easily navigable by humans and computers alike, allowing for rapid location of specific files and instructions. Within each directory is a `README.md` file which summarizes the purpose of that directory as well as some examples where necessary. This structure may not be perfect for your intended us and may need to be modified. Each section is briefly described below. 
+The repository is split into seven main directories, many of which have
+subdirectories. This structure has been designed to be easily navigable by
+humans and computers alike, allowing for rapid location of specific files and
+instructions. Within each directory is a `README.md` file which summarizes the
+purpose of that directory as well as some examples where necessary. This
+structure may not be perfect for your intended us and may need to be modified.
+Each section is briefly described below. 
 
 ### **`code`** 
 Where all of the *executed* code lives. This includes pipelines, scripts, and figure files. 
@@ -26,6 +20,24 @@ Where all of the *executed* code lives. This includes pipelines, scripts, and fi
  * **`analysis`**: Any code to to *draw conclusions* from an experiment or data set. This may include regression, dimensionality reduction, or calculation of various quantities.
  * **`exploratory`**: A sandbox where you keep a record of your different approaches to transformation, interpretation, cleaning, or generation of data.
  * **`figures`**: Any code used to generate figures for your finished work, presentations, or for any other use.
+
+### **`covid19`** 
+Custom code written for the project that is *not* executed directly, but is
+called from files in the `code` directory.
+
+#### **Installing module**
+In order to use the functions within the `covid19` module it is necessary to
+install the package locally. This can simply be done by navigating in the
+terminal to the main project directory and typing the command
+```
+pip install -e ./
+```
+The `setup.py` file will take care of the installation. The `-e` option within
+the package allows for the constant update of the package as it might be
+subject to changes as the project is being developed.
+
+The modules contained in the package include:
+- `viz.py` : functions for data visualization and plot styling.
 
 ### **`data`** 
 All raw data collected from your experiments as well as copies of the transformed data from your processing code. 
@@ -38,9 +50,6 @@ Files that may not be code, but are important for reproducibility of your findin
 
 ### **`tests`** 
 All test suites for your code. *Any custom code you've written should be thoroughly and adequately tested to make sure you know how it is working.*
-
-### **`software_module`** 
-Custom code you've written that is *not* executed directly, but is called from files in the `code` directory. If you've written your code in Python, for example, this can be the root folder for your custom software module or simply house a file with all of your functions. 
 
 ### **`templates`** 
 Files that serve as blank templates that document the procedures taken for each experiment, simulation, or analysis routine. 
@@ -55,20 +64,28 @@ There are some files which I consider to be mandatory for any project.
 
 # License Information
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="github.com/gchure/reproducible_research">
-    <span property="dct:title">Griffin Chure</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">A template for using git as a platform for reproducible scientific research</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="github.com/gchure/reproducible_research">
-  United States</span>.
-</p>
+<img src="https://licensebuttons.net/l/by-nd/3.0/88x31.png"> This work is
+licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/). All
+software is issued under the standard MIT license which is as follows:
+
+```
+Copyright 2020, The authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
