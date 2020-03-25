@@ -13,7 +13,8 @@ US data:
 * `transit.csv`: Connectivity and frequency of transit per county. https://alltransit.cnt.org/rankings/
 * `JHU_daily_US.csv`: COVID-19 case and death counts per county. https://github.com/CSSEGISandData/COVID-19/tree/master/csse\_covid\_19\_data
 * `education.csv`: Education level per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
-* `poverty.csv`: Urbanization, incomes, and poverty rates per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+* `poverty.csv`: Urbanization and poverty rates per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+* `unemployment.csv`: Urbanization, metro areas, unemployment, and income per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 * `fips_key.csv`: FIPS to county/state name conversion. https://www.dol.gov/owcp/regs/feeschedule/fee/Effective\_May\_16\_2004\_County\_and\_State\_FIPS.htm
 
 International data:
