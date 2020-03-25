@@ -12,6 +12,8 @@ so this table might have to be joined with the FIPS code csv file in the `us` su
 
 * `hospital_beds_by_county.csv`: Initial (pre-virus) Numbers of staffed hospital beds, licensed hospital beds, and ICU beds for each county in each US state.
 
+* `icu_county.csv`: Duplicate of `icu_county.csv` in `us` subfolder. Contains number of hospitals and ICU beds for all counties in the US. **Also contains each county's total population and population over 60.**
+
 ## Sources:
 
 ### Hospital Capacity Data
