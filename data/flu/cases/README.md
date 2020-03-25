@@ -40,6 +40,23 @@ US Weekly Influenza Surveillance Report: https://www.cdc.gov/flu/weekly/#Clinica
 National and Statewide Flu Mortality Statistics:  
 https://gis.cdc.gov/grasp/fluview/mortality.html
 
+## County
+
+County related information. Only for NY and CA at this time.
+
+* `ny_flu_cases_by_county_2009_2020.csv`: Comprehensive record of public health lab confirmed flu cases in New York from 2009 to 2020. Also discriminates based on strain of influenza beyond just A and B. *County names are given, not FIPS codes,
+so this table might have to be joined with the FIPS code csv file in the `us` subfolder.*
+
+* `ca_flu_cases_byregion_2009_2018.csv`: *California flu cases not by county, but by region  (i.e. Bay Area, Central, e.t.c)*, so might need do some extrapolation to map back to counties if you want to use this data.
+
+### Sources:
+
+* CA Health Care Influenza Vaccination: https://data.ca.gov/dataset/health-care-personnel-influenza-vaccination
+
+* CA Influenza Surveillance: https://data.ca.gov/dataset/influenza-surveillance
+
+* NY Influenza Cases By County: https://healthdata.gov/dataset/influenza-laboratory-confirmed-cases-county-beginning-2009-10-season
+
 ## Virus Strain Details
 
 CDC antigenically characterizes a subset of influenza viruses by hemagglutination inhibition (HI) or neutralization based Focus Reduction assays (FRA). Antigenic drift is evaluated by comparing antigenic properties of cell-propagated reference viruses representing currently recommended vaccine components with those of cell-propagated circulating viruses. CDC antigenically characterized 446 influenza viruses collected in the United States from September 29, 2019, to March 14, 2020. These data are not used to make calculations about vaccine effectiveness (VE). CDC conducts VE studies each year to measure the benefits of flu vaccines in people.
