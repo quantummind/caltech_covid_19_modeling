@@ -49,7 +49,7 @@ for condition, url in urls.items():
 # Find home directory for repo
 repo = git.Repo("./", search_parent_directories=True)
 homedir = repo.working_dir
-datadir = f"{homedir}/data/"
+datadir = f"{homedir}/data/us/"
 
 dfs = list(output_dfs.values())
 dfs = pd.concat(dfs)
