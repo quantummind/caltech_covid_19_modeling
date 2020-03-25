@@ -46,7 +46,7 @@ County related information. Only for NY and CA at this time.
 
 * `ny_flu_cases_by_county_2009_2020.csv`: Comprehensive record of public health lab confirmed flu cases in New York from 2009 to 2020. Also discriminates based on strain of influenza beyond just A and B. *County names are given, not FIPS codes,
 so this table might have to be joined with the FIPS code csv file in the `us` subfolder.*
-
+ **EDIT: FIPS data now in table**
 * `ca_flu_cases_byregion_2009_2018.csv`: *California flu cases not by county, but by region  (i.e. Bay Area, Central, e.t.c)*, so might need do some extrapolation to map back to counties if you want to use this data.
 
 ### Sources:
