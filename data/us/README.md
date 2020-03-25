@@ -1,14 +1,8 @@
-## `data`
+## US data
 
-This directory houses all small (< 50 MB) data sets that are a result of individual experiments and/or simulations. Depending on the type of data collected, you may want to split them up based on file type.
+US datasets must all have a column named "FIPS" to encode the county code.
 
-If possible, data sets from individual experiments should be compiled in a long-form tidy format. This is important not only for your analysis, but for others who wish to reproduce your work. While you may have an intimate knowledge of your data and experimental structure, it may not be obvious to anyone else. It is much easier if you can combine the individual data sets into as few files as possible so only one or two files have to be read to perform the analysis and generate the figures. 
-
-This is **not** a place to store all of your large (> 50 MB) data files, such as images. For accessibility of these large data sets, there are myriad online data repositories such as [Zenodo](https://zenodo.org) which provide free storage and DOI generation. In addition, you should have all of your data backed up locally with redundancy.
-
-US datasets must all have a column named "FIPS" and international datasets must all have a column named "ISO" code.
-
-US data:
+Summary:
 * `confirmed_cases.csv`: Confirmed COVID cases per county. https://static.usafacts.org/public/data/covid-19/
 * `deaths.csv`: Confirmed COVID deaths per county. https://static.usafacts.org/public/data/covid-19/
 * `education.csv`: Education level per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
