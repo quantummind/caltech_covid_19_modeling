@@ -26,6 +26,9 @@ def daterange(start_date, end_date):
 
 # urls for data in Johns Hopkins github repository
 urls = {}
+
+# Note that JHU only started reporting county information from this date
+# Which is why we start our query from 3/23/2020
 start_date = date(2020, 3, 23)
 end_date = date.today()
 for d in daterange(start_date, end_date):
