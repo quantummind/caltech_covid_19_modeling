@@ -1,2515 +1,2513 @@
-state,county,staffed_beds,licensed_beds,icu_beds
-AK,Anchorage,1077,1014,60
-AK,Bethel,34,50,0
-AK,Dillingham,16,16,0
-AK,Fairbanks North Star,145,152,13
-AK,Juneau,45,73,9
-AK,Kenai Peninsula,76,77,6
-AK,Ketchikan Gateway,25,25,4
-AK,Kodiak Island,24,25,0
-AK,Matanuska Susitna,74,74,14
-AK,Nome,18,18,0
-AK,North Slope,20,14,0
-AK,Northwest Arctic,17,17,0
-AK,Petersburg,12,12,0
-AK,Sitka,25,27,0
-AK,Valdez Cordova,24,24,0
-AK,Wrangell,8,8,0
-AL,Autauga,55,85,6
-AL,Baldwin,362,410,44
-AL,Barbour,30,74,5
-AL,Bibb,25,35,0
-AL,Blount,25,40,6
-AL,Bullock,30,61,0
-AL,Butler,44,72,7
-AL,Calhoun,413,486,24
-AL,Chambers,0,115,0
-AL,Cherokee,45,60,0
-AL,Chilton,26,30,6
-AL,Choctaw,25,25,0
-AL,Clarke,56,85,0
-AL,Clay,46,53,4
-AL,Coffee,99,131,7
-AL,Colbert,300,363,22
-AL,Conecuh,44,58,0
-AL,Covington,128,187,13
-AL,Crenshaw,57,93,0
-AL,Cullman,185,185,12
-AL,Dale,77,89,6
-AL,Dallas,109,175,23
-AL,De Kalb,97,134,12
-AL,Elmore,70,138,5
-AL,Escambia,95,142,14
-AL,Etowah,590,739,40
-AL,Fayette,45,61,8
-AL,Franklin,74,125,7
-AL,Geneva,73,83,6
-AL,Greene,20,20,0
-AL,Hale,28,39,0
-AL,Houston,769,782,66
-AL,Jackson,92,170,10
-AL,Jefferson,3945,4750,281
-AL,Lauderdale,233,358,36
-AL,Lawrence,43,98,6
-AL,Lee,372,314,20
-AL,Limestone,97,102,10
-AL,Macon,143,143,0
-AL,Madison,1280,1241,58
-AL,Marengo,37,99,5
-AL,Marion,97,120,8
-AL,Marshall,240,240,20
-AL,Mobile,1490,1929,76
-AL,Monroe,49,94,8
-AL,Montgomery,1018,1226,58
-AL,Morgan,320,393,23
-AL,Pike,97,97,9
-AL,Randolph,15,0,0
-AL,Russell,105,128,8
-AL,Saint Clair,40,40,6
-AL,Shelby,246,286,32
-AL,Sumter,33,33,0
-AL,Talladega,207,285,14
-AL,Tallapoosa,80,127,6
-AL,Tuscaloosa,981,1087,52
-AL,Walker,207,267,12
-AL,Washington,15,25,0
-AL,Wilcox,21,30,0
-AL,Winston,49,59,4
-AR,Arkansas,74,74,0
-AR,Ashley,25,33,6
-AR,Baxter,170,268,17
-AR,Benton,439,524,30
-AR,Boone,120,174,24
-AR,Bradley,25,33,0
-AR,Carroll,40,40,0
-AR,Chicot,35,25,0
-AR,Clark,25,25,0
-AR,Clay,25,25,0
-AR,Cleburne,25,25,0
-AR,Columbia,30,49,6
-AR,Conway,25,25,0
-AR,Craighead,553,666,66
-AR,Crawford,35,103,8
-AR,Crittenden,63,52,0
-AR,Cross,15,25,0
-AR,Dallas,22,25,0
-AR,Desha,50,50,0
-AR,Drew,49,49,5
-AR,Faulkner,355,371,25
-AR,Franklin,25,25,0
-AR,Fulton,25,25,0
-AR,Garland,423,522,41
-AR,Greene,114,129,8
-AR,Hempstead,67,0,8
-AR,Hot Spring,64,72,6
-AR,Howard,20,20,0
-AR,Independence,184,224,12
-AR,Izard,25,25,0
-AR,Jackson,133,133,0
-AR,Jefferson,271,471,34
-AR,Johnson,57,90,8
-AR,Lawrence,25,25,0
-AR,Little River,25,25,0
-AR,Logan,40,41,0
-AR,Miller,50,62,0
-AR,Mississippi,124,25,5
-AR,Ouachita,82,98,8
-AR,Phillips,127,155,6
-AR,Polk,41,65,6
-AR,Pope,137,170,11
-AR,Pulaski,3570,3887,144
-AR,Randolph,32,50,2
-AR,Saint Francis,56,118,6
-AR,Saline,207,257,16
-AR,Scott,24,24,0
-AR,Sebastian,803,983,69
-AR,Stone,25,25,0
-AR,Union,111,166,16
-AR,Van Buren,25,25,0
-AR,Washington,900,1083,61
-AR,White,465,465,13
-AR,Yell,55,66,0
-AS,American Samoa,120,0,0
-AZ,Apache,162,50,0
-AZ,Cochise,135,160,12
-AZ,Coconino,396,381,41
-AZ,Gila,58,196,8
-AZ,Graham,49,49,0
-AZ,La Paz,42,42,3
-AZ,Maricopa,10040,10105,715
-AZ,Mohave,551,610,80
-AZ,Navajo,176,170,12
-AZ,Pima,3108,3206,287
-AZ,Pinal,262,214,24
-AZ,Santa Cruz,25,25,0
-AZ,Yavapai,374,364,39
-AZ,Yuma,447,51,42
-CA,Alameda,3633,2939,323
-CA,Amador,52,52,6
-CA,Butte,471,157,43
-CA,Calaveras,25,48,0
-CA,Contra Costa,1636,1624,163
-CA,Del Norte,39,49,6
-CA,El Dorado,189,174,28
-CA,Fresno,3056,1750,141
-CA,Glenn,15,47,0
-CA,Humboldt,233,260,20
-CA,Imperial,268,268,28
-CA,Inyo,29,29,4
-CA,Kern,1618,1330,137
-CA,Kings,142,173,22
-CA,Lake,50,62,8
-CA,Lassen,25,38,0
-CA,Los Angeles,22916,21234,2004
-CA,Madera,464,464,52
-CA,Marin,441,441,30
-CA,Mariposa,18,18,0
-CA,Mendocino,161,142,14
-CA,Merced,242,226,24
-CA,Modoc,20,20,0
-CA,Mono,17,17,2
-CA,Monterey,709,747,47
-CA,Napa,318,359,48
-CA,Nevada,129,139,10
-CA,Orange,5985,5134,629
-CA,Placer,693,732,70
-CA,Plumas,42,44,0
-CA,Riverside,3564,3583,365
-CA,Sacramento,3530,2843,262
-CA,San Benito,49,49,8
-CA,San Bernardino,6383,3628,350
-CA,San Diego,7504,6861,540
-CA,San Francisco,2947,2397,293
-CA,San Joaquin,1334,1192,110
-CA,San Luis Obispo,1685,451,54
-CA,San Mateo,2161,1600,110
-CA,Santa Barbara,631,815,62
-CA,Santa Clara,4395,3805,283
-CA,Santa Cruz,354,358,22
-CA,Shasta,571,581,81
-CA,Siskiyou,50,61,8
-CA,Solano,1006,678,92
-CA,Sonoma,824,732,82
-CA,Stanislaus,1380,1378,74
-CA,Sutter,30,14,0
-CA,Tehama,65,76,8
-CA,Trinity,25,25,0
-CA,Tulare,746,624,65
-CA,Tuolumne,84,140,6
-CA,Ventura,1456,1371,153
-CA,Yolo,125,125,14
-CA,Yuba,149,221,24
-CO,Adams,1362,1434,161
-CO,Alamosa,49,49,6
-CO,Arapahoe,1156,1329,127
-CO,Archuleta,11,11,0
-CO,Baca,15,23,0
-CO,Boulder,665,816,66
-CO,Broomfield,92,100,20
-CO,Chaffee,25,25,2
-CO,Cheyenne,11,25,0
-CO,Conejos,17,17,0
-CO,Delta,49,49,6
-CO,Denver,2030,2040,208
-CO,Douglas,691,611,54
-CO,Eagle,56,56,5
-CO,El Paso,1497,921,91
-CO,Fremont,25,25,4
-CO,Garfield,53,103,5
-CO,Grand,23,25,0
-CO,Gunnison,20,24,0
-CO,Huerfano,16,20,0
-CO,Jefferson,496,653,46
-CO,Kiowa,25,25,0
-CO,Kit Carson,19,19,0
-CO,La Plata,94,94,11
-CO,Lake,8,25,0
-CO,Larimer,560,554,43
-CO,Las Animas,25,25,0
-CO,Lincoln,15,15,0
-CO,Logan,25,25,4
-CO,Mesa,399,454,30
-CO,Moffat,25,25,0
-CO,Montezuma,25,25,4
-CO,Montrose,50,75,8
-CO,Morgan,61,75,6
-CO,Otero,0,25,0
-CO,Phillips,40,40,0
-CO,Pitkin,25,25,4
-CO,Prowers,25,25,0
-CO,Pueblo,494,1207,17
-CO,Rio Blanco,35,35,0
-CO,Rio Grande,17,17,0
-CO,Routt,39,39,4
-CO,Sedgwick,9,15,0
-CO,Summit,34,35,8
-CO,Teller,15,15,0
-CO,Weld,427,581,22
-CO,Yuma,30,15,0
-CT,Fairfield,1789,0,157
-CT,Hartford,3278,867,216
-CT,Litchfield,242,0,21
-CT,Middlesex,736,0,24
-CT,New Haven,2502,0,110
-CT,New London,419,0,22
-CT,Tolland,209,0,16
-CT,Windham,148,0,6
-DC,District Of Columbia,3077,4143,237
-DE,Kent,414,88,29
-DE,New Castle,1956,1448,93
-DE,Sussex,507,349,18
-FL,Alachua,2263,1598,66
-FL,Baker,81,1163,0
-FL,Bay,676,722,77
-FL,Bradford,25,49,0
-FL,Brevard,1867,1685,157
-FL,Broward,5791,6482,525
-FL,Calhoun,15,25,0
-FL,Charlotte,595,699,51
-FL,Citrus,332,332,40
-FL,Clay,459,503,42
-FL,Collier,1134,982,58
-FL,Columbia,456,190,27
-FL,Desoto,49,49,8
-FL,Duval,3647,3831,351
-FL,Escambia,1384,1648,85
-FL,Flagler,99,99,18
-FL,Franklin,25,25,0
-FL,Gadsden,24,949,0
-FL,Gulf,19,19,0
-FL,Hardee,25,25,0
-FL,Hendry,25,25,3
-FL,Hernando,670,670,44
-FL,Highlands,292,335,38
-FL,Hillsborough,4069,4315,411
-FL,Holmes,20,20,0
-FL,Indian River,511,566,40
-FL,Jackson,66,100,7
-FL,Lake,1060,1100,118
-FL,Lee,1698,1819,141
-FL,Leon,822,1208,50
-FL,Madison,25,25,0
-FL,Manatee,867,895,98
-FL,Marion,887,963,110
-FL,Martin,466,478,57
-FL,Miami Dade,9456,9381,540
-FL,Monroe,129,143,14
-FL,Nassau,54,62,0
-FL,Okaloosa,441,436,51
-FL,Okeechobee,100,100,8
-FL,Orange,5568,4520,334
-FL,Osceola,802,955,66
-FL,Palm Beach,4144,4179,389
-FL,Pasco,1312,1272,130
-FL,Pinellas,3475,3923,276
-FL,Polk,1641,1793,127
-FL,Putnam,99,99,10
-FL,Saint Johns,335,335,47
-FL,Saint Lucie,728,861,54
-FL,Santa Rosa,294,355,16
-FL,Sarasota,1277,1532,118
-FL,Seminole,879,934,38
-FL,Sumter,40,40,0
-FL,Suwannee,25,25,0
-FL,Taylor,48,48,6
-FL,Union,145,145,0
-FL,Volusia,1514,1574,105
-FL,Walton,112,126,28
-FL,Washington,25,59,0
-GA,Appling,34,49,3
-GA,Bacon,25,25,4
-GA,Baldwin,280,140,12
-GA,Barrow,56,56,6
-GA,Bartow,119,119,21
-GA,Ben Hill,48,75,5
-GA,Berrien,51,63,0
-GA,Bibb,992,1142,115
-GA,Bleckley,15,25,0
-GA,Brooks,25,25,0
-GA,Bulloch,182,189,24
-GA,Burke,40,40,0
-GA,Butts,25,25,0
-GA,Camden,40,40,5
-GA,Candler,25,25,6
-GA,Carroll,197,303,18
-GA,Catoosa,36,19,0
-GA,Chatham,1354,1502,62
-GA,Cherokee,114,105,0
-GA,Clarke,564,597,92
-GA,Clayton,319,416,34
-GA,Clinch,15,25,0
-GA,Cobb,1243,1278,81
-GA,Coffee,86,88,10
-GA,Colquitt,127,158,10
-GA,Cook,33,60,0
-GA,Coweta,250,186,23
-GA,Crisp,65,73,16
-GA,Dade,36,0,0
-GA,Decatur,80,80,10
-GA,Dekalb,1997,2227,278
-GA,Dodge,40,94,6
-GA,Dougherty,657,691,50
-GA,Douglas,102,108,8
-GA,Early,15,25,0
-GA,Effingham,25,25,0
-GA,Elbert,52,52,4
-GA,Emanuel,45,72,8
-GA,Evans,49,49,0
-GA,Fannin,50,50,5
-GA,Fayette,221,221,66
-GA,Floyd,435,514,42
-GA,Forsyth,304,304,24
-GA,Franklin,56,56,8
-GA,Fulton,3927,4992,519
-GA,Glynn,401,401,0
-GA,Gordon,69,69,8
-GA,Grady,46,60,4
-GA,Greene,25,25,0
-GA,Gwinnett,945,931,70
-GA,Habersham,53,53,4
-GA,Hall,545,657,85
-GA,Haralson,15,25,0
-GA,Henry,215,215,0
-GA,Houston,276,276,36
-GA,Irwin,34,34,0
-GA,Jackson,128,90,0
-GA,Jasper,12,17,0
-GA,Jeff Davis,25,25,4
-GA,Jefferson,37,37,0
-GA,Jenkins,15,25,0
-GA,Lanier,25,25,0
-GA,Laurens,145,190,16
-GA,Liberty,64,25,0
-GA,Lowndes,377,403,48
-GA,Lumpkin,0,0,0
-GA,Macon,22,49,0
-GA,Mcduffie,25,25,0
-GA,Meriwether,109,109,0
-GA,Miller,25,25,0
-GA,Mitchell,25,0,0
-GA,Monroe,25,25,0
-GA,Morgan,25,25,0
-GA,Murray,29,42,0
-GA,Muscogee,1627,1167,61
-GA,Newton,94,101,10
-GA,Paulding,112,112,8
-GA,Peach,25,25,0
-GA,Pickens,52,52,6
-GA,Polk,25,25,0
-GA,Pulaski,55,49,6
-GA,Putnam,25,25,0
-GA,Rabun,25,25,0
-GA,Randolph,25,25,0
-GA,Richmond,2160,2524,209
-GA,Rockdale,138,138,16
-GA,Screven,25,25,0
-GA,Seminole,45,65,0
-GA,Spalding,160,160,22
-GA,Stephens,74,96,6
-GA,Sumter,54,76,0
-GA,Tattnall,25,25,0
-GA,Thomas,226,264,35
-GA,Tift,181,181,20
-GA,Toombs,52,57,8
-GA,Towns,25,25,0
-GA,Troup,276,276,20
-GA,Union,39,45,5
-GA,Upson,87,115,28
-GA,Walton,164,77,7
-GA,Ware,134,231,10
-GA,Washington,56,56,0
-GA,Wayne,88,88,12
-GA,Whitfield,246,282,26
-GA,Wilkes,25,25,0
-GA,Worth,25,25,0
-GU,Guam,304,0,31
-HI,Hawaii,296,531,24
-HI,Honolulu,2716,2175,136
-HI,Kauai,102,197,9
-HI,Maui,247,366,20
-IA,Adair,25,25,0
-IA,Adams,22,22,0
-IA,Allamakee,25,25,0
-IA,Appanoose,25,45,3
-IA,Audubon,25,25,0
-IA,Benton,25,25,0
-IA,Black Hawk,384,675,29
-IA,Boone,25,42,0
-IA,Bremer,37,50,0
-IA,Buchanan,85,120,0
-IA,Buena Vista,25,35,0
-IA,Calhoun,25,25,2
-IA,Carroll,66,116,6
-IA,Cass,25,33,4
-IA,Cerro Gordo,205,346,18
-IA,Cherokee,61,83,0
-IA,Chickasaw,8,18,0
-IA,Clarke,25,25,0
-IA,Clay,49,99,0
-IA,Clayton,40,50,0
-IA,Clinton,120,265,10
-IA,Crawford,25,25,0
-IA,Dallas,25,25,0
-IA,Davis,25,25,0
-IA,Decatur,11,25,0
-IA,Delaware,25,25,0
-IA,Des Moines,136,213,12
-IA,Dickinson,44,49,0
-IA,Dubuque,257,470,18
-IA,Emmet,22,25,0
-IA,Fayette,50,50,0
-IA,Floyd,25,25,0
-IA,Franklin,25,25,0
-IA,Fremont,25,25,0
-IA,Greene,25,25,0
-IA,Grundy,25,80,0
-IA,Guthrie,25,25,0
-IA,Hamilton,25,25,0
-IA,Hancock,25,25,0
-IA,Hardin,19,35,0
-IA,Harrison,25,25,0
-IA,Henry,25,74,0
-IA,Howard,18,19,0
-IA,Humboldt,17,49,0
-IA,Ida,25,25,0
-IA,Iowa,25,25,0
-IA,Jackson,25,25,0
-IA,Jasper,48,68,0
-IA,Jefferson,25,25,0
-IA,Johnson,1152,1383,18
-IA,Jones,22,22,0
-IA,Keokuk,25,25,0
-IA,Kossuth,24,25,0
-IA,Lee,99,121,3
-IA,Linn,495,994,36
-IA,Lucas,25,25,0
-IA,Lyon,11,0,0
-IA,Madison,25,25,0
-IA,Mahaska,25,33,0
-IA,Marion,50,50,3
-IA,Marshall,41,125,0
-IA,Mitchell,25,25,0
-IA,Monona,25,25,0
-IA,Monroe,25,25,0
-IA,Montgomery,25,25,8
-IA,Muscatine,45,48,5
-IA,Obrien,39,39,0
-IA,Osceola,25,25,0
-IA,Page,50,50,2
-IA,Palo Alto,24,47,0
-IA,Plymouth,25,25,0
-IA,Pocahontas,25,25,0
-IA,Polk,1869,1781,84
-IA,Pottawattamie,255,514,29
-IA,Poweshiek,49,49,5
-IA,Ringgold,16,16,0
-IA,Sac,25,25,0
-IA,Scott,496,641,39
-IA,Shelby,25,25,0
-IA,Sioux,94,96,0
-IA,Story,175,237,14
-IA,Union,25,25,4
-IA,Van Buren,25,25,0
-IA,Wapello,88,217,11
-IA,Washington,25,25,0
-IA,Wayne,25,25,0
-IA,Webster,46,200,8
-IA,Winneshiek,25,25,0
-IA,Woodbury,316,830,34
-IA,Wright,47,47,0
-ID,Ada,1405,1209,88
-ID,Bannock,137,205,20
-ID,Bear Lake,21,21,0
-ID,Benewah,19,19,0
-ID,Bingham,131,145,5
-ID,Blaine,25,25,0
-ID,Bonner,25,25,4
-ID,Bonneville,267,332,35
-ID,Boundary,20,20,0
-ID,Butte,14,14,0
-ID,Canyon,282,346,41
-ID,Caribou,25,25,0
-ID,Cassia,31,25,6
-ID,Clearwater,78,83,0
-ID,Elmore,21,25,0
-ID,Franklin,20,20,0
-ID,Gem,13,16,0
-ID,Gooding,16,18,0
-ID,Idaho,40,41,0
-ID,Jerome,25,25,0
-ID,Kootenai,401,403,55
-ID,Latah,25,25,3
-ID,Lemhi,18,18,0
-ID,Madison,67,69,4
-ID,Minidoka,16,25,0
-ID,Nez Perce,110,145,9
-ID,Oneida,11,11,0
-ID,Power,10,10,0
-ID,Shoshone,21,25,0
-ID,Teton,13,13,0
-ID,Twin Falls,186,224,30
-ID,Valley,23,25,0
-ID,Washington,19,25,0
-IL,Adams,248,307,25
-IL,Bond,32,42,0
-IL,Boone,36,34,0
-IL,Bureau,69,94,9
-IL,Champaign,637,603,13
-IL,Christian,47,47,0
-IL,Clay,20,20,0
-IL,Clinton,46,70,0
-IL,Coles,82,149,0
-IL,Cook,18615,18128,1299
-IL,Crawford,25,63,0
-IL,Dekalb,192,192,16
-IL,Dewitt,15,25,0
-IL,Dupage,2083,2253,241
-IL,Edgar,25,25,0
-IL,Effingham,133,133,10
-IL,Fayette,29,110,4
-IL,Ford,25,41,2
-IL,Franklin,16,16,0
-IL,Fulton,43,87,5
-IL,Greene,25,25,0
-IL,Grundy,89,89,8
-IL,Hamilton,25,25,0
-IL,Hancock,18,18,0
-IL,Hardin,25,25,0
-IL,Henry,50,86,3
-IL,Iroquois,25,25,0
-IL,Jackson,179,179,21
-IL,Jefferson,171,181,22
-IL,Jersey,46,65,4
-IL,Jo Daviess,18,25,0
-IL,Kane,1114,890,65
-IL,Kankakee,460,500,18
-IL,Knox,177,254,18
-IL,La Salle,164,171,13
-IL,Lake,975,1158,108
-IL,Lawrence,25,25,0
-IL,Lee,66,80,6
-IL,Livingston,42,42,5
-IL,Logan,25,25,0
-IL,Macon,446,424,35
-IL,Macoupin,50,50,0
-IL,Madison,677,929,58
-IL,Marion,107,149,9
-IL,Mason,25,25,0
-IL,Massac,25,25,0
-IL,Mcdonough,45,60,7
-IL,Mchenry,437,476,33
-IL,Mclean,343,370,30
-IL,Mercer,22,22,0
-IL,Montgomery,50,50,0
-IL,Morgan,93,131,9
-IL,Ogle,17,16,4
-IL,Peoria,1122,1226,95
-IL,Perry,42,42,0
-IL,Piatt,16,16,0
-IL,Pike,25,35,0
-IL,Randolph,171,75,0
-IL,Richland,47,134,8
-IL,Rock Island,480,510,27
-IL,Saint Clair,556,736,42
-IL,Saline,65,102,0
-IL,Sangamon,1004,1012,83
-IL,Schuyler,22,22,0
-IL,Shelby,30,30,0
-IL,Stephenson,100,100,8
-IL,Tazewell,132,132,8
-IL,Union,113,47,0
-IL,Vermilion,179,198,12
-IL,Wabash,25,25,4
-IL,Warren,23,23,0
-IL,Washington,22,50,0
-IL,Wayne,25,55,4
-IL,Whiteside,121,123,9
-IL,Will,850,923,73
-IL,Williamson,294,212,26
-IL,Winnebago,932,936,90
-IL,Woodford,25,25,0
-IN,Adams,25,0,4
-IN,Allen,2176,0,134
-IN,Bartholomew,225,0,17
-IN,Blackford,15,0,0
-IN,Boone,68,0,8
-IN,Cass,165,0,5
-IN,Clark,253,0,22
-IN,Clay,25,0,0
-IN,Clinton,25,0,0
-IN,Daviess,42,0,5
-IN,Dearborn,102,0,8
-IN,Decatur,25,0,0
-IN,Dekalb,37,0,8
-IN,Delaware,368,0,36
-IN,Dubois,111,0,26
-IN,Elkhart,338,0,35
-IN,Floyd,269,236,16
-IN,Fulton,25,0,4
-IN,Gibson,25,0,5
-IN,Grant,347,0,19
-IN,Greene,25,0,5
-IN,Hamilton,1033,0,25
-IN,Hancock,73,0,24
-IN,Harrison,25,0,4
-IN,Hendricks,266,0,28
-IN,Henry,48,0,10
-IN,Howard,250,0,21
-IN,Huntington,36,0,0
-IN,Jackson,91,0,7
-IN,Jasper,25,0,4
-IN,Jay,25,0,0
-IN,Jefferson,238,0,6
-IN,Jennings,25,0,0
-IN,Johnson,195,0,6
-IN,Knox,99,0,30
-IN,Kosciusko,88,0,14
-IN,La Porte,278,0,34
-IN,Lagrange,25,0,0
-IN,Lake,2067,0,181
-IN,Lawrence,50,0,6
-IN,Madison,303,0,38
-IN,Marion,4230,0,318
-IN,Marshall,157,0,7
-IN,Miami,25,0,4
-IN,Monroe,357,0,24
-IN,Montgomery,29,0,5
-IN,Morgan,199,0,0
-IN,Noble,47,0,0
-IN,Orange,24,0,0
-IN,Perry,25,0,4
-IN,Porter,340,0,32
-IN,Pulaski,25,0,0
-IN,Putnam,25,0,6
-IN,Randolph,25,0,0
-IN,Ripley,25,0,7
-IN,Rush,25,0,0
-IN,Scott,25,0,4
-IN,Shelby,46,0,6
-IN,St Joseph,1582,0,74
-IN,Starke,15,0,1
-IN,Steuben,25,0,2
-IN,Sullivan,25,0,4
-IN,Tippecanoe,576,0,30
-IN,Tipton,25,0,0
-IN,Vanderburgh,1053,0,127
-IN,Vermillion,25,0,6
-IN,Vigo,494,0,54
-IN,Wabash,18,0,0
-IN,Warren,16,0,0
-IN,Warrick,454,0,24
-IN,Washington,25,0,0
-IN,Wayne,376,0,30
-IN,Wells,62,0,7
-IN,White,25,0,0
-IN,Whitley,30,0,0
-KS,Allen,25,25,0
-KS,Anderson,12,12,0
-KS,Atchison,25,25,4
-KS,Barber,32,35,0
-KS,Barton,76,81,4
-KS,Brown,25,25,0
-KS,Butler,108,132,16
-KS,Chautauqua,17,25,0
-KS,Cherokee,46,61,0
-KS,Cheyenne,16,16,0
-KS,Clark,39,43,0
-KS,Clay,17,25,0
-KS,Cloud,22,25,0
-KS,Coffey,25,25,0
-KS,Comanche,12,12,0
-KS,Cowley,53,74,4
-KS,Crawford,89,158,12
-KS,Decatur,21,24,0
-KS,Dickinson,34,60,0
-KS,Douglas,110,148,10
-KS,Edwards,12,12,0
-KS,Ellis,149,194,34
-KS,Ellsworth,18,20,0
-KS,Finney,90,100,8
-KS,Ford,60,99,10
-KS,Franklin,44,44,5
-KS,Geary,96,92,6
-KS,Gove,21,21,0
-KS,Graham,20,20,0
-KS,Grant,26,26,0
-KS,Greeley,18,18,0
-KS,Greenwood,25,25,0
-KS,Hamilton,25,25,0
-KS,Harper,25,0,0
-KS,Harvey,134,163,6
-KS,Haskell,13,13,0
-KS,Hodgeman,25,13,0
-KS,Jackson,12,25,0
-KS,Jefferson,25,38,0
-KS,Jewell,24,25,0
-KS,Johnson,1519,1800,97
-KS,Kearny,25,25,0
-KS,Kingman,25,25,0
-KS,Kiowa,15,15,0
-KS,Labette,46,99,5
-KS,Lane,25,25,0
-KS,Leavenworth,46,100,10
-KS,Lincoln,10,14,0
-KS,Logan,25,25,0
-KS,Lyon,21,25,6
-KS,Marion,25,25,0
-KS,Marshall,23,25,0
-KS,Mcpherson,81,95,7
-KS,Meade,20,20,0
-KS,Miami,104,245,106
-KS,Mitchell,16,35,4
-KS,Montgomery,47,47,7
-KS,Morris,25,25,0
-KS,Morton,26,28,0
-KS,Nemaha,41,49,0
-KS,Neosho,22,25,5
-KS,Ness,37,32,0
-KS,Norton,25,25,0
-KS,Osborne,24,25,0
-KS,Ottawa,25,25,0
-KS,Pawnee,121,638,0
-KS,Phillips,25,25,0
-KS,Pottawatomie,43,97,0
-KS,Pratt,35,35,6
-KS,Rawlins,15,24,0
-KS,Reno,137,209,18
-KS,Republic,25,63,0
-KS,Rice,25,25,0
-KS,Riley,99,163,8
-KS,Rooks,16,25,0
-KS,Rush,16,16,0
-KS,Russell,19,25,0
-KS,Saline,191,392,18
-KS,Scott,25,25,0
-KS,Sedgwick,2072,2661,147
-KS,Seward,71,69,8
-KS,Shawnee,748,1043,36
-KS,Sheridan,18,18,0
-KS,Sherman,21,25,0
-KS,Smith,16,25,0
-KS,Stafford,25,25,0
-KS,Stanton,16,18,0
-KS,Stevens,17,25,0
-KS,Sumner,25,0,0
-KS,Thomas,21,25,1
-KS,Trego,25,25,0
-KS,Washington,50,50,0
-KS,Wichita,25,0,0
-KS,Wilson,40,49,0
-KS,Wyandotte,1059,1316,129
-KY,Allen,25,25,0
-KY,Barren,108,180,10
-KY,Bell,87,216,7
-KY,Boone,166,201,18
-KY,Bourbon,34,58,4
-KY,Boyd,574,645,50
-KY,Boyle,170,197,22
-KY,Breathitt,49,55,4
-KY,Breckinridge,25,25,0
-KY,Caldwell,25,25,0
-KY,Calloway,99,152,10
-KY,Campbell,156,278,21
-KY,Carroll,25,25,0
-KY,Casey,24,24,0
-KY,Christian,431,786,18
-KY,Clark,54,54,8
-KY,Clay,49,0,6
-KY,Clinton,38,42,0
-KY,Crittenden,48,48,0
-KY,Cumberland,25,25,0
-KY,Daviess,507,527,32
-KY,Estill,25,25,0
-KY,Fayette,2440,2449,248
-KY,Fleming,52,52,3
-KY,Floyd,177,50,16
-KY,Franklin,116,173,10
-KY,Grant,15,25,0
-KY,Graves,95,107,8
-KY,Grayson,75,75,6
-KY,Green,25,35,0
-KY,Hardin,428,480,10
-KY,Harlan,81,150,7
-KY,Harrison,61,61,6
-KY,Hart,25,25,0
-KY,Henderson,118,192,12
-KY,Hopkins,445,410,19
-KY,Jefferson,3730,4468,355
-KY,Johnson,72,72,6
-KY,Kenton,1217,639,46
-KY,Knox,25,25,6
-KY,Laurel,106,150,14
-KY,Lawrence,65,90,6
-KY,Leslie,25,25,0
-KY,Letcher,90,90,6
-KY,Lincoln,25,25,0
-KY,Livingston,25,25,0
-KY,Logan,75,75,6
-KY,Madison,85,130,12
-KY,Marion,63,75,6
-KY,Marshall,25,25,4
-KY,Mason,100,100,5
-KY,Mccracken,573,1081,34
-KY,Mercer,25,25,4
-KY,Monroe,49,49,0
-KY,Montgomery,42,42,4
-KY,Morgan,25,25,0
-KY,Muhlenberg,47,90,6
-KY,Nelson,40,40,4
-KY,Ohio,25,25,4
-KY,Oldham,90,120,8
-KY,Perry,229,358,32
-KY,Pike,356,413,76
-KY,Pulaski,230,283,38
-KY,Rockcastle,20,20,0
-KY,Rowan,90,149,14
-KY,Russell,25,25,2
-KY,Scott,75,75,6
-KY,Shelby,30,70,4
-KY,Simpson,25,25,0
-KY,Taylor,90,90,8
-KY,Trigg,25,25,0
-KY,Union,25,25,0
-KY,Warren,639,733,32
-KY,Wayne,25,25,0
-KY,Whitley,280,273,0
-KY,Woodford,25,25,0
-LA,Acadia,171,170,4
-LA,Allen,74,109,3
-LA,Ascension,151,131,7
-LA,Assumption,15,15,0
-LA,Avoyelles,92,69,2
-LA,Beauregard,80,20,6
-LA,Bienville,21,21,0
-LA,Bossier,267,272,18
-LA,Caddo,1853,2099,94
-LA,Calcasieu,802,905,75
-LA,Caldwell,77,87,0
-LA,Cameron,49,49,0
-LA,Claiborne,37,47,4
-LA,Concordia,65,65,5
-LA,De Soto,34,34,0
-LA,East Baton Rouge,2355,2297,99
-LA,East Carroll,23,23,0
-LA,East Feliciana,636,633,0
-LA,Evangeline,223,285,24
-LA,Franklin,29,37,6
-LA,Iberia,317,269,11
-LA,Iberville,10,0,0
-LA,Jackson,25,25,0
-LA,Jefferson,2463,2141,157
-LA,Jefferson Davis,92,65,5
-LA,La Salle,55,81,0
-LA,Lafayette,1379,1224,74
-LA,Lafourche,178,240,21
-LA,Lincoln,258,238,17
-LA,Madison,25,25,0
-LA,Morehouse,109,119,6
-LA,Natchitoches,102,117,8
-LA,Orleans,1428,2009,62
-LA,Ouachita,806,622,88
-LA,Pointe Coupee,25,26,0
-LA,Rapides,1438,1425,26
-LA,Red River,37,37,0
-LA,Richland,63,63,2
-LA,Sabine,48,48,0
-LA,Saint Bernard,40,40,8
-LA,Saint Charles,39,59,8
-LA,Saint Helena,25,25,0
-LA,Saint James,44,44,0
-LA,Saint Landry,517,257,22
-LA,Saint Martin,43,43,0
-LA,Saint Mary,152,186,15
-LA,Saint Tammany,1237,1138,207
-LA,St John The Baptist,82,82,0
-LA,Tangipahoa,536,536,64
-LA,Terrebonne,344,567,26
-LA,Union,35,35,0
-LA,Vermilion,69,95,6
-LA,Vernon,126,112,7
-LA,Washington,61,117,13
-LA,Webster,171,219,16
-LA,West Carroll,30,30,0
-LA,West Feliciana,25,25,0
-LA,Winn,46,60,5
-MA,Barnstable,410,407,21
-MA,Berkshire,245,323,24
-MA,Bristol,1492,1322,96
-MA,Dukes,25,25,0
-MA,Essex,1732,1173,98
-MA,Franklin,89,89,6
-MA,Hampden,1620,1626,83
-MA,Hampshire,118,140,11
-MA,Middlesex,4474,3756,206
-MA,Nantucket,19,19,0
-MA,Norfolk,1219,1095,59
-MA,Plymouth,853,435,47
-MA,Suffolk,5844,5363,453
-MA,Worcester,3234,2507,119
-MD,Allegany,288,319,14
-MD,Anne Arundel,483,673,50
-MD,Baltimore,1739,1969,94
-MD,Baltimore City,3735,3816,377
-MD,Calvert,41,74,4
-MD,Carroll,675,668,12
-MD,Cecil,182,82,5
-MD,Charles,98,109,10
-MD,Dorchester,122,132,0
-MD,Frederick,281,257,18
-MD,Garrett,27,27,2
-MD,Harford,231,257,19
-MD,Howard,267,267,16
-MD,Kent,21,26,6
-MD,Montgomery,1716,1439,143
-MD,Prince Georges,490,654,78
-MD,Saint Marys,96,109,12
-MD,Talbot,48,120,16
-MD,Washington,340,362,17
-MD,Wicomico,418,348,24
-MD,Worcester,32,45,6
-ME,Androscoggin,361,483,34
-ME,Aroostook,166,228,12
-ME,Cumberland,1215,1184,50
-ME,Franklin,48,65,5
-ME,Hancock,98,114,6
-ME,Kennebec,297,335,16
-ME,Knox,81,109,8
-ME,Lincoln,25,25,4
-ME,Oxford,50,75,4
-ME,Penobscot,581,773,51
-ME,Piscataquis,50,25,0
-ME,Somerset,50,50,4
-ME,Waldo,25,25,4
-ME,Washington,50,50,0
-ME,York,206,287,14
-MI,Alger,11,11,0
-MI,Allegan,25,25,0
-MI,Alpena,128,124,9
-MI,Arenac,25,25,5
-MI,Baraga,15,15,0
-MI,Barry,25,49,6
-MI,Bay,328,387,32
-MI,Benzie,8,8,0
-MI,Berrien,311,335,20
-MI,Branch,87,71,10
-MI,Calhoun,262,298,32
-MI,Cass,25,25,0
-MI,Charlevoix,25,25,0
-MI,Chippewa,49,82,6
-MI,Clare,49,49,0
-MI,Clinton,59,25,2
-MI,Crawford,49,71,6
-MI,Delta,25,25,9
-MI,Dickinson,56,49,6
-MI,Eaton,45,45,0
-MI,Emmet,187,202,18
-MI,Genesee,1047,1151,109
-MI,Gladwin,25,25,0
-MI,Gogebic,25,25,5
-MI,Grand Traverse,409,425,20
-MI,Gratiot,49,67,0
-MI,Hillsdale,44,65,4
-MI,Houghton,61,61,5
-MI,Huron,98,98,4
-MI,Ingham,925,966,115
-MI,Ionia,25,0,2
-MI,Iosco,47,47,4
-MI,Iron,25,25,3
-MI,Isabella,83,118,8
-MI,Jackson,469,389,34
-MI,Kalamazoo,904,806,70
-MI,Kalkaska,8,8,0
-MI,Kent,2502,1717,142
-MI,Lapeer,183,183,10
-MI,Lenawee,113,113,9
-MI,Livingston,142,177,8
-MI,Luce,25,25,0
-MI,Mackinac,15,15,0
-MI,Macomb,1362,1101,122
-MI,Manistee,45,45,0
-MI,Marquette,263,289,26
-MI,Mason,45,49,6
-MI,Mecosta,49,69,4
-MI,Midland,324,324,26
-MI,Monroe,153,217,14
-MI,Montcalm,109,126,12
-MI,Muskegon,362,413,44
-MI,Newaygo,25,25,9
-MI,Oakland,4188,4383,369
-MI,Oceana,24,24,0
-MI,Ogemaw,88,88,0
-MI,Ontonagon,25,25,0
-MI,Osceola,25,25,4
-MI,Otsego,46,46,4
-MI,Ottawa,325,327,22
-MI,Saginaw,1014,912,46
-MI,Saint Clair,372,375,23
-MI,Saint Joseph,97,144,4
-MI,Sanilac,65,65,0
-MI,Schoolcraft,12,12,0
-MI,Shiawassee,133,129,7
-MI,Tuscola,198,50,0
-MI,Van Buren,74,74,0
-MI,Washtenaw,2176,1720,46
-MI,Wayne,5387,5921,411
-MI,Wexford,49,49,20
-MN,Aitkin,25,25,4
-MN,Anoka,941,546,35
-MN,Becker,36,87,8
-MN,Beltrami,128,118,10
-MN,Big Stone,40,40,0
-MN,Blue Earth,167,272,29
-MN,Brown,40,78,0
-MN,Carlton,47,61,2
-MN,Carver,109,109,18
-MN,Cass,5,0,0
-MN,Chippewa,25,30,0
-MN,Chisago,55,61,10
-MN,Clearwater,25,25,0
-MN,Cook,16,16,0
-MN,Cottonwood,26,26,0
-MN,Crow Wing,168,204,16
-MN,Dakota,179,207,12
-MN,Douglas,99,127,8
-MN,Faribault,24,43,4
-MN,Freeborn,159,159,18
-MN,Goodhue,65,65,4
-MN,Grant,10,10,0
-MN,Hennepin,3717,5441,215
-MN,Hubbard,25,50,0
-MN,Isanti,70,86,0
-MN,Itasca,76,104,0
-MN,Jackson,14,20,0
-MN,Kanabec,25,49,4
-MN,Kandiyohi,81,136,8
-MN,Kittson,15,15,0
-MN,Koochiching,18,25,0
-MN,Lac Qui Parle,32,32,0
-MN,Lake,16,25,0
-MN,Lake Of The Woods,15,15,0
-MN,Le Sueur,9,15,0
-MN,Lincoln,44,44,0
-MN,Lyon,50,74,0
-MN,Mahnomen,10,18,0
-MN,Marshall,12,12,0
-MN,Martin,55,57,0
-MN,Mcleod,74,115,6
-MN,Meeker,25,35,0
-MN,Mille Lacs,61,82,4
-MN,Morrison,25,49,0
-MN,Mower,80,0,0
-MN,Murray,20,25,0
-MN,Nicollet,65,17,0
-MN,Nobles,48,48,0
-MN,Norman,14,14,0
-MN,Olmsted,1986,2120,218
-MN,Otter Tail,121,133,5
-MN,Pennington,41,26,0
-MN,Pine,9,30,0
-MN,Pipestone,18,44,0
-MN,Polk,54,92,5
-MN,Pope,19,34,0
-MN,Ramsey,1461,1899,115
-MN,Redwood,25,25,0
-MN,Renville,16,16,0
-MN,Rice,69,86,0
-MN,Rock,25,28,0
-MN,Roseau,25,25,0
-MN,Saint Louis,1195,1121,78
-MN,Scott,109,142,0
-MN,Sherburne,16,0,0
-MN,Sibley,16,20,0
-MN,Stearns,535,575,42
-MN,Steele,29,43,0
-MN,Stevens,25,49,0
-MN,Swift,33,46,0
-MN,Todd,14,34,0
-MN,Traverse,15,25,0
-MN,Wabasha,32,43,0
-MN,Wadena,125,86,5
-MN,Waseca,15,35,0
-MN,Washington,154,183,31
-MN,Watonwan,50,50,0
-MN,Wilkin,25,25,0
-MN,Winona,49,49,8
-MN,Wright,85,104,3
-MN,Yellow Medicine,47,55,0
-MO,Adair,51,93,10
-MO,Atchison,16,18,0
-MO,Audrain,40,88,0
-MO,Barry,43,43,0
-MO,Barton,25,25,4
-MO,Bates,44,60,0
-MO,Boone,1260,494,114
-MO,Buchanan,501,393,21
-MO,Butler,434,582,14
-MO,Callaway,56,37,0
-MO,Camden,114,130,18
-MO,Cape Girardeau,494,601,31
-MO,Carroll,21,25,0
-MO,Cass,96,106,9
-MO,Cedar,25,25,0
-MO,Christian,48,48,0
-MO,Clay,694,905,34
-MO,Clinton,34,58,5
-MO,Cole,254,268,25
-MO,Dent,25,55,0
-MO,Franklin,173,183,13
-MO,Gasconade,24,24,0
-MO,Gentry,25,35,0
-MO,Greene,1632,1955,129
-MO,Grundy,21,25,0
-MO,Harrison,14,19,0
-MO,Henry,96,97,8
-MO,Howell,128,139,12
-MO,Iron,15,15,0
-MO,Jackson,2419,3018,279
-MO,Jasper,706,706,87
-MO,Jefferson,279,341,28
-MO,Johnson,46,75,0
-MO,Laclede,43,58,4
-MO,Lafayette,25,32,2
-MO,Lawrence,25,53,0
-MO,Lincoln,25,25,4
-MO,Linn,25,54,0
-MO,Livingston,25,25,0
-MO,Macon,25,25,0
-MO,Madison,25,144,0
-MO,Marion,86,99,8
-MO,Newton,25,49,0
-MO,Nodaway,38,81,0
-MO,Pemiscot,49,167,7
-MO,Perry,25,25,0
-MO,Pettis,108,145,9
-MO,Phelps,172,242,18
-MO,Pike,25,25,0
-MO,Platte,118,97,0
-MO,Polk,52,86,8
-MO,Pulaski,46,0,0
-MO,Putnam,15,15,0
-MO,Randolph,33,99,8
-MO,Ray,25,34,0
-MO,Saint Charles,1208,1016,39
-MO,Saint Clair,12,12,0
-MO,Saint Francois,433,133,10
-MO,Saint Louis,5172,4894,460
-MO,Saint Louis City,2694,2281,196
-MO,Sainte Genevieve,25,47,0
-MO,Saline,42,60,7
-MO,Scotland,25,25,0
-MO,Scott,110,144,12
-MO,Stoddard,48,48,4
-MO,Sullivan,17,25,0
-MO,Taney,105,157,18
-MO,Texas,47,66,4
-MO,Vernon,57,140,6
-MO,Washington,25,25,0
-MP,Saipan,74,0,4
-MS,Adams,147,179,15
-MS,Alcorn,163,200,24
-MS,Attala,25,25,0
-MS,Bolivar,152,164,8
-MS,Calhoun,25,25,0
-MS,Chickasaw,39,84,0
-MS,Choctaw,15,25,0
-MS,Claiborne,22,32,0
-MS,Clarke,25,25,0
-MS,Clay,49,49,6
-MS,Coahoma,181,181,10
-MS,Copiah,25,0,0
-MS,Covington,25,35,0
-MS,Desoto,470,514,8
-MS,Forrest,587,723,57
-MS,Franklin,24,25,0
-MS,George,42,48,6
-MS,Greene,7,7,0
-MS,Grenada,49,156,0
-MS,Hancock,47,102,6
-MS,Harrison,854,834,57
-MS,Hinds,2237,1876,149
-MS,Holmes,25,25,0
-MS,Jackson,571,571,48
-MS,Jasper,16,16,0
-MS,Jefferson,12,30,0
-MS,Jefferson Davis,25,35,0
-MS,Jones,268,285,14
-MS,Kemper,25,25,0
-MS,Lafayette,169,217,24
-MS,Lamar,45,50,0
-MS,Lauderdale,767,787,39
-MS,Lawrence,25,25,0
-MS,Leake,25,25,0
-MS,Lee,700,700,24
-MS,Leflore,173,208,9
-MS,Lincoln,90,99,5
-MS,Lowndes,158,315,18
-MS,Madison,67,67,7
-MS,Marion,49,49,6
-MS,Marshall,27,40,0
-MS,Monroe,120,130,9
-MS,Montgomery,25,25,0
-MS,Neshoba,83,73,0
-MS,Noxubee,25,25,0
-MS,Oktibbeha,88,96,6
-MS,Panola,45,112,0
-MS,Pearl River,73,84,6
-MS,Perry,22,22,0
-MS,Pike,177,191,16
-MS,Pontotoc,25,25,0
-MS,Prentiss,39,114,0
-MS,Rankin,583,2030,18
-MS,Scott,50,60,0
-MS,Sharkey,19,29,0
-MS,Simpson,69,99,0
-MS,Smith,19,29,0
-MS,Stone,25,25,0
-MS,Sunflower,126,84,0
-MS,Tallahatchie,9,18,0
-MS,Tippah,25,25,0
-MS,Tishomingo,48,48,0
-MS,Union,92,153,8
-MS,Walthall,25,25,0
-MS,Warren,336,396,22
-MS,Washington,541,364,22
-MS,Wayne,49,80,6
-MS,Webster,38,38,0
-MS,Wilkinson,16,25,0
-MS,Winston,14,41,0
-MS,Yalobusha,26,26,0
-MS,Yazoo,25,25,0
-MT,Beaverhead,18,0,0
-MT,Big Horn,49,0,0
-MT,Blaine,6,0,0
-MT,Broadwater,25,0,0
-MT,Carbon,10,0,0
-MT,Carter,25,0,0
-MT,Cascade,552,635,20
-MT,Chouteau,33,0,0
-MT,Custer,25,0,4
-MT,Daniels,25,0,0
-MT,Dawson,25,0,3
-MT,Deer Lodge,199,0,0
-MT,Fallon,25,0,0
-MT,Fergus,23,0,0
-MT,Flathead,220,30,22
-MT,Gallatin,87,86,8
-MT,Garfield,4,0,0
-MT,Glacier,46,0,0
-MT,Granite,25,0,0
-MT,Hill,49,49,6
-MT,Lake,47,0,0
-MT,Lewis And Clark,131,143,8
-MT,Liberty,25,0,0
-MT,Lincoln,25,0,0
-MT,Madison,20,0,0
-MT,Mccone,25,0,0
-MT,Meagher,25,0,0
-MT,Mineral,24,0,0
-MT,Missoula,299,404,32
-MT,Musselshell,25,0,0
-MT,Park,25,0,4
-MT,Phillips,6,0,0
-MT,Pondera,20,0,0
-MT,Powell,16,0,0
-MT,Prairie,22,0,0
-MT,Ravalli,25,0,5
-MT,Richland,25,0,0
-MT,Roosevelt,75,0,0
-MT,Rosebud,25,0,1
-MT,Sanders,16,0,0
-MT,Sheridan,19,0,0
-MT,Silver Bow,71,98,11
-MT,Stillwater,10,0,0
-MT,Sweet Grass,25,0,0
-MT,Teton,25,0,0
-MT,Toole,21,0,0
-MT,Valley,25,0,0
-MT,Wheatland,25,0,0
-MT,Yellowstone,577,611,41
-NC,Alamance,176,238,20
-NC,Alleghany,25,41,0
-NC,Anson,15,15,0
-NC,Ashe,25,76,0
-NC,Avery,21,50,0
-NC,Beaufort,72,142,8
-NC,Bertie,6,6,0
-NC,Bladen,25,58,4
-NC,Brunswick,126,99,19
-NC,Buncombe,1708,884,146
-NC,Burke,587,315,16
-NC,Cabarrus,540,497,15
-NC,Caldwell,110,110,12
-NC,Carteret,99,135,8
-NC,Catawba,426,613,52
-NC,Chatham,25,25,4
-NC,Cherokee,25,57,0
-NC,Chowan,25,49,4
-NC,Cleveland,292,308,57
-NC,Columbus,154,154,0
-NC,Craven,286,350,72
-NC,Cumberland,726,700,56
-NC,Dare,21,21,0
-NC,Davidson,154,240,29
-NC,Davie,50,50,0
-NC,Duplin,49,81,9
-NC,Durham,1376,1374,70
-NC,Edgecombe,101,117,15
-NC,Forsyth,2172,1878,180
-NC,Gaston,423,475,57
-NC,Granville,1342,142,6
-NC,Guilford,1354,1411,107
-NC,Halifax,106,204,16
-NC,Harnett,268,151,14
-NC,Haywood,122,159,12
-NC,Henderson,233,325,27
-NC,Hertford,70,114,10
-NC,Hoke,61,49,0
-NC,Iredell,406,514,36
-NC,Jackson,82,86,9
-NC,Johnston,229,199,24
-NC,Lee,127,137,8
-NC,Lenoir,1086,261,0
-NC,Lincoln,101,101,10
-NC,Macon,49,83,5
-NC,Martin,43,49,6
-NC,Mcdowell,49,65,9
-NC,Mecklenburg,2898,2646,141
-NC,Mitchell,25,46,0
-NC,Montgomery,4,37,0
-NC,Moore,412,402,0
-NC,Nash,372,395,21
-NC,New Hanover,992,769,29
-NC,Onslow,306,162,14
-NC,Orange,1086,905,0
-NC,Pasquotank,91,182,10
-NC,Pender,25,86,0
-NC,Person,38,98,6
-NC,Pitt,930,909,71
-NC,Polk,25,35,6
-NC,Randolph,145,145,12
-NC,Richmond,99,99,0
-NC,Robeson,256,452,25
-NC,Rockingham,218,218,9
-NC,Rowan,169,268,20
-NC,Rutherford,111,143,18
-NC,Sampson,71,146,8
-NC,Scotland,97,104,8
-NC,Stanly,97,109,10
-NC,Stokes,25,99,0
-NC,Surry,181,226,10
-NC,Swain,44,48,0
-NC,Transylvania,25,92,4
-NC,Union,182,252,14
-NC,Vance,91,102,20
-NC,Wake,2920,1704,117
-NC,Washington,25,0,0
-NC,Watauga,95,117,10
-NC,Wayne,514,316,16
-NC,Wilkes,93,130,8
-NC,Wilson,270,294,14
-ND,Adams,25,25,0
-ND,Barnes,25,25,0
-ND,Bottineau,25,25,0
-ND,Bowman,23,23,0
-ND,Burleigh,458,510,52
-ND,Cass,1407,1052,111
-ND,Cavalier,20,20,0
-ND,Dickey,20,20,0
-ND,Divide,15,15,0
-ND,Emmons,14,14,0
-ND,Foster,25,25,0
-ND,Grand Forks,384,404,16
-ND,Grant,30,30,0
-ND,Griggs,18,18,0
-ND,Mcintosh,44,44,0
-ND,Mckenzie,24,24,0
-ND,Mclean,47,47,0
-ND,Mercer,13,13,0
-ND,Morton,41,41,0
-ND,Mountrail,11,11,0
-ND,Nelson,19,19,0
-ND,Pembina,20,20,0
-ND,Pierce,25,25,0
-ND,Ramsey,25,25,0
-ND,Ransom,25,25,0
-ND,Rolette,52,25,0
-ND,Sioux,12,0,0
-ND,Stark,25,25,4
-ND,Stutsman,131,165,6
-ND,Towner,20,20,0
-ND,Traill,41,41,0
-ND,Walsh,28,28,0
-ND,Ward,466,441,19
-ND,Wells,25,25,0
-ND,Williams,50,50,0
-NE,Adams,127,162,10
-NE,Antelope,23,23,0
-NE,Boone,25,25,0
-NE,Box Butte,25,25,0
-NE,Boyd,20,20,0
-NE,Brown,23,23,0
-NE,Buffalo,362,266,34
-NE,Burt,16,16,0
-NE,Butler,20,20,0
-NE,Chase,22,20,0
-NE,Cherry,25,0,0
-NE,Cheyenne,19,25,4
-NE,Colfax,25,25,0
-NE,Cuming,25,25,0
-NE,Custer,35,35,0
-NE,Dawes,25,25,0
-NE,Dawson,57,57,0
-NE,Dodge,50,70,0
-NE,Douglas,2208,2705,234
-NE,Dundy,14,14,0
-NE,Fillmore,20,20,0
-NE,Franklin,14,14,0
-NE,Furnas,20,20,0
-NE,Gage,25,25,3
-NE,Garden,10,10,0
-NE,Hall,140,159,16
-NE,Hamilton,14,12,0
-NE,Harlan,19,19,0
-NE,Holt,42,42,0
-NE,Howard,16,16,0
-NE,Jefferson,17,17,0
-NE,Johnson,18,18,0
-NE,Kearney,10,10,0
-NE,Keith,18,18,0
-NE,Kimball,15,15,0
-NE,Knox,23,23,0
-NE,Lancaster,1392,1144,52
-NE,Lincoln,97,116,19
-NE,Madison,131,0,24
-NE,Merrick,20,20,0
-NE,Morrill,20,20,0
-NE,Nance,19,19,0
-NE,Nemaha,16,16,0
-NE,Nuckolls,25,25,0
-NE,Otoe,28,36,0
-NE,Pawnee,17,11,0
-NE,Perkins,20,20,0
-NE,Phelps,25,25,0
-NE,Pierce,35,35,0
-NE,Platte,47,47,5
-NE,Polk,16,16,0
-NE,Red Willow,25,25,0
-NE,Richardson,24,24,0
-NE,Rock,24,24,0
-NE,Saline,43,43,0
-NE,Sarpy,89,212,8
-NE,Saunders,16,16,0
-NE,Scotts Bluff,122,166,22
-NE,Seward,24,24,0
-NE,Sheridan,25,25,0
-NE,Thayer,19,17,0
-NE,Thurston,34,21,0
-NE,Valley,16,16,0
-NE,Washington,21,21,0
-NE,Wayne,25,0,0
-NE,Webster,13,13,0
-NE,York,38,38,0
-NH,Belknap,86,137,10
-NH,Carroll,50,50,8
-NH,Cheshire,86,169,27
-NH,Coos,66,66,3
-NH,Grafton,553,506,52
-NH,Hillsborough,1002,1082,62
-NH,Merrimack,474,395,18
-NH,Rockingham,506,573,43
-NH,Strafford,182,290,17
-NH,Sullivan,25,25,0
-NJ,Atlantic,1602,906,54
-NJ,Bergen,3025,3011,112
-NJ,Burlington,983,1046,82
-NJ,Camden,2244,2142,166
-NJ,Cape May,149,242,16
-NJ,Cumberland,321,335,12
-NJ,Essex,2906,3581,215
-NJ,Gloucester,233,311,14
-NJ,Hudson,1086,1851,89
-NJ,Hunterdon,170,184,12
-NJ,Mercer,1399,1147,80
-NJ,Middlesex,2808,2071,97
-NJ,Monmouth,1643,2151,128
-NJ,Morris,1867,1528,81
-NJ,Ocean,1325,1528,94
-NJ,Passaic,1740,1187,53
-NJ,Salem,209,222,19
-NJ,Somerset,820,642,28
-NJ,Sussex,130,148,10
-NJ,Union,1010,1401,55
-NJ,Warren,156,309,20
-NM,Bernalillo,2647,1958,117
-NM,Chaves,204,232,24
-NM,Cibola,31,25,4
-NM,Colfax,25,25,4
-NM,Curry,106,106,8
-NM,Dona Ana,663,427,51
-NM,Eddy,130,164,12
-NM,Grant,32,68,6
-NM,Guadalupe,10,10,0
-NM,Lea,86,230,8
-NM,Lincoln,25,25,4
-NM,Los Alamos,47,47,6
-NM,Luna,25,25,6
-NM,Mckinley,148,98,5
-NM,Otero,56,100,10
-NM,Rio Arriba,52,70,8
-NM,Roosevelt,20,24,0
-NM,San Juan,260,210,10
-NM,San Miguel,226,175,8
-NM,Sandoval,200,259,0
-NM,Santa Fe,244,219,24
-NM,Sierra,11,25,0
-NM,Socorro,24,24,0
-NM,Taos,6,25,6
-NM,Union,50,50,0
-NV,Carson City,219,234,24
-NV,Churchill,25,40,0
-NV,Clark,6323,5370,452
-NV,Douglas,23,23,0
-NV,Elko,59,75,7
-NV,Humboldt,25,53,3
-NV,Lander,5,25,0
-NV,Lincoln,4,20,0
-NV,Lyon,14,63,0
-NV,Mineral,11,35,0
-NV,Nye,25,25,0
-NV,Pershing,13,38,0
-NV,Washoe,1429,1705,290
-NV,White Pine,25,25,0
-NY,Albany,1623,899,81
-NY,Allegany,69,70,6
-NY,Bronx,4602,3000,201
-NY,Broome,772,742,47
-NY,Cattaraugus,260,186,0
-NY,Cayuga,85,99,0
-NY,Chautauqua,208,386,26
-NY,Chemung,325,391,20
-NY,Chenango,58,58,7
-NY,Clinton,300,300,21
-NY,Columbia,95,192,9
-NY,Cortland,103,162,12
-NY,Delaware,56,0,0
-NY,Dutchess,874,692,27
-NY,Erie,2653,2664,190
-NY,Essex,25,0,0
-NY,Franklin,131,171,13
-NY,Fulton,58,74,8
-NY,Genesee,131,0,10
-NY,Herkimer,25,0,0
-NY,Jefferson,287,290,10
-NY,Kings,4557,5746,248
-NY,Lewis,25,0,6
-NY,Livingston,67,67,0
-NY,Madison,126,101,6
-NY,Monroe,2038,1139,154
-NY,Montgomery,100,120,8
-NY,Nassau,4187,4377,235
-NY,New York,9382,9378,725
-NY,Niagara,411,482,32
-NY,Oneida,903,701,26
-NY,Onondaga,2113,1762,118
-NY,Ontario,307,399,27
-NY,Orange,986,807,76
-NY,Orleans,25,0,0
-NY,Oswego,132,132,8
-NY,Otsego,227,180,14
-NY,Putnam,120,164,10
-NY,Queens,3438,2857,92
-NY,Rensselaer,257,227,24
-NY,Richmond,1254,1114,62
-NY,Rockland,1144,791,0
-NY,Saint Lawrence,384,259,20
-NY,Saratoga,259,171,0
-NY,Schenectady,351,538,36
-NY,Schoharie,40,40,0
-NY,Schuyler,25,0,0
-NY,Steuben,95,115,8
-NY,Suffolk,3509,3181,250
-NY,Sullivan,99,154,0
-NY,Tompkins,163,212,16
-NY,Ulster,209,300,25
-NY,Warren,361,406,24
-NY,Wayne,101,120,8
-NY,Westchester,3160,3396,158
-NY,Wyoming,50,62,5
-NY,Yates,25,0,0
-OH,Adams,25,25,0
-OH,Allen,529,830,34
-OH,Ashland,39,123,6
-OH,Ashtabula,286,431,19
-OH,Athens,156,0,0
-OH,Auglaize,36,131,6
-OH,Belmont,185,45,0
-OH,Butler,809,593,56
-OH,Champaign,25,0,0
-OH,Clark,270,40,38
-OH,Clermont,147,160,16
-OH,Clinton,89,165,6
-OH,Columbiana,219,199,20
-OH,Coshocton,56,56,7
-OH,Crawford,50,75,9
-OH,Cuyahoga,5850,5935,397
-OH,Darke,40,104,6
-OH,Defiance,73,104,8
-OH,Delaware,124,60,6
-OH,Erie,410,405,18
-OH,Fairfield,213,245,20
-OH,Fayette,25,25,0
-OH,Franklin,5911,3692,368
-OH,Fulton,25,117,7
-OH,Gallia,157,287,14
-OH,Geauga,124,0,12
-OH,Greene,235,206,20
-OH,Guernsey,156,255,11
-OH,Hamilton,3829,3626,232
-OH,Hancock,141,176,0
-OH,Hardin,25,25,0
-OH,Harrison,25,25,0
-OH,Henry,25,31,5
-OH,Highland,50,70,0
-OH,Hocking,25,0,0
-OH,Holmes,41,69,4
-OH,Huron,148,198,22
-OH,Jackson,24,25,0
-OH,Jefferson,448,500,12
-OH,Knox,65,111,12
-OH,Lake,709,531,27
-OH,Lawrence,8,8,0
-OH,Licking,262,35,13
-OH,Logan,39,115,0
-OH,Lorain,838,453,54
-OH,Lucas,2468,3274,158
-OH,Madison,45,94,13
-OH,Mahoning,826,1100,38
-OH,Marion,174,0,15
-OH,Medina,150,191,12
-OH,Mercer,42,88,5
-OH,Miami,119,182,10
-OH,Montgomery,2153,2327,208
-OH,Morrow,23,25,3
-OH,Muskingum,282,321,24
-OH,Ottawa,25,25,4
-OH,Paulding,25,25,0
-OH,Pickaway,83,83,8
-OH,Pike,25,25,0
-OH,Portage,191,302,16
-OH,Richland,279,358,37
-OH,Ross,189,261,12
-OH,Sandusky,102,186,8
-OH,Scioto,202,446,16
-OH,Seneca,94,145,9
-OH,Shelby,61,90,7
-OH,Stark,1006,1523,68
-OH,Summit,2260,2097,145
-OH,Trumbull,435,590,42
-OH,Tuscarawas,153,174,10
-OH,Union,60,97,7
-OH,Van Wert,145,195,5
-OH,Warren,265,340,16
-OH,Washington,213,243,11
-OH,Wayne,129,184,14
-OH,Williams,100,123,7
-OH,Wood,149,0,10
-OH,Wyandot,24,31,0
-OK,Adair,30,67,0
-OK,Atoka,25,25,0
-OK,Beaver,24,24,0
-OK,Beckham,34,62,6
-OK,Blaine,42,42,0
-OK,Bryan,140,148,8
-OK,Caddo,42,42,0
-OK,Canadian,74,75,8
-OK,Carter,162,212,13
-OK,Cherokee,122,98,14
-OK,Choctaw,34,34,0
-OK,Cimarron,25,25,0
-OK,Cleveland,1025,605,52
-OK,Coal,20,20,0
-OK,Comanche,365,512,28
-OK,Craig,235,55,0
-OK,Creek,95,95,0
-OK,Custer,70,81,4
-OK,Delaware,58,58,6
-OK,Dewey,18,18,0
-OK,Ellis,25,25,0
-OK,Garfield,349,436,30
-OK,Garvin,26,26,0
-OK,Grady,49,75,9
-OK,Greer,18,18,0
-OK,Harmon,22,25,0
-OK,Harper,15,25,0
-OK,Hughes,25,25,0
-OK,Jackson,49,49,6
-OK,Jefferson,25,25,0
-OK,Johnston,25,25,0
-OK,Kay,82,189,10
-OK,Kingfisher,25,25,0
-OK,Kiowa,38,38,0
-OK,Latimer,43,0,0
-OK,Le Flore,25,43,4
-OK,Lincoln,50,50,0
-OK,Logan,25,25,0
-OK,Love,25,25,0
-OK,Major,25,25,0
-OK,Marshall,21,25,0
-OK,Mayes,24,48,0
-OK,Mcclain,39,39,0
-OK,Mccurtain,77,0,6
-OK,Murray,25,25,0
-OK,Muskogee,373,384,24
-OK,Noble,26,26,0
-OK,Nowata,25,25,0
-OK,Okfuskee,25,0,0
-OK,Oklahoma,4337,4357,267
-OK,Okmulgee,107,107,0
-OK,Osage,40,40,0
-OK,Ottawa,144,167,9
-OK,Pawnee,14,14,0
-OK,Payne,161,216,11
-OK,Pittsburg,132,164,15
-OK,Pontotoc,240,216,12
-OK,Pottawatomie,111,130,14
-OK,Pushmataha,42,0,0
-OK,Roger Mills,15,15,0
-OK,Rogers,100,81,6
-OK,Seminole,32,32,0
-OK,Sequoyah,41,41,0
-OK,Stephens,86,138,9
-OK,Texas,47,47,0
-OK,Tulsa,3313,3360,276
-OK,Wagoner,100,100,6
-OK,Washington,81,140,0
-OK,Washita,14,14,0
-OK,Woods,25,25,0
-OK,Woodward,64,115,6
-OR,Baker,21,36,2
-OR,Benton,169,188,12
-OR,Clackamas,453,549,54
-OR,Clatsop,48,83,4
-OR,Coos,166,218,12
-OR,Crook,16,16,0
-OR,Curry,16,24,0
-OR,Deschutes,270,304,36
-OR,Douglas,156,190,32
-OR,Grant,14,25,0
-OR,Harney,19,25,2
-OR,Hood River,25,25,0
-OR,Jackson,458,595,34
-OR,Jefferson,25,25,0
-OR,Josephine,121,125,12
-OR,Klamath,105,176,0
-OR,Lake,24,24,0
-OR,Lane,721,599,71
-OR,Lincoln,50,50,0
-OR,Linn,92,128,11
-OR,Malheur,44,49,8
-OR,Marion,1067,543,68
-OR,Morrow,21,21,0
-OR,Multnomah,2852,2598,165
-OR,Polk,15,25,0
-OR,Tillamook,25,49,4
-OR,Umatilla,66,98,8
-OR,Union,25,25,4
-OR,Wallowa,23,25,0
-OR,Wasco,43,49,17
-OR,Washington,989,795,85
-OR,Yamhill,90,128,11
-PA,Adams,76,76,8
-PA,Allegheny,6602,6736,443
-PA,Armstrong,131,154,12
-PA,Beaver,229,320,20
-PA,Bedford,40,49,4
-PA,Berks,1142,1326,50
-PA,Blair,496,518,42
-PA,Bradford,310,314,42
-PA,Bucks,1105,1155,91
-PA,Butler,292,296,35
-PA,Cambria,423,539,19
-PA,Carbon,68,159,6
-PA,Centre,432,440,0
-PA,Chester,1133,1109,54
-PA,Clarion,169,146,7
-PA,Clearfield,241,315,15
-PA,Clinton,63,68,0
-PA,Columbia,143,173,22
-PA,Crawford,170,242,16
-PA,Cumberland,724,684,31
-PA,Dauphin,1516,1433,36
-PA,Delaware,2036,1329,101
-PA,Elk,25,35,0
-PA,Erie,1040,1116,40
-PA,Fayette,210,235,15
-PA,Franklin,299,314,0
-PA,Fulton,21,21,0
-PA,Greene,23,49,0
-PA,Huntingdon,57,62,7
-PA,Indiana,134,166,12
-PA,Jefferson,69,84,5
-PA,Lackawanna,855,984,53
-PA,Lancaster,1031,941,73
-PA,Lawrence,206,207,12
-PA,Lebanon,393,273,18
-PA,Lehigh,2277,1271,98
-PA,Luzerne,1248,1114,67
-PA,Lycoming,303,300,32
-PA,Mckean,138,138,10
-PA,Mercer,562,478,26
-PA,Mifflin,109,123,10
-PA,Monroe,295,239,24
-PA,Montgomery,3019,2778,165
-PA,Montour,848,773,68
-PA,Northampton,1000,1220,80
-PA,Northumberland,45,0,0
-PA,Philadelphia,6540,7129,387
-PA,Potter,25,59,4
-PA,Schuylkill,266,349,26
-PA,Somerset,148,185,6
-PA,Susquehanna,50,50,4
-PA,Tioga,25,25,6
-PA,Union,123,132,12
-PA,Venango,118,158,8
-PA,Warren,237,237,6
-PA,Washington,448,578,16
-PA,Wayne,76,112,8
-PA,Westmoreland,794,974,33
-PA,Wyoming,44,44,6
-PA,York,808,985,70
-PR,Aguadilla,124,0,8
-PR,Aibonito,210,0,6
-PR,Arecibo,292,0,14
-PR,Bayamon,837,0,66
-PR,Cabo Rojo,43,0,0
-PR,Caguas,665,0,64
-PR,Carolina,342,0,14
-PR,Cayey,225,0,35
-PR,Cidra,216,0,0
-PR,Comerio,0,0,0
-PR,Fajardo,222,0,21
-PR,Guayama,116,0,6
-PR,Guaynabo,49,0,0
-PR,Humacao,296,0,39
-PR,Lares,0,0,0
-PR,Manati,553,0,28
-PR,Mayaguez,468,0,44
-PR,Moca,106,0,7
-PR,Ponce,848,0,111
-PR,San German,232,0,18
-PR,San Juan,2555,0,245
-PR,Utuado,7,0,0
-PR,Vega Baja,130,0,6
-PR,Yauco,84,0,11
-RI,Kent,323,359,15
-RI,Newport,102,129,10
-RI,Providence,3416,2627,204
-RI,Washington,154,225,17
-SC,Abbeville,25,25,6
-SC,Aiken,204,259,35
-SC,Allendale,25,25,0
-SC,Anderson,532,793,25
-SC,Beaufort,318,290,24
-SC,Charleston,2172,2029,221
-SC,Cherokee,44,125,12
-SC,Chester,36,82,6
-SC,Chesterfield,48,59,6
-SC,Clarendon,49,81,6
-SC,Colleton,102,135,8
-SC,Darlington,152,188,12
-SC,Dillon,72,79,6
-SC,Dorchester,94,94,0
-SC,Edgefield,25,25,0
-SC,Florence,1011,1033,63
-SC,Georgetown,131,131,10
-SC,Greenville,1560,1748,123
-SC,Greenwood,332,400,20
-SC,Hampton,32,32,6
-SC,Horry,1032,973,100
-SC,Jasper,41,41,4
-SC,Kershaw,121,121,10
-SC,Lancaster,208,253,20
-SC,Laurens,43,76,0
-SC,Lexington,634,636,37
-SC,Marion,94,124,10
-SC,Newberry,48,90,7
-SC,Oconee,122,169,0
-SC,Orangeburg,266,301,20
-SC,Pickens,131,164,4
-SC,Richland,2339,1490,82
-SC,Spartanburg,748,884,41
-SC,Sumter,173,283,17
-SC,Union,49,143,6
-SC,Williamsburg,25,25,4
-SC,York,318,338,24
-SD,Beadle,25,25,6
-SD,Bennett,14,14,0
-SD,Bon Homme,50,50,0
-SD,Brookings,49,49,0
-SD,Brown,97,157,6
-SD,Brule,25,25,0
-SD,Charles Mix,37,37,0
-SD,Clay,25,25,0
-SD,Codington,81,81,8
-SD,Custer,11,11,0
-SD,Davison,50,67,8
-SD,Day,20,25,0
-SD,Deuel,10,10,0
-SD,Dewey,8,0,0
-SD,Douglas,11,11,0
-SD,Edmunds,12,12,0
-SD,Fall River,25,25,0
-SD,Faulk,12,12,0
-SD,Grant,25,25,0
-SD,Gregory,41,41,0
-SD,Haakon,18,18,0
-SD,Hand,25,0,0
-SD,Hughes,50,50,6
-SD,Hutchinson,50,50,0
-SD,Jerauld,16,16,0
-SD,Kingsbury,6,6,0
-SD,Lake,22,22,0
-SD,Lawrence,45,62,5
-SD,Lincoln,64,64,0
-SD,Marshall,20,20,0
-SD,Mcpherson,4,6,0
-SD,Meade,79,25,3
-SD,Minnehaha,1296,1150,56
-SD,Moody,18,18,0
-SD,Oglala Lakota,45,0,0
-SD,Pennington,403,449,38
-SD,Potter,10,10,0
-SD,Roberts,25,25,0
-SD,Spink,23,25,0
-SD,Todd,35,0,0
-SD,Tripp,25,25,0
-SD,Turner,12,12,0
-SD,Union,38,40,0
-SD,Walworth,25,25,4
-SD,Yankton,168,232,10
-TN,Anderson,220,317,25
-TN,Bedford,44,60,8
-TN,Benton,25,25,0
-TN,Bledsoe,25,25,0
-TN,Blount,348,459,8
-TN,Bradley,183,251,27
-TN,Campbell,81,120,10
-TN,Cannon,30,60,0
-TN,Carroll,42,70,0
-TN,Carter,109,121,8
-TN,Cheatham,12,12,0
-TN,Claiborne,33,85,5
-TN,Cocke,32,74,5
-TN,Coffee,123,160,13
-TN,Cumberland,73,189,12
-TN,Davidson,3658,4073,359
-TN,Decatur,40,40,0
-TN,Dekalb,52,71,4
-TN,Dickson,91,157,6
-TN,Dyer,109,225,14
-TN,Franklin,152,173,10
-TN,Gibson,47,70,3
-TN,Giles,81,95,6
-TN,Greene,189,240,17
-TN,Hamblen,116,167,20
-TN,Hamilton,2141,2052,151
-TN,Hancock,10,10,0
-TN,Hardeman,175,238,0
-TN,Hardin,49,58,0
-TN,Hawkins,32,50,6
-TN,Henderson,36,45,0
-TN,Henry,64,142,0
-TN,Hickman,25,25,0
-TN,Houston,25,25,0
-TN,Humphreys,25,25,0
-TN,Jefferson,58,58,6
-TN,Johnson,2,2,0
-TN,Knox,1751,1253,147
-TN,Lauderdale,25,25,0
-TN,Lawrence,89,99,6
-TN,Lincoln,49,59,6
-TN,Loudon,30,50,5
-TN,Macon,25,25,0
-TN,Madison,870,177,89
-TN,Marion,28,70,0
-TN,Marshall,25,25,0
-TN,Maury,281,271,41
-TN,Mcminn,88,118,4
-TN,Monroe,59,59,0
-TN,Montgomery,260,296,21
-TN,Obion,63,173,0
-TN,Overton,90,114,6
-TN,Perry,21,53,0
-TN,Putnam,247,285,38
-TN,Rhea,25,25,3
-TN,Roane,52,54,6
-TN,Robertson,109,109,8
-TN,Rutherford,759,491,78
-TN,Scott,25,25,0
-TN,Sevier,58,79,16
-TN,Shelby,4470,4745,196
-TN,Smith,25,25,2
-TN,Sullivan,851,1139,92
-TN,Sumner,255,265,38
-TN,Tipton,47,100,0
-TN,Trousdale,25,25,0
-TN,Unicoi,10,48,0
-TN,Warren,100,125,8
-TN,Washington,630,581,76
-TN,Wayne,30,80,0
-TN,Weakley,94,156,0
-TN,White,32,60,4
-TN,Williamson,543,270,28
-TN,Wilson,170,170,12
-TX,Anderson,150,0,10
-TX,Andrews,30,34,0
-TX,Angelina,367,446,39
-TX,Atascosa,67,67,6
-TX,Austin,32,32,0
-TX,Bailey,25,25,0
-TX,Bastrop,8,8,0
-TX,Baylor,27,49,0
-TX,Bee,40,69,8
-TX,Bell,1241,365,90
-TX,Bexar,8584,7596,505
-TX,Bosque,25,25,0
-TX,Bowie,679,864,58
-TX,Brazoria,247,312,16
-TX,Brazos,579,537,48
-TX,Brewster,25,25,3
-TX,Brown,77,188,12
-TX,Burleson,15,25,0
-TX,Burnet,71,71,12
-TX,Caldwell,57,59,0
-TX,Calhoun,25,25,6
-TX,Cameron,1214,1277,96
-TX,Camp,25,25,0
-TX,Cass,43,43,0
-TX,Castro,17,17,0
-TX,Chambers,39,39,0
-TX,Cherokee,346,97,0
-TX,Childress,39,39,0
-TX,Clay,25,25,0
-TX,Cochran,18,18,0
-TX,Coleman,25,25,0
-TX,Collin,1826,1928,82
-TX,Collingsworth,13,13,0
-TX,Colorado,61,65,0
-TX,Comal,324,340,16
-TX,Comanche,25,25,0
-TX,Concho,16,16,0
-TX,Cooke,54,78,5
-TX,Coryell,25,25,4
-TX,Crane,25,25,0
-TX,Crosby,25,25,0
-TX,Culberson,14,14,0
-TX,Dallam,21,21,0
-TX,Dallas,7823,7317,508
-TX,Dawson,22,23,0
-TX,De Witt,44,49,0
-TX,Deaf Smith,30,42,0
-TX,Denton,1464,1349,85
-TX,Dimmit,25,25,0
-TX,Eastland,36,52,0
-TX,Ector,560,638,30
-TX,El Paso,2763,2094,225
-TX,Ellis,166,189,18
-TX,Erath,50,98,5
-TX,Falls,36,36,0
-TX,Fannin,317,25,2
-TX,Fayette,38,65,0
-TX,Fisher,14,14,0
-TX,Floyd,25,25,0
-TX,Fort Bend,1327,1268,146
-TX,Freestone,37,37,0
-TX,Frio,24,22,0
-TX,Gaines,25,33,0
-TX,Galveston,1363,252,0
-TX,Gillespie,57,86,10
-TX,Gonzales,34,33,0
-TX,Gray,97,115,8
-TX,Grayson,663,623,71
-TX,Gregg,644,681,57
-TX,Grimes,18,25,0
-TX,Guadalupe,123,133,9
-TX,Hale,69,68,5
-TX,Hamilton,42,42,0
-TX,Hansford,14,14,0
-TX,Hardeman,24,24,0
-TX,Harris,14802,13137,1039
-TX,Harrison,149,149,42
-TX,Haskell,25,25,0
-TX,Hays,391,385,42
-TX,Hemphill,15,26,0
-TX,Henderson,127,127,10
-TX,Hidalgo,2212,2332,195
-TX,Hill,25,116,0
-TX,Hockley,48,48,0
-TX,Hood,48,73,12
-TX,Hopkins,56,96,14
-TX,Houston,25,0,0
-TX,Howard,275,150,8
-TX,Hunt,176,181,16
-TX,Hutchinson,25,25,4
-TX,Jack,17,17,0
-TX,Jackson,25,25,0
-TX,Jasper,40,59,6
-TX,Jefferson,1362,1179,88
-TX,Jim Wells,72,135,8
-TX,Johnson,346,501,35
-TX,Jones,7,45,0
-TX,Karnes,25,25,0
-TX,Kaufman,351,91,8
-TX,Kerr,302,124,12
-TX,Kimble,15,15,0
-TX,Kleberg,50,96,10
-TX,Knox,28,28,0
-TX,Lamar,154,202,20
-TX,Lamb,42,75,0
-TX,Lampasas,25,25,0
-TX,Lavaca,50,50,3
-TX,Liberty,41,32,0
-TX,Limestone,69,78,6
-TX,Llano,25,27,0
-TX,Lubbock,2730,1569,194
-TX,Lynn,25,24,0
-TX,Madison,15,25,0
-TX,Martin,18,18,0
-TX,Matagorda,63,75,6
-TX,Maverick,86,101,10
-TX,Mcculloch,14,25,0
-TX,Mclennan,738,526,42
-TX,Medina,25,25,0
-TX,Midland,626,554,0
-TX,Mitchell,25,25,0
-TX,Montague,55,87,0
-TX,Montgomery,1491,1431,113
-TX,Moore,19,25,3
-TX,Nacogdoches,297,392,27
-TX,Navarro,49,162,9
-TX,Nolan,39,86,5
-TX,Nueces,1808,1872,105
-TX,Ochiltree,25,25,0
-TX,Palo Pinto,48,74,8
-TX,Panola,42,42,0
-TX,Parker,108,129,20
-TX,Parmer,25,25,0
-TX,Pecos,39,39,0
-TX,Polk,52,66,8
-TX,Potter,1354,967,51
-TX,Reagan,7,7,0
-TX,Reeves,25,25,0
-TX,Refugio,20,0,0
-TX,Rockwall,61,69,6
-TX,Runnels,31,50,0
-TX,Rusk,41,96,0
-TX,Sabine,25,25,0
-TX,San Augustine,9,18,0
-TX,Schleicher,14,14,0
-TX,Scurry,25,25,0
-TX,Smith,1632,1234,211
-TX,Somervell,16,16,0
-TX,Starr,48,48,0
-TX,Stephens,14,40,0
-TX,Stonewall,20,20,0
-TX,Sutton,12,12,0
-TX,Swisher,20,20,0
-TX,Tarrant,5952,5762,372
-TX,Taylor,733,878,66
-TX,Terry,26,45,0
-TX,Throckmorton,14,14,0
-TX,Titus,49,174,8
-TX,Tom Green,580,470,29
-TX,Travis,3005,2714,301
-TX,Tyler,25,49,0
-TX,Upton,26,29,0
-TX,Uvalde,21,25,6
-TX,Val Verde,47,93,7
-TX,Victoria,685,717,35
-TX,Walker,90,123,6
-TX,Ward,21,25,0
-TX,Washington,50,60,5
-TX,Webb,515,557,56
-TX,Wharton,26,49,4
-TX,Wheeler,41,41,0
-TX,Wichita,812,479,12
-TX,Wilbarger,398,47,0
-TX,Williamson,954,848,100
-TX,Wilson,44,44,4
-TX,Winkler,19,19,0
-TX,Wise,49,99,21
-TX,Wood,48,50,0
-TX,Yoakum,24,24,0
-TX,Young,50,50,0
-UT,Beaver,30,74,0
-UT,Box Elder,56,74,0
-UT,Cache,152,168,14
-UT,Carbon,49,0,6
-UT,Davis,310,390,22
-UT,Duchesne,35,49,4
-UT,Garfield,15,36,0
-UT,Grand,17,17,0
-UT,Iron,48,48,6
-UT,Juab,25,25,0
-UT,Kane,25,25,0
-UT,Millard,37,37,0
-UT,Salt Lake,2967,3377,230
-UT,San Juan,32,36,1
-UT,Sanpete,43,43,0
-UT,Sevier,24,29,0
-UT,Summit,37,38,4
-UT,Tooele,36,44,4
-UT,Uintah,39,39,4
-UT,Utah,1227,1384,122
-UT,Wasatch,19,19,0
-UT,Washington,164,245,32
-UT,Weber,457,593,64
-VA,Accomack,46,0,10
-VA,Albemarle,150,0,12
-VA,Alexandria City,339,0,40
-VA,Alleghany,95,0,10
-VA,Arlington,305,0,32
-VA,Augusta,209,0,8
-VA,Bath,14,0,0
-VA,Bedford,34,0,6
-VA,Bristol City,25,0,0
-VA,Buchanan,49,0,12
-VA,Charlottesville City,786,0,14
-VA,Chesapeake City,310,0,28
-VA,Chesterfield,450,0,94
-VA,Culpeper,70,0,6
-VA,Danville City,367,0,34
-VA,Dickenson,2,0,0
-VA,Emporia City,70,0,7
-VA,Essex,67,0,7
-VA,Fairfax,2807,0,142
-VA,Fauquier,97,0,8
-VA,Franklin,37,0,4
-VA,Franklin City,75,0,8
-VA,Fredericksburg City,533,0,0
-VA,Galax City,141,0,10
-VA,Giles,25,0,0
-VA,Gloucester,67,0,7
-VA,Halifax,107,0,12
-VA,Hampton City,251,0,24
-VA,Hanover,264,0,24
-VA,Harrisonburg City,238,0,34
-VA,Henrico,1018,0,81
-VA,Hopewell City,107,0,17
-VA,James City,276,0,26
-VA,Lancaster,25,0,0
-VA,Lexington City,25,0,0
-VA,Loudoun,429,0,33
-VA,Lynchburg City,555,0,37
-VA,Manassas City,94,0,11
-VA,Martinsville City,223,0,0
-VA,Mecklenburg,70,0,0
-VA,Montgomery,198,0,22
-VA,New Kent,94,0,0
-VA,Newport News City,605,0,34
-VA,Norfolk City,1346,0,87
-VA,Norton City,233,0,11
-VA,Nottoway,180,0,0
-VA,Page,25,0,0
-VA,Petersburg City,618,0,28
-VA,Portsmouth City,417,0,22
-VA,Prince Edward,86,0,8
-VA,Prince William,207,0,24
-VA,Pulaski,92,0,8
-VA,Richmond City,2507,0,33
-VA,Roanoke,270,0,0
-VA,Roanoke City,747,0,36
-VA,Russell,49,0,5
-VA,Salem,330,0,24
-VA,Shenandoah,25,0,0
-VA,Smyth,139,0,4
-VA,Spotsylvania,105,0,12
-VA,Stafford,90,0,4
-VA,Staunton City,132,0,0
-VA,Suffolk City,155,0,12
-VA,Tazewell,207,0,12
-VA,Virginia Beach City,487,0,38
-VA,Warren,46,0,8
-VA,Washington,115,0,14
-VA,Winchester City,389,0,48
-VA,Wise,68,0,8
-VA,Wythe,92,0,6
-VA,York,110,0,0
-VI,Saint Croix,77,0,11
-VI,Saint Thomas,107,0,8
-VT,Addison,25,45,0
-VT,Bennington,78,99,10
-VT,Caledonia,25,75,4
-VT,Chittenden,415,522,21
-VT,Franklin,53,70,0
-VT,Lamoille,25,43,0
-VT,Orange,25,52,2
-VT,Orleans,25,49,5
-VT,Rutland,124,188,13
-VT,Washington,101,130,14
-VT,Windham,185,229,0
-VT,Windsor,50,144,0
-WA,Adams,28,0,0
-WA,Asotin,25,0,0
-WA,Benton,453,32,44
-WA,Chelan,221,0,20
-WA,Clallam,103,0,19
-WA,Clark,746,220,96
-WA,Columbia,25,0,0
-WA,Cowlitz,166,346,18
-WA,Ferry,25,0,0
-WA,Franklin,25,95,0
-WA,Garfield,25,0,0
-WA,Grant,123,0,12
-WA,Grays Harbor,108,0,8
-WA,Island,30,0,6
-WA,Jefferson,25,0,6
-WA,King,4354,2228,541
-WA,Kitsap,334,336,20
-WA,Kittitas,25,0,6
-WA,Klickitat,28,0,0
-WA,Lewis,152,0,6
-WA,Lincoln,50,0,0
-WA,Mason,25,0,6
-WA,Okanogan,71,0,0
-WA,Pacific,35,0,0
-WA,Pend Oreille,20,0,0
-WA,Pierce,2531,552,197
-WA,San Juan,10,10,0
-WA,Skagit,205,25,6
-WA,Snohomish,863,0,72
-WA,Spokane,1896,16,79
-WA,Stevens,48,0,0
-WA,Thurston,411,0,72
-WA,Walla Walla,120,0,28
-WA,Whatcom,207,241,24
-WA,Whitman,50,0,6
-WA,Yakima,258,0,52
-WI,Adams,25,25,0
-WI,Ashland,25,35,0
-WI,Barron,90,90,5
-WI,Brown,828,1278,56
-WI,Burnett,25,25,0
-WI,Calumet,25,25,0
-WI,Chippewa,151,242,6
-WI,Clark,25,25,0
-WI,Columbia,68,98,10
-WI,Crawford,24,25,0
-WI,Dane,1901,2075,32
-WI,Dodge,245,245,10
-WI,Door,25,25,4
-WI,Douglas,25,25,0
-WI,Dunn,25,25,0
-WI,Eau Claire,418,661,40
-WI,Fond Du Lac,158,189,15
-WI,Grant,75,75,0
-WI,Green,58,95,6
-WI,Green Lake,25,25,5
-WI,Iowa,25,25,0
-WI,Jackson,25,25,0
-WI,Jefferson,49,82,4
-WI,Juneau,40,40,0
-WI,Kenosha,492,517,27
-WI,La Crosse,395,656,52
-WI,Lafayette,25,25,0
-WI,Langlade,25,25,4
-WI,Lincoln,40,43,0
-WI,Manitowoc,127,236,16
-WI,Marathon,338,440,52
-WI,Marinette,55,99,10
-WI,Milwaukee,4025,4651,455
-WI,Monroe,50,50,0
-WI,Oconto,32,35,0
-WI,Oneida,102,172,30
-WI,Outagamie,441,492,64
-WI,Ozaukee,246,309,46
-WI,Pepin,25,25,0
-WI,Pierce,25,25,0
-WI,Polk,70,73,3
-WI,Portage,84,94,12
-WI,Price,24,25,4
-WI,Racine,657,715,33
-WI,Richland,25,25,4
-WI,Rock,381,564,33
-WI,Rusk,25,25,4
-WI,Saint Croix,75,75,0
-WI,Sauk,104,161,10
-WI,Sawyer,25,25,0
-WI,Shawano,25,25,0
-WI,Sheboygan,189,370,13
-WI,Taylor,25,25,0
-WI,Trempealeau,43,43,0
-WI,Vernon,50,50,0
-WI,Vilas,14,25,0
-WI,Walworth,79,134,16
-WI,Washburn,45,50,0
-WI,Washington,105,141,12
-WI,Waukesha,710,1243,64
-WI,Waupaca,50,50,4
-WI,Waushara,25,25,0
-WI,Winnebago,687,795,60
-WI,Wood,315,619,4
-WV,Barbour,12,72,0
-WV,Berkeley,146,241,20
-WV,Boone,25,25,0
-WV,Braxton,25,25,0
-WV,Cabell,1068,961,32
-WV,Calhoun,25,42,0
-WV,Fayette,50,94,3
-WV,Grant,25,61,3
-WV,Greenbrier,92,122,12
-WV,Hampshire,14,44,0
-WV,Hancock,199,251,10
-WV,Harrison,423,292,20
-WV,Jackson,25,46,0
-WV,Jefferson,25,25,5
-WV,Kanawha,1706,1381,100
-WV,Lewis,220,70,6
-WV,Logan,132,140,12
-WV,Marion,89,207,14
-WV,Marshall,59,127,9
-WV,Mason,94,201,5
-WV,Mcdowell,49,124,7
-WV,Mercer,206,419,17
-WV,Mineral,25,25,4
-WV,Mingo,27,76,6
-WV,Monongalia,1005,985,91
-WV,Morgan,25,41,0
-WV,Nicholas,49,105,6
-WV,Ohio,317,432,22
-WV,Pocahontas,25,25,0
-WV,Preston,25,25,0
-WV,Putnam,70,70,0
-WV,Raleigh,413,473,27
-WV,Randolph,90,90,0
-WV,Roane,25,60,0
-WV,Summers,25,25,0
-WV,Taylor,25,101,0
-WV,Tyler,25,12,0
-WV,Upshur,25,51,4
-WV,Wayne,80,0,0
-WV,Webster,25,15,0
-WV,Wetzel,48,58,5
-WV,Wood,270,313,18
-WY,Albany,66,99,4
-WY,Big Horn,22,25,0
-WY,Campbell,66,90,14
-WY,Carbon,25,25,6
-WY,Converse,25,25,0
-WY,Crook,16,16,0
-WY,Fremont,133,159,12
-WY,Goshen,25,25,0
-WY,Hot Springs,25,25,0
-WY,Johnson,22,25,0
-WY,Laramie,252,206,15
-WY,Lincoln,35,38,0
-WY,Natrona,372,269,14
-WY,Niobrara,24,24,0
-WY,Park,50,50,4
-WY,Platte,25,25,0
-WY,Sheridan,71,88,11
-WY,Sweetwater,74,115,10
-WY,Teton,48,48,6
-WY,Uinta,105,42,6
-WY,Washakie,18,18,0
-WY,Weston,12,12,0
+state,county,staffed_beds,licensed_beds,icu_beds,Name,FIPS
+AK,Anchorage,1077,1014,60,"anchorage borough, ak",2020
+AK,Bethel,34,50,0,"bethel census area, ak",2050
+AK,Dillingham,16,16,0,"dillingham census area, ak",2070
+AK,Fairbanks North Star,145,152,13,"fairbanks north star borough, ak",2090
+AK,Juneau,45,73,9,"juneau city and borough, ak",2110
+AK,Kenai Peninsula,76,77,6,"kenai peninsula borough, ak",2122
+AK,Ketchikan Gateway,25,25,4,"ketchikan gateway borough, ak",2130
+AK,Kodiak Island,24,25,0,"kodiak island borough, ak",2150
+AK,Matanuska Susitna,74,74,14,"matanuska-susitna borough, ak",2170
+AK,Nome,18,18,0,"nome census area, ak",2180
+AK,North Slope,20,14,0,"north slope borough, ak",2185
+AK,Northwest Arctic,17,17,0,"northwest arctic borough, ak",2188
+AK,Petersburg,12,12,0,"petersburg borough, ak",2280
+AK,Sitka,25,27,0,"sitka borough, ak",2220
+AK,Valdez Cordova,24,24,0,"valdez-cordova census area, ak",2261
+AK,Wrangell,8,8,0,"wrangell city and borough, ak",2280
+AL,Autauga,55,85,6,"autauga county, al",1001
+AL,Baldwin,362,410,44,"baldwin county, al",1003
+AL,Barbour,30,74,5,"barbour county, al",1005
+AL,Bibb,25,35,0,"bibb county, al",1007
+AL,Blount,25,40,6,"blount county, al",1009
+AL,Bullock,30,61,0,"bullock county, al",1011
+AL,Butler,44,72,7,"butler county, al",1013
+AL,Calhoun,413,486,24,"calhoun county, al",1015
+AL,Chambers,0,115,0,"chambers county, al",1017
+AL,Cherokee,45,60,0,"cherokee county, al",1019
+AL,Chilton,26,30,6,"chilton county, al",1021
+AL,Choctaw,25,25,0,"choctaw county, al",1023
+AL,Clarke,56,85,0,"clarke county, al",1025
+AL,Clay,46,53,4,"clay county, al",1027
+AL,Coffee,99,131,7,"coffee county, al",1031
+AL,Colbert,300,363,22,"colbert county, al",1033
+AL,Conecuh,44,58,0,"conecuh county, al",1035
+AL,Covington,128,187,13,"covington county, al",1039
+AL,Crenshaw,57,93,0,"crenshaw county, al",1041
+AL,Cullman,185,185,12,"cullman county, al",1043
+AL,Dale,77,89,6,"dale county, al",1045
+AL,Dallas,109,175,23,"dallas county, al",1047
+AL,De Kalb,97,134,12,"de kalb county, al",1049
+AL,Elmore,70,138,5,"elmore county, al",1051
+AL,Escambia,95,142,14,"escambia county, al",1053
+AL,Etowah,590,739,40,"etowah county, al",1055
+AL,Fayette,45,61,8,"fayette county, al",1057
+AL,Franklin,74,125,7,"franklin county, al",1059
+AL,Geneva,73,83,6,"geneva county, al",1061
+AL,Greene,20,20,0,"greene county, al",1063
+AL,Hale,28,39,0,"hale county, al",1065
+AL,Houston,769,782,66,"houston county, al",1069
+AL,Jackson,92,170,10,"jackson county, al",1071
+AL,Jefferson,3945,4750,281,"jefferson county, al",1073
+AL,Lauderdale,233,358,36,"lauderdale county, al",1077
+AL,Lawrence,43,98,6,"lawrence county, al",1079
+AL,Lee,372,314,20,"lee county, al",1081
+AL,Limestone,97,102,10,"limestone county, al",1083
+AL,Macon,143,143,0,"macon county, al",1087
+AL,Madison,1280,1241,58,"madison county, al",1089
+AL,Marengo,37,99,5,"marengo county, al",1091
+AL,Marion,97,120,8,"marion county, al",1093
+AL,Marshall,240,240,20,"marshall county, al",1095
+AL,Mobile,1490,1929,76,"mobile county, al",1097
+AL,Monroe,49,94,8,"monroe county, al",1099
+AL,Montgomery,1018,1226,58,"montgomery county, al",1101
+AL,Morgan,320,393,23,"morgan county, al",1103
+AL,Pike,97,97,9,"pike county, al",1109
+AL,Randolph,15,0,0,"randolph county, al",1111
+AL,Russell,105,128,8,"russell county, al",1113
+AL,Saint Clair,40,40,6,"st. clair county, al",1115
+AL,Shelby,246,286,32,"shelby county, al",1117
+AL,Sumter,33,33,0,"sumter county, al",1119
+AL,Talladega,207,285,14,"talladega county, al",1121
+AL,Tallapoosa,80,127,6,"tallapoosa county, al",1123
+AL,Tuscaloosa,981,1087,52,"tuscaloosa county, al",1125
+AL,Walker,207,267,12,"walker county, al",1127
+AL,Washington,15,25,0,"washington county, al",1129
+AL,Wilcox,21,30,0,"wilcox county, al",1131
+AL,Winston,49,59,4,"winston county, al",1133
+AR,Arkansas,74,74,0,"arkansas county, ar",5001
+AR,Ashley,25,33,6,"ashley county, ar",5003
+AR,Baxter,170,268,17,"baxter county, ar",5005
+AR,Benton,439,524,30,"benton county, ar",5007
+AR,Boone,120,174,24,"boone county, ar",5009
+AR,Bradley,25,33,0,"bradley county, ar",5011
+AR,Carroll,40,40,0,"carroll county, ar",5015
+AR,Chicot,35,25,0,"chicot county, ar",5017
+AR,Clark,25,25,0,"clark county, ar",5019
+AR,Clay,25,25,0,"clay county, ar",5021
+AR,Cleburne,25,25,0,"cleburne county, ar",5023
+AR,Columbia,30,49,6,"columbia county, ar",5027
+AR,Conway,25,25,0,"conway county, ar",5029
+AR,Craighead,553,666,66,"craighead county, ar",5031
+AR,Crawford,35,103,8,"crawford county, ar",5033
+AR,Crittenden,63,52,0,"crittenden county, ar",5035
+AR,Cross,15,25,0,"cross county, ar",5037
+AR,Dallas,22,25,0,"dallas county, ar",5039
+AR,Desha,50,50,0,"desha county, ar",5041
+AR,Drew,49,49,5,"drew county, ar",5043
+AR,Faulkner,355,371,25,"faulkner county, ar",5045
+AR,Franklin,25,25,0,"franklin county, ar",5047
+AR,Fulton,25,25,0,"fulton county, ar",5049
+AR,Garland,423,522,41,"garland county, ar",5051
+AR,Greene,114,129,8,"greene county, ar",5055
+AR,Hempstead,67,0,8,"hempstead county, ar",5057
+AR,Hot Spring,64,72,6,"hot spring county, ar",5059
+AR,Howard,20,20,0,"howard county, ar",5061
+AR,Independence,184,224,12,"independence county, ar",5063
+AR,Izard,25,25,0,"izard county, ar",5065
+AR,Jackson,133,133,0,"jackson county, ar",5067
+AR,Jefferson,271,471,34,"jefferson county, ar",5069
+AR,Johnson,57,90,8,"johnson county, ar",5071
+AR,Lawrence,25,25,0,"lawrence county, ar",5075
+AR,Little River,25,25,0,"little river county, ar",5081
+AR,Logan,40,41,0,"logan county, ar",5083
+AR,Miller,50,62,0,"miller county, ar",5091
+AR,Mississippi,124,25,5,"mississippi county, ar",5093
+AR,Ouachita,82,98,8,"ouachita county, ar",5103
+AR,Phillips,127,155,6,"phillips county, ar",5107
+AR,Polk,41,65,6,"polk county, ar",5113
+AR,Pope,137,170,11,"pope county, ar",5115
+AR,Pulaski,3570,3887,144,"pulaski county, ar",5119
+AR,Randolph,32,50,2,"randolph county, ar",5121
+AR,Saint Francis,56,118,6,"st. francis county, ar",5123
+AR,Saline,207,257,16,"saline county, ar",5125
+AR,Scott,24,24,0,"scott county, ar",5127
+AR,Sebastian,803,983,69,"sebastian county, ar",5131
+AR,Stone,25,25,0,"stone county, ar",5137
+AR,Union,111,166,16,"union county, ar",5139
+AR,Van Buren,25,25,0,"van buren county, ar",5141
+AR,Washington,900,1083,61,"washington county, ar",5143
+AR,White,465,465,13,"white county, ar",5145
+AR,Yell,55,66,0,"yell county, ar",5149
+AZ,Apache,162,50,0,"apache county, az",4001
+AZ,Cochise,135,160,12,"cochise county, az",4003
+AZ,Coconino,396,381,41,"coconino county, az",4005
+AZ,Gila,58,196,8,"gila county, az",4007
+AZ,Graham,49,49,0,"graham county, az",4009
+AZ,La Paz,42,42,3,"la paz county, az",4012
+AZ,Maricopa,10040,10105,715,"maricopa county, az",4013
+AZ,Mohave,551,610,80,"mohave county, az",4015
+AZ,Navajo,176,170,12,"navajo county, az",4017
+AZ,Pima,3108,3206,287,"pima county, az",4019
+AZ,Pinal,262,214,24,"pinal county, az",4021
+AZ,Santa Cruz,25,25,0,"santa cruz county, az",4023
+AZ,Yavapai,374,364,39,"yavapai county, az",4025
+AZ,Yuma,447,51,42,"yuma county, az",4027
+CA,Alameda,3633,2939,323,"alameda county, ca",6001
+CA,Amador,52,52,6,"amador county, ca",6005
+CA,Butte,471,157,43,"butte county, ca",6007
+CA,Calaveras,25,48,0,"calaveras county, ca",6009
+CA,Contra Costa,1636,1624,163,"contra costa county, ca",6013
+CA,Del Norte,39,49,6,"del norte county, ca",6015
+CA,El Dorado,189,174,28,"el dorado county, ca",6017
+CA,Fresno,3056,1750,141,"fresno county, ca",6019
+CA,Glenn,15,47,0,"glenn county, ca",6021
+CA,Humboldt,233,260,20,"humboldt county, ca",6023
+CA,Imperial,268,268,28,"imperial county, ca",6025
+CA,Inyo,29,29,4,"inyo county, ca",6027
+CA,Kern,1618,1330,137,"kern county, ca",6029
+CA,Kings,142,173,22,"kings county, ca",6031
+CA,Lake,50,62,8,"lake county, ca",6033
+CA,Lassen,25,38,0,"lassen county, ca",6035
+CA,Los Angeles,22916,21234,2004,"los angeles county, ca",6037
+CA,Madera,464,464,52,"madera county, ca",6039
+CA,Marin,441,441,30,"marin county, ca",6041
+CA,Mariposa,18,18,0,"mariposa county, ca",6043
+CA,Mendocino,161,142,14,"mendocino county, ca",6045
+CA,Merced,242,226,24,"merced county, ca",6047
+CA,Modoc,20,20,0,"modoc county, ca",6049
+CA,Mono,17,17,2,"mono county, ca",6051
+CA,Monterey,709,747,47,"monterey county, ca",6053
+CA,Napa,318,359,48,"napa county, ca",6055
+CA,Nevada,129,139,10,"nevada county, ca",6057
+CA,Orange,5985,5134,629,"orange county, ca",6059
+CA,Placer,693,732,70,"placer county, ca",6061
+CA,Plumas,42,44,0,"plumas county, ca",6063
+CA,Riverside,3564,3583,365,"riverside county, ca",6065
+CA,Sacramento,3530,2843,262,"sacramento county, ca",6067
+CA,San Benito,49,49,8,"san benito county, ca",6069
+CA,San Bernardino,6383,3628,350,"san bernardino county, ca",6071
+CA,San Diego,7504,6861,540,"san diego county, ca",6073
+CA,San Francisco,2947,2397,293,"san francisco county, ca",6075
+CA,San Joaquin,1334,1192,110,"san joaquin county, ca",6077
+CA,San Luis Obispo,1685,451,54,"san luis obispo county, ca",6079
+CA,San Mateo,2161,1600,110,"san mateo county, ca",6081
+CA,Santa Barbara,631,815,62,"santa barbara county, ca",6083
+CA,Santa Clara,4395,3805,283,"santa clara county, ca",6085
+CA,Santa Cruz,354,358,22,"santa cruz county, ca",6087
+CA,Shasta,571,581,81,"shasta county, ca",6089
+CA,Siskiyou,50,61,8,"siskiyou county, ca",6093
+CA,Solano,1006,678,92,"solano county, ca",6095
+CA,Sonoma,824,732,82,"sonoma county, ca",6097
+CA,Stanislaus,1380,1378,74,"stanislaus county, ca",6099
+CA,Sutter,30,14,0,"sutter county, ca",6101
+CA,Tehama,65,76,8,"tehama county, ca",6103
+CA,Trinity,25,25,0,"trinity county, ca",6105
+CA,Tulare,746,624,65,"tulare county, ca",6107
+CA,Tuolumne,84,140,6,"tuolumne county, ca",6109
+CA,Ventura,1456,1371,153,"ventura county, ca",6111
+CA,Yolo,125,125,14,"yolo county, ca",6113
+CA,Yuba,149,221,24,"yuba county, ca",6115
+CO,Adams,1362,1434,161,"adams county, co",8001
+CO,Alamosa,49,49,6,"alamosa county, co",8003
+CO,Arapahoe,1156,1329,127,"arapahoe county, co",8005
+CO,Archuleta,11,11,0,"archuleta county, co",8007
+CO,Baca,15,23,0,"baca county, co",8009
+CO,Boulder,665,816,66,"boulder county, co",8013
+CO,Broomfield,92,100,20,"broomfield county, co",8014
+CO,Chaffee,25,25,2,"chaffee county, co",8015
+CO,Cheyenne,11,25,0,"cheyenne county, co",8017
+CO,Conejos,17,17,0,"conejos county, co",8021
+CO,Delta,49,49,6,"delta county, co",8029
+CO,Denver,2030,2040,208,"denver county, co",8031
+CO,Douglas,691,611,54,"douglas county, co",8035
+CO,Eagle,56,56,5,"eagle county, co",8037
+CO,El Paso,1497,921,91,"el paso county, co",8041
+CO,Fremont,25,25,4,"fremont county, co",8043
+CO,Garfield,53,103,5,"garfield county, co",8045
+CO,Grand,23,25,0,"grand county, co",8049
+CO,Gunnison,20,24,0,"gunnison county, co",8051
+CO,Huerfano,16,20,0,"huerfano county, co",8055
+CO,Jefferson,496,653,46,"jefferson county, co",8059
+CO,Kiowa,25,25,0,"kiowa county, co",8061
+CO,Kit Carson,19,19,0,"kit carson county, co",8063
+CO,La Plata,94,94,11,"la plata county, co",8067
+CO,Lake,8,25,0,"lake county, co",8065
+CO,Larimer,560,554,43,"larimer county, co",8069
+CO,Las Animas,25,25,0,"las animas county, co",8071
+CO,Lincoln,15,15,0,"lincoln county, co",8073
+CO,Logan,25,25,4,"logan county, co",8075
+CO,Mesa,399,454,30,"mesa county, co",8077
+CO,Moffat,25,25,0,"moffat county, co",8081
+CO,Montezuma,25,25,4,"montezuma county, co",8083
+CO,Montrose,50,75,8,"montrose county, co",8085
+CO,Morgan,61,75,6,"morgan county, co",8087
+CO,Otero,0,25,0,"otero county, co",8089
+CO,Phillips,40,40,0,"phillips county, co",8095
+CO,Pitkin,25,25,4,"pitkin county, co",8097
+CO,Prowers,25,25,0,"prowers county, co",8099
+CO,Pueblo,494,1207,17,"pueblo county, co",8101
+CO,Rio Blanco,35,35,0,"rio blanco county, co",8103
+CO,Rio Grande,17,17,0,"rio grande county, co",8105
+CO,Routt,39,39,4,"routt county, co",8107
+CO,Sedgwick,9,15,0,"sedgwick county, co",8115
+CO,Summit,34,35,8,"summit county, co",8117
+CO,Teller,15,15,0,"teller county, co",8119
+CO,Weld,427,581,22,"weld county, co",8123
+CO,Yuma,30,15,0,"yuma county, co",8125
+CT,Fairfield,1789,0,157,"fairfield county, ct",9001
+CT,Hartford,3278,867,216,"hartford county, ct",9003
+CT,Litchfield,242,0,21,"litchfield county, ct",9005
+CT,Middlesex,736,0,24,"middlesex county, ct",9007
+CT,New Haven,2502,0,110,"new haven county, ct",9009
+CT,New London,419,0,22,"new london county, ct",9011
+CT,Tolland,209,0,16,"tolland county, ct",9013
+CT,Windham,148,0,6,"windham county, ct",9015
+DC,District Of Columbia,3077,4143,237,"district of columbia, dc",11001
+DE,Kent,414,88,29,"kent county, de",10001
+DE,New Castle,1956,1448,93,"new castle county, de",10003
+DE,Sussex,507,349,18,"sussex county, de",10005
+FL,Alachua,2263,1598,66,"alachua county, fl",12001
+FL,Baker,81,1163,0,"baker county, fl",12003
+FL,Bay,676,722,77,"bay county, fl",12005
+FL,Bradford,25,49,0,"bradford county, fl",12007
+FL,Brevard,1867,1685,157,"brevard county, fl",12009
+FL,Broward,5791,6482,525,"broward county, fl",12011
+FL,Calhoun,15,25,0,"calhoun county, fl",12013
+FL,Charlotte,595,699,51,"charlotte county, fl",12015
+FL,Citrus,332,332,40,"citrus county, fl",12017
+FL,Clay,459,503,42,"clay county, fl",12019
+FL,Collier,1134,982,58,"collier county, fl",12021
+FL,Columbia,456,190,27,"columbia county, fl",12023
+FL,Desoto,49,49,8,"desoto county, fl",12027
+FL,Duval,3647,3831,351,"duval county, fl",12031
+FL,Escambia,1384,1648,85,"escambia county, fl",12033
+FL,Flagler,99,99,18,"flagler county, fl",12035
+FL,Franklin,25,25,0,"franklin county, fl",12037
+FL,Gadsden,24,949,0,"gadsden county, fl",12039
+FL,Gulf,19,19,0,"gulf county, fl",12045
+FL,Hardee,25,25,0,"hardee county, fl",12049
+FL,Hendry,25,25,3,"hendry county, fl",12051
+FL,Hernando,670,670,44,"hernando county, fl",12053
+FL,Highlands,292,335,38,"highlands county, fl",12055
+FL,Hillsborough,4069,4315,411,"hillsborough county, fl",12057
+FL,Holmes,20,20,0,"holmes county, fl",12059
+FL,Indian River,511,566,40,"indian river county, fl",12061
+FL,Jackson,66,100,7,"jackson county, fl",12063
+FL,Lake,1060,1100,118,"lake county, fl",12069
+FL,Lee,1698,1819,141,"lee county, fl",12071
+FL,Leon,822,1208,50,"leon county, fl",12073
+FL,Madison,25,25,0,"madison county, fl",12079
+FL,Manatee,867,895,98,"manatee county, fl",12081
+FL,Marion,887,963,110,"marion county, fl",12083
+FL,Martin,466,478,57,"martin county, fl",12085
+FL,Miami Dade,9456,9381,540,"miami dade county, fl",12086
+FL,Monroe,129,143,14,"monroe county, fl",12087
+FL,Nassau,54,62,0,"nassau county, fl",12089
+FL,Okaloosa,441,436,51,"okaloosa county, fl",12091
+FL,Okeechobee,100,100,8,"okeechobee county, fl",12093
+FL,Orange,5568,4520,334,"orange county, fl",12095
+FL,Osceola,802,955,66,"osceola county, fl",12097
+FL,Palm Beach,4144,4179,389,"palm beach county, fl",12099
+FL,Pasco,1312,1272,130,"pasco county, fl",12101
+FL,Pinellas,3475,3923,276,"pinellas county, fl",12103
+FL,Polk,1641,1793,127,"polk county, fl",12105
+FL,Putnam,99,99,10,"putnam county, fl",12107
+FL,Saint Johns,335,335,47,"saint johns county, fl",12109
+FL,Saint Lucie,728,861,54,"saint lucie county, fl",12111
+FL,Santa Rosa,294,355,16,"santa rosa county, fl",12113
+FL,Sarasota,1277,1532,118,"sarasota county, fl",12115
+FL,Seminole,879,934,38,"seminole county, fl",12117
+FL,Sumter,40,40,0,"sumter county, fl",12119
+FL,Suwannee,25,25,0,"suwannee county, fl",12121
+FL,Taylor,48,48,6,"taylor county, fl",12123
+FL,Union,145,145,0,"union county, fl",12125
+FL,Volusia,1514,1574,105,"volusia county, fl",12127
+FL,Walton,112,126,28,"walton county, fl",12131
+FL,Washington,25,59,0,"washington county, fl",12133
+GA,Appling,34,49,3,"appling county, ga",13001
+GA,Bacon,25,25,4,"bacon county, ga",13005
+GA,Baldwin,280,140,12,"baldwin county, ga",13009
+GA,Barrow,56,56,6,"barrow county, ga",13013
+GA,Bartow,119,119,21,"bartow county, ga",13015
+GA,Ben Hill,48,75,5,"ben hill county, ga",13017
+GA,Berrien,51,63,0,"berrien county, ga",13019
+GA,Bibb,992,1142,115,"bibb county, ga",13021
+GA,Bleckley,15,25,0,"bleckley county, ga",13023
+GA,Brooks,25,25,0,"brooks county, ga",13027
+GA,Bulloch,182,189,24,"bulloch county, ga",13031
+GA,Burke,40,40,0,"burke county, ga",13033
+GA,Butts,25,25,0,"butts county, ga",13035
+GA,Camden,40,40,5,"camden county, ga",13039
+GA,Candler,25,25,6,"candler county, ga",13043
+GA,Carroll,197,303,18,"carroll county, ga",13045
+GA,Catoosa,36,19,0,"catoosa county, ga",13047
+GA,Chatham,1354,1502,62,"chatham county, ga",13051
+GA,Cherokee,114,105,0,"cherokee county, ga",13057
+GA,Clarke,564,597,92,"clarke county, ga",13059
+GA,Clayton,319,416,34,"clayton county, ga",13063
+GA,Clinch,15,25,0,"clinch county, ga",13065
+GA,Cobb,1243,1278,81,"cobb county, ga",13067
+GA,Coffee,86,88,10,"coffee county, ga",13069
+GA,Colquitt,127,158,10,"colquitt county, ga",13071
+GA,Cook,33,60,0,"cook county, ga",13075
+GA,Coweta,250,186,23,"coweta county, ga",13077
+GA,Crisp,65,73,16,"crisp county, ga",13081
+GA,Dade,36,0,0,"dade county, ga",13083
+GA,Decatur,80,80,10,"decatur county, ga",13087
+GA,Dekalb,1997,2227,278,"dekalb county, ga",13089
+GA,Dodge,40,94,6,"dodge county, ga",13091
+GA,Dougherty,657,691,50,"dougherty county, ga",13095
+GA,Douglas,102,108,8,"douglas county, ga",13097
+GA,Early,15,25,0,"early county, ga",13099
+GA,Effingham,25,25,0,"effingham county, ga",13103
+GA,Elbert,52,52,4,"elbert county, ga",13105
+GA,Emanuel,45,72,8,"emanuel county, ga",13107
+GA,Evans,49,49,0,"evans county, ga",13109
+GA,Fannin,50,50,5,"fannin county, ga",13111
+GA,Fayette,221,221,66,"fayette county, ga",13113
+GA,Floyd,435,514,42,"floyd county, ga",13115
+GA,Forsyth,304,304,24,"forsyth county, ga",13117
+GA,Franklin,56,56,8,"franklin county, ga",13119
+GA,Fulton,3927,4992,519,"fulton county, ga",13121
+GA,Glynn,401,401,0,"glynn county, ga",13127
+GA,Gordon,69,69,8,"gordon county, ga",13129
+GA,Grady,46,60,4,"grady county, ga",13131
+GA,Greene,25,25,0,"greene county, ga",13133
+GA,Gwinnett,945,931,70,"gwinnett county, ga",13135
+GA,Habersham,53,53,4,"habersham county, ga",13137
+GA,Hall,545,657,85,"hall county, ga",13139
+GA,Haralson,15,25,0,"haralson county, ga",13143
+GA,Henry,215,215,0,"henry county, ga",13151
+GA,Houston,276,276,36,"houston county, ga",13153
+GA,Irwin,34,34,0,"irwin county, ga",13155
+GA,Jackson,128,90,0,"jackson county, ga",13157
+GA,Jasper,12,17,0,"jasper county, ga",13159
+GA,Jeff Davis,25,25,4,"jeff davis county, ga",13161
+GA,Jefferson,37,37,0,"jefferson county, ga",13163
+GA,Jenkins,15,25,0,"jenkins county, ga",13165
+GA,Lanier,25,25,0,"lanier county, ga",13173
+GA,Laurens,145,190,16,"laurens county, ga",13175
+GA,Liberty,64,25,0,"liberty county, ga",13179
+GA,Lowndes,377,403,48,"lowndes county, ga",13185
+GA,Lumpkin,0,0,0,"lumpkin county, ga",13187
+GA,Macon,22,49,0,"macon county, ga",13193
+GA,Mcduffie,25,25,0,"mcduffie county, ga",13189
+GA,Meriwether,109,109,0,"meriwether county, ga",13199
+GA,Miller,25,25,0,"miller county, ga",13201
+GA,Mitchell,25,0,0,"mitchell county, ga",13205
+GA,Monroe,25,25,0,"monroe county, ga",13207
+GA,Morgan,25,25,0,"morgan county, ga",13211
+GA,Murray,29,42,0,"murray county, ga",13213
+GA,Muscogee,1627,1167,61,"muscogee county, ga",13215
+GA,Newton,94,101,10,"newton county, ga",13217
+GA,Paulding,112,112,8,"paulding county, ga",13223
+GA,Peach,25,25,0,"peach county, ga",13225
+GA,Pickens,52,52,6,"pickens county, ga",13227
+GA,Polk,25,25,0,"polk county, ga",13233
+GA,Pulaski,55,49,6,"pulaski county, ga",13235
+GA,Putnam,25,25,0,"putnam county, ga",13237
+GA,Rabun,25,25,0,"rabun county, ga",13241
+GA,Randolph,25,25,0,"randolph county, ga",13243
+GA,Richmond,2160,2524,209,"richmond county, ga",13245
+GA,Rockdale,138,138,16,"rockdale county, ga",13247
+GA,Screven,25,25,0,"screven county, ga",13251
+GA,Seminole,45,65,0,"seminole county, ga",13253
+GA,Spalding,160,160,22,"spalding county, ga",13255
+GA,Stephens,74,96,6,"stephens county, ga",13257
+GA,Sumter,54,76,0,"sumter county, ga",13261
+GA,Tattnall,25,25,0,"tattnall county, ga",13267
+GA,Thomas,226,264,35,"thomas county, ga",13275
+GA,Tift,181,181,20,"tift county, ga",13277
+GA,Toombs,52,57,8,"toombs county, ga",13279
+GA,Towns,25,25,0,"towns county, ga",13281
+GA,Troup,276,276,20,"troup county, ga",13285
+GA,Union,39,45,5,"union county, ga",13291
+GA,Upson,87,115,28,"upson county, ga",13293
+GA,Walton,164,77,7,"walton county, ga",13297
+GA,Ware,134,231,10,"ware county, ga",13299
+GA,Washington,56,56,0,"washington county, ga",13303
+GA,Wayne,88,88,12,"wayne county, ga",13305
+GA,Whitfield,246,282,26,"whitfield county, ga",13313
+GA,Wilkes,25,25,0,"wilkes county, ga",13317
+GA,Worth,25,25,0,"worth county, ga",13321
+GU,Guam,304,0,31,"guam, gu",66010
+HI,Hawaii,296,531,24,"hawaii county, hi",15001
+HI,Honolulu,2716,2175,136,"honolulu county, hi",15003
+HI,Kauai,102,197,9,"kauai county, hi",15007
+HI,Maui,247,366,20,"maui county, hi",15009
+IA,Adair,25,25,0,"adair county, ia",19001
+IA,Adams,22,22,0,"adams county, ia",19003
+IA,Allamakee,25,25,0,"allamakee county, ia",19005
+IA,Appanoose,25,45,3,"appanoose county, ia",19007
+IA,Audubon,25,25,0,"audubon county, ia",19009
+IA,Benton,25,25,0,"benton county, ia",19011
+IA,Black Hawk,384,675,29,"black hawk county, ia",19013
+IA,Boone,25,42,0,"boone county, ia",19015
+IA,Bremer,37,50,0,"bremer county, ia",19017
+IA,Buchanan,85,120,0,"buchanan county, ia",19019
+IA,Buena Vista,25,35,0,"buena vista county, ia",19021
+IA,Calhoun,25,25,2,"calhoun county, ia",19025
+IA,Carroll,66,116,6,"carroll county, ia",19027
+IA,Cass,25,33,4,"cass county, ia",19029
+IA,Cerro Gordo,205,346,18,"cerro gordo county, ia",19033
+IA,Cherokee,61,83,0,"cherokee county, ia",19035
+IA,Chickasaw,8,18,0,"chickasaw county, ia",19037
+IA,Clarke,25,25,0,"clarke county, ia",19039
+IA,Clay,49,99,0,"clay county, ia",19041
+IA,Clayton,40,50,0,"clayton county, ia",19043
+IA,Clinton,120,265,10,"clinton county, ia",19045
+IA,Crawford,25,25,0,"crawford county, ia",19047
+IA,Dallas,25,25,0,"dallas county, ia",19049
+IA,Davis,25,25,0,"davis county, ia",19051
+IA,Decatur,11,25,0,"decatur county, ia",19053
+IA,Delaware,25,25,0,"delaware county, ia",19055
+IA,Des Moines,136,213,12,"des moines county, ia",19057
+IA,Dickinson,44,49,0,"dickinson county, ia",19059
+IA,Dubuque,257,470,18,"dubuque county, ia",19061
+IA,Emmet,22,25,0,"emmet county, ia",19063
+IA,Fayette,50,50,0,"fayette county, ia",19065
+IA,Floyd,25,25,0,"floyd county, ia",19067
+IA,Franklin,25,25,0,"franklin county, ia",19069
+IA,Fremont,25,25,0,"fremont county, ia",19071
+IA,Greene,25,25,0,"greene county, ia",19073
+IA,Grundy,25,80,0,"grundy county, ia",19075
+IA,Guthrie,25,25,0,"guthrie county, ia",19077
+IA,Hamilton,25,25,0,"hamilton county, ia",19079
+IA,Hancock,25,25,0,"hancock county, ia",19081
+IA,Hardin,19,35,0,"hardin county, ia",19083
+IA,Harrison,25,25,0,"harrison county, ia",19085
+IA,Henry,25,74,0,"henry county, ia",19087
+IA,Howard,18,19,0,"howard county, ia",19089
+IA,Humboldt,17,49,0,"humboldt county, ia",19091
+IA,Ida,25,25,0,"ida county, ia",19093
+IA,Iowa,25,25,0,"iowa county, ia",19095
+IA,Jackson,25,25,0,"jackson county, ia",19097
+IA,Jasper,48,68,0,"jasper county, ia",19099
+IA,Jefferson,25,25,0,"jefferson county, ia",19101
+IA,Johnson,1152,1383,18,"johnson county, ia",19103
+IA,Jones,22,22,0,"jones county, ia",19105
+IA,Keokuk,25,25,0,"keokuk county, ia",19107
+IA,Kossuth,24,25,0,"kossuth county, ia",19109
+IA,Lee,99,121,3,"lee county, ia",19111
+IA,Linn,495,994,36,"linn county, ia",19113
+IA,Lucas,25,25,0,"lucas county, ia",19117
+IA,Lyon,11,0,0,"lyon county, ia",19119
+IA,Madison,25,25,0,"madison county, ia",19121
+IA,Mahaska,25,33,0,"mahaska county, ia",19123
+IA,Marion,50,50,3,"marion county, ia",19125
+IA,Marshall,41,125,0,"marshall county, ia",19127
+IA,Mitchell,25,25,0,"mitchell county, ia",19131
+IA,Monona,25,25,0,"monona county, ia",19133
+IA,Monroe,25,25,0,"monroe county, ia",19135
+IA,Montgomery,25,25,8,"montgomery county, ia",19137
+IA,Muscatine,45,48,5,"muscatine county, ia",19139
+IA,Obrien,39,39,0,"obrien county, ia",19141
+IA,Osceola,25,25,0,"osceola county, ia",19143
+IA,Page,50,50,2,"page county, ia",19145
+IA,Palo Alto,24,47,0,"palo alto county, ia",19147
+IA,Plymouth,25,25,0,"plymouth county, ia",19149
+IA,Pocahontas,25,25,0,"pocahontas county, ia",19151
+IA,Polk,1869,1781,84,"polk county, ia",19153
+IA,Pottawattamie,255,514,29,"pottawattamie county, ia",19155
+IA,Poweshiek,49,49,5,"poweshiek county, ia",19157
+IA,Ringgold,16,16,0,"ringgold county, ia",19159
+IA,Sac,25,25,0,"sac county, ia",19161
+IA,Scott,496,641,39,"scott county, ia",19163
+IA,Shelby,25,25,0,"shelby county, ia",19165
+IA,Sioux,94,96,0,"sioux county, ia",19167
+IA,Story,175,237,14,"story county, ia",19169
+IA,Union,25,25,4,"union county, ia",19175
+IA,Van Buren,25,25,0,"van buren county, ia",19177
+IA,Wapello,88,217,11,"wapello county, ia",19179
+IA,Washington,25,25,0,"washington county, ia",19183
+IA,Wayne,25,25,0,"wayne county, ia",19185
+IA,Webster,46,200,8,"webster county, ia",19187
+IA,Winneshiek,25,25,0,"winneshiek county, ia",19191
+IA,Woodbury,316,830,34,"woodbury county, ia",19193
+IA,Wright,47,47,0,"wright county, ia",19197
+ID,Ada,1405,1209,88,"ada county, id",16001
+ID,Bannock,137,205,20,"bannock county, id",16005
+ID,Bear Lake,21,21,0,"bear lake county, id",16007
+ID,Benewah,19,19,0,"benewah county, id",16009
+ID,Bingham,131,145,5,"bingham county, id",16011
+ID,Blaine,25,25,0,"blaine county, id",16013
+ID,Bonner,25,25,4,"bonner county, id",16017
+ID,Bonneville,267,332,35,"bonneville county, id",16019
+ID,Boundary,20,20,0,"boundary county, id",16021
+ID,Butte,14,14,0,"butte county, id",16023
+ID,Canyon,282,346,41,"canyon county, id",16027
+ID,Caribou,25,25,0,"caribou county, id",16029
+ID,Cassia,31,25,6,"cassia county, id",16031
+ID,Clearwater,78,83,0,"clearwater county, id",16035
+ID,Elmore,21,25,0,"elmore county, id",16039
+ID,Franklin,20,20,0,"franklin county, id",16041
+ID,Gem,13,16,0,"gem county, id",16045
+ID,Gooding,16,18,0,"gooding county, id",16047
+ID,Idaho,40,41,0,"idaho county, id",16049
+ID,Jerome,25,25,0,"jerome county, id",16053
+ID,Kootenai,401,403,55,"kootenai county, id",16055
+ID,Latah,25,25,3,"latah county, id",16057
+ID,Lemhi,18,18,0,"lemhi county, id",16059
+ID,Madison,67,69,4,"madison county, id",16065
+ID,Minidoka,16,25,0,"minidoka county, id",16067
+ID,Nez Perce,110,145,9,"nez perce county, id",16069
+ID,Oneida,11,11,0,"oneida county, id",16071
+ID,Power,10,10,0,"power county, id",16077
+ID,Shoshone,21,25,0,"shoshone county, id",16079
+ID,Teton,13,13,0,"teton county, id",16081
+ID,Twin Falls,186,224,30,"twin falls county, id",16083
+ID,Valley,23,25,0,"valley county, id",16085
+ID,Washington,19,25,0,"washington county, id",16087
+IL,Adams,248,307,25,"adams county, il",17001
+IL,Bond,32,42,0,"bond county, il",17005
+IL,Boone,36,34,0,"boone county, il",17007
+IL,Bureau,69,94,9,"bureau county, il",17011
+IL,Champaign,637,603,13,"champaign county, il",17019
+IL,Christian,47,47,0,"christian county, il",17021
+IL,Clay,20,20,0,"clay county, il",17025
+IL,Clinton,46,70,0,"clinton county, il",17027
+IL,Coles,82,149,0,"coles county, il",17029
+IL,Cook,18615,18128,1299,"cook county, il",17031
+IL,Crawford,25,63,0,"crawford county, il",17033
+IL,Dekalb,192,192,16,"dekalb county, il",17037
+IL,Dewitt,15,25,0,"dewitt county, il",17039
+IL,Dupage,2083,2253,241,"dupage county, il",17043
+IL,Edgar,25,25,0,"edgar county, il",17045
+IL,Effingham,133,133,10,"effingham county, il",17049
+IL,Fayette,29,110,4,"fayette county, il",17051
+IL,Ford,25,41,2,"ford county, il",17053
+IL,Franklin,16,16,0,"franklin county, il",17055
+IL,Fulton,43,87,5,"fulton county, il",17057
+IL,Greene,25,25,0,"greene county, il",17061
+IL,Grundy,89,89,8,"grundy county, il",17063
+IL,Hamilton,25,25,0,"hamilton county, il",17065
+IL,Hancock,18,18,0,"hancock county, il",17067
+IL,Hardin,25,25,0,"hardin county, il",17069
+IL,Henry,50,86,3,"henry county, il",17073
+IL,Iroquois,25,25,0,"iroquois county, il",17075
+IL,Jackson,179,179,21,"jackson county, il",17077
+IL,Jefferson,171,181,22,"jefferson county, il",17081
+IL,Jersey,46,65,4,"jersey county, il",17083
+IL,Jo Daviess,18,25,0,"jo daviess county, il",17085
+IL,Kane,1114,890,65,"kane county, il",17089
+IL,Kankakee,460,500,18,"kankakee county, il",17091
+IL,Knox,177,254,18,"knox county, il",17095
+IL,La Salle,164,171,13,"la salle county, il",17099
+IL,Lake,975,1158,108,"lake county, il",17097
+IL,Lawrence,25,25,0,"lawrence county, il",17101
+IL,Lee,66,80,6,"lee county, il",17103
+IL,Livingston,42,42,5,"livingston county, il",17105
+IL,Logan,25,25,0,"logan county, il",17107
+IL,Macon,446,424,35,"macon county, il",17115
+IL,Macoupin,50,50,0,"macoupin county, il",17117
+IL,Madison,677,929,58,"madison county, il",17119
+IL,Marion,107,149,9,"marion county, il",17121
+IL,Mason,25,25,0,"mason county, il",17125
+IL,Massac,25,25,0,"massac county, il",17127
+IL,Mcdonough,45,60,7,"mcdonough county, il",17109
+IL,Mchenry,437,476,33,"mchenry county, il",17111
+IL,Mclean,343,370,30,"mclean county, il",17113
+IL,Mercer,22,22,0,"mercer county, il",17131
+IL,Montgomery,50,50,0,"montgomery county, il",17135
+IL,Morgan,93,131,9,"morgan county, il",17137
+IL,Ogle,17,16,4,"ogle county, il",17141
+IL,Peoria,1122,1226,95,"peoria county, il",17143
+IL,Perry,42,42,0,"perry county, il",17145
+IL,Piatt,16,16,0,"piatt county, il",17147
+IL,Pike,25,35,0,"pike county, il",17149
+IL,Randolph,171,75,0,"randolph county, il",17157
+IL,Richland,47,134,8,"richland county, il",17159
+IL,Rock Island,480,510,27,"rock island county, il",17161
+IL,Saint Clair,556,736,42,"saint clair county, il",17163
+IL,Saline,65,102,0,"saline county, il",17165
+IL,Sangamon,1004,1012,83,"sangamon county, il",17167
+IL,Schuyler,22,22,0,"schuyler county, il",17169
+IL,Shelby,30,30,0,"shelby county, il",17173
+IL,Stephenson,100,100,8,"stephenson county, il",17177
+IL,Tazewell,132,132,8,"tazewell county, il",17179
+IL,Union,113,47,0,"union county, il",17181
+IL,Vermilion,179,198,12,"vermilion county, il",17183
+IL,Wabash,25,25,4,"wabash county, il",17185
+IL,Warren,23,23,0,"warren county, il",17187
+IL,Washington,22,50,0,"washington county, il",17189
+IL,Wayne,25,55,4,"wayne county, il",17191
+IL,Whiteside,121,123,9,"whiteside county, il",17195
+IL,Will,850,923,73,"will county, il",17197
+IL,Williamson,294,212,26,"williamson county, il",17199
+IL,Winnebago,932,936,90,"winnebago county, il",17201
+IL,Woodford,25,25,0,"woodford county, il",17203
+IN,Adams,25,0,4,"adams county, in",18001
+IN,Allen,2176,0,134,"allen county, in",18003
+IN,Bartholomew,225,0,17,"bartholomew county, in",18005
+IN,Blackford,15,0,0,"blackford county, in",18009
+IN,Boone,68,0,8,"boone county, in",18011
+IN,Cass,165,0,5,"cass county, in",18017
+IN,Clark,253,0,22,"clark county, in",18019
+IN,Clay,25,0,0,"clay county, in",18021
+IN,Clinton,25,0,0,"clinton county, in",18023
+IN,Daviess,42,0,5,"daviess county, in",18027
+IN,Dearborn,102,0,8,"dearborn county, in",18029
+IN,Decatur,25,0,0,"decatur county, in",18031
+IN,Dekalb,37,0,8,"dekalb county, in",18033
+IN,Delaware,368,0,36,"delaware county, in",18035
+IN,Dubois,111,0,26,"dubois county, in",18037
+IN,Elkhart,338,0,35,"elkhart county, in",18039
+IN,Floyd,269,236,16,"floyd county, in",18043
+IN,Fulton,25,0,4,"fulton county, in",18049
+IN,Gibson,25,0,5,"gibson county, in",18051
+IN,Grant,347,0,19,"grant county, in",18053
+IN,Greene,25,0,5,"greene county, in",18055
+IN,Hamilton,1033,0,25,"hamilton county, in",18057
+IN,Hancock,73,0,24,"hancock county, in",18059
+IN,Harrison,25,0,4,"harrison county, in",18061
+IN,Hendricks,266,0,28,"hendricks county, in",18063
+IN,Henry,48,0,10,"henry county, in",18065
+IN,Howard,250,0,21,"howard county, in",18067
+IN,Huntington,36,0,0,"huntington county, in",18069
+IN,Jackson,91,0,7,"jackson county, in",18071
+IN,Jasper,25,0,4,"jasper county, in",18073
+IN,Jay,25,0,0,"jay county, in",18075
+IN,Jefferson,238,0,6,"jefferson county, in",18077
+IN,Jennings,25,0,0,"jennings county, in",18079
+IN,Johnson,195,0,6,"johnson county, in",18081
+IN,Knox,99,0,30,"knox county, in",18083
+IN,Kosciusko,88,0,14,"kosciusko county, in",18085
+IN,La Porte,278,0,34,"la porte county, in",18091
+IN,Lagrange,25,0,0,"lagrange county, in",18087
+IN,Lake,2067,0,181,"lake county, in",18089
+IN,Lawrence,50,0,6,"lawrence county, in",18093
+IN,Madison,303,0,38,"madison county, in",18095
+IN,Marion,4230,0,318,"marion county, in",18097
+IN,Marshall,157,0,7,"marshall county, in",18099
+IN,Miami,25,0,4,"miami county, in",18103
+IN,Monroe,357,0,24,"monroe county, in",18105
+IN,Montgomery,29,0,5,"montgomery county, in",18107
+IN,Morgan,199,0,0,"morgan county, in",18109
+IN,Noble,47,0,0,"noble county, in",18113
+IN,Orange,24,0,0,"orange county, in",18117
+IN,Perry,25,0,4,"perry county, in",18123
+IN,Porter,340,0,32,"porter county, in",18127
+IN,Pulaski,25,0,0,"pulaski county, in",18131
+IN,Putnam,25,0,6,"putnam county, in",18133
+IN,Randolph,25,0,0,"randolph county, in",18135
+IN,Ripley,25,0,7,"ripley county, in",18137
+IN,Rush,25,0,0,"rush county, in",18139
+IN,Scott,25,0,4,"scott county, in",18143
+IN,Shelby,46,0,6,"shelby county, in",18145
+IN,St Joseph,1582,0,74,"st joseph county, in",18141
+IN,Starke,15,0,1,"starke county, in",18149
+IN,Steuben,25,0,2,"steuben county, in",18151
+IN,Sullivan,25,0,4,"sullivan county, in",18153
+IN,Tippecanoe,576,0,30,"tippecanoe county, in",18157
+IN,Tipton,25,0,0,"tipton county, in",18159
+IN,Vanderburgh,1053,0,127,"vanderburgh county, in",18163
+IN,Vermillion,25,0,6,"vermillion county, in",18165
+IN,Vigo,494,0,54,"vigo county, in",18167
+IN,Wabash,18,0,0,"wabash county, in",18169
+IN,Warren,16,0,0,"warren county, in",18171
+IN,Warrick,454,0,24,"warrick county, in",18173
+IN,Washington,25,0,0,"washington county, in",18175
+IN,Wayne,376,0,30,"wayne county, in",18177
+IN,Wells,62,0,7,"wells county, in",18179
+IN,White,25,0,0,"white county, in",18181
+IN,Whitley,30,0,0,"whitley county, in",18183
+KS,Allen,25,25,0,"allen county, ks",20001
+KS,Anderson,12,12,0,"anderson county, ks",20003
+KS,Atchison,25,25,4,"atchison county, ks",20005
+KS,Barber,32,35,0,"barber county, ks",20007
+KS,Barton,76,81,4,"barton county, ks",20009
+KS,Brown,25,25,0,"brown county, ks",20013
+KS,Butler,108,132,16,"butler county, ks",20015
+KS,Chautauqua,17,25,0,"chautauqua county, ks",20019
+KS,Cherokee,46,61,0,"cherokee county, ks",20021
+KS,Cheyenne,16,16,0,"cheyenne county, ks",20023
+KS,Clark,39,43,0,"clark county, ks",20025
+KS,Clay,17,25,0,"clay county, ks",20027
+KS,Cloud,22,25,0,"cloud county, ks",20029
+KS,Coffey,25,25,0,"coffey county, ks",20031
+KS,Comanche,12,12,0,"comanche county, ks",20033
+KS,Cowley,53,74,4,"cowley county, ks",20035
+KS,Crawford,89,158,12,"crawford county, ks",20037
+KS,Decatur,21,24,0,"decatur county, ks",20039
+KS,Dickinson,34,60,0,"dickinson county, ks",20041
+KS,Douglas,110,148,10,"douglas county, ks",20045
+KS,Edwards,12,12,0,"edwards county, ks",20047
+KS,Ellis,149,194,34,"ellis county, ks",20051
+KS,Ellsworth,18,20,0,"ellsworth county, ks",20053
+KS,Finney,90,100,8,"finney county, ks",20055
+KS,Ford,60,99,10,"ford county, ks",20057
+KS,Franklin,44,44,5,"franklin county, ks",20059
+KS,Geary,96,92,6,"geary county, ks",20061
+KS,Gove,21,21,0,"gove county, ks",20063
+KS,Graham,20,20,0,"graham county, ks",20065
+KS,Grant,26,26,0,"grant county, ks",20067
+KS,Greeley,18,18,0,"greeley county, ks",20071
+KS,Greenwood,25,25,0,"greenwood county, ks",20073
+KS,Hamilton,25,25,0,"hamilton county, ks",20075
+KS,Harper,25,0,0,"harper county, ks",20077
+KS,Harvey,134,163,6,"harvey county, ks",20079
+KS,Haskell,13,13,0,"haskell county, ks",20081
+KS,Hodgeman,25,13,0,"hodgeman county, ks",20083
+KS,Jackson,12,25,0,"jackson county, ks",20085
+KS,Jefferson,25,38,0,"jefferson county, ks",20087
+KS,Jewell,24,25,0,"jewell county, ks",20089
+KS,Johnson,1519,1800,97,"johnson county, ks",20091
+KS,Kearny,25,25,0,"kearny county, ks",20093
+KS,Kingman,25,25,0,"kingman county, ks",20095
+KS,Kiowa,15,15,0,"kiowa county, ks",20097
+KS,Labette,46,99,5,"labette county, ks",20099
+KS,Lane,25,25,0,"lane county, ks",20101
+KS,Leavenworth,46,100,10,"leavenworth county, ks",20103
+KS,Lincoln,10,14,0,"lincoln county, ks",20105
+KS,Logan,25,25,0,"logan county, ks",20109
+KS,Lyon,21,25,6,"lyon county, ks",20111
+KS,Marion,25,25,0,"marion county, ks",20115
+KS,Marshall,23,25,0,"marshall county, ks",20117
+KS,Mcpherson,81,95,7,"mcpherson county, ks",20113
+KS,Meade,20,20,0,"meade county, ks",20119
+KS,Miami,104,245,106,"miami county, ks",20121
+KS,Mitchell,16,35,4,"mitchell county, ks",20123
+KS,Montgomery,47,47,7,"montgomery county, ks",20125
+KS,Morris,25,25,0,"morris county, ks",20127
+KS,Morton,26,28,0,"morton county, ks",20129
+KS,Nemaha,41,49,0,"nemaha county, ks",20131
+KS,Neosho,22,25,5,"neosho county, ks",20133
+KS,Ness,37,32,0,"ness county, ks",20135
+KS,Norton,25,25,0,"norton county, ks",20137
+KS,Osborne,24,25,0,"osborne county, ks",20141
+KS,Ottawa,25,25,0,"ottawa county, ks",20143
+KS,Pawnee,121,638,0,"pawnee county, ks",20145
+KS,Phillips,25,25,0,"phillips county, ks",20147
+KS,Pottawatomie,43,97,0,"pottawatomie county, ks",20149
+KS,Pratt,35,35,6,"pratt county, ks",20151
+KS,Rawlins,15,24,0,"rawlins county, ks",20153
+KS,Reno,137,209,18,"reno county, ks",20155
+KS,Republic,25,63,0,"republic county, ks",20157
+KS,Rice,25,25,0,"rice county, ks",20159
+KS,Riley,99,163,8,"riley county, ks",20161
+KS,Rooks,16,25,0,"rooks county, ks",20163
+KS,Rush,16,16,0,"rush county, ks",20165
+KS,Russell,19,25,0,"russell county, ks",20167
+KS,Saline,191,392,18,"saline county, ks",20169
+KS,Scott,25,25,0,"scott county, ks",20171
+KS,Sedgwick,2072,2661,147,"sedgwick county, ks",20173
+KS,Seward,71,69,8,"seward county, ks",20175
+KS,Shawnee,748,1043,36,"shawnee county, ks",20177
+KS,Sheridan,18,18,0,"sheridan county, ks",20179
+KS,Sherman,21,25,0,"sherman county, ks",20181
+KS,Smith,16,25,0,"smith county, ks",20183
+KS,Stafford,25,25,0,"stafford county, ks",20185
+KS,Stanton,16,18,0,"stanton county, ks",20187
+KS,Stevens,17,25,0,"stevens county, ks",20189
+KS,Sumner,25,0,0,"sumner county, ks",20191
+KS,Thomas,21,25,1,"thomas county, ks",20193
+KS,Trego,25,25,0,"trego county, ks",20195
+KS,Washington,50,50,0,"washington county, ks",20201
+KS,Wichita,25,0,0,"wichita county, ks",20203
+KS,Wilson,40,49,0,"wilson county, ks",20205
+KS,Wyandotte,1059,1316,129,"wyandotte county, ks",20209
+KY,Allen,25,25,0,"allen county, ky",21003
+KY,Barren,108,180,10,"barren county, ky",21009
+KY,Bell,87,216,7,"bell county, ky",21013
+KY,Boone,166,201,18,"boone county, ky",21015
+KY,Bourbon,34,58,4,"bourbon county, ky",21017
+KY,Boyd,574,645,50,"boyd county, ky",21019
+KY,Boyle,170,197,22,"boyle county, ky",21021
+KY,Breathitt,49,55,4,"breathitt county, ky",21025
+KY,Breckinridge,25,25,0,"breckinridge county, ky",21027
+KY,Caldwell,25,25,0,"caldwell county, ky",21033
+KY,Calloway,99,152,10,"calloway county, ky",21035
+KY,Campbell,156,278,21,"campbell county, ky",21037
+KY,Carroll,25,25,0,"carroll county, ky",21041
+KY,Casey,24,24,0,"casey county, ky",21045
+KY,Christian,431,786,18,"christian county, ky",21047
+KY,Clark,54,54,8,"clark county, ky",21049
+KY,Clay,49,0,6,"clay county, ky",21051
+KY,Clinton,38,42,0,"clinton county, ky",21053
+KY,Crittenden,48,48,0,"crittenden county, ky",21055
+KY,Cumberland,25,25,0,"cumberland county, ky",21057
+KY,Daviess,507,527,32,"daviess county, ky",21059
+KY,Estill,25,25,0,"estill county, ky",21065
+KY,Fayette,2440,2449,248,"fayette county, ky",21067
+KY,Fleming,52,52,3,"fleming county, ky",21069
+KY,Floyd,177,50,16,"floyd county, ky",21071
+KY,Franklin,116,173,10,"franklin county, ky",21073
+KY,Grant,15,25,0,"grant county, ky",21081
+KY,Graves,95,107,8,"graves county, ky",21083
+KY,Grayson,75,75,6,"grayson county, ky",21085
+KY,Green,25,35,0,"green county, ky",21087
+KY,Hardin,428,480,10,"hardin county, ky",21093
+KY,Harlan,81,150,7,"harlan county, ky",21095
+KY,Harrison,61,61,6,"harrison county, ky",21097
+KY,Hart,25,25,0,"hart county, ky",21099
+KY,Henderson,118,192,12,"henderson county, ky",21101
+KY,Hopkins,445,410,19,"hopkins county, ky",21107
+KY,Jefferson,3730,4468,355,"jefferson county, ky",21111
+KY,Johnson,72,72,6,"johnson county, ky",21115
+KY,Kenton,1217,639,46,"kenton county, ky",21117
+KY,Knox,25,25,6,"knox county, ky",21121
+KY,Laurel,106,150,14,"laurel county, ky",21125
+KY,Lawrence,65,90,6,"lawrence county, ky",21127
+KY,Leslie,25,25,0,"leslie county, ky",21131
+KY,Letcher,90,90,6,"letcher county, ky",21133
+KY,Lincoln,25,25,0,"lincoln county, ky",21137
+KY,Livingston,25,25,0,"livingston county, ky",21139
+KY,Logan,75,75,6,"logan county, ky",21141
+KY,Madison,85,130,12,"madison county, ky",21151
+KY,Marion,63,75,6,"marion county, ky",21155
+KY,Marshall,25,25,4,"marshall county, ky",21157
+KY,Mason,100,100,5,"mason county, ky",21161
+KY,Mccracken,573,1081,34,"mccracken county, ky",21145
+KY,Mercer,25,25,4,"mercer county, ky",21167
+KY,Monroe,49,49,0,"monroe county, ky",21171
+KY,Montgomery,42,42,4,"montgomery county, ky",21173
+KY,Morgan,25,25,0,"morgan county, ky",21175
+KY,Muhlenberg,47,90,6,"muhlenberg county, ky",21177
+KY,Nelson,40,40,4,"nelson county, ky",21179
+KY,Ohio,25,25,4,"ohio county, ky",21183
+KY,Oldham,90,120,8,"oldham county, ky",21185
+KY,Perry,229,358,32,"perry county, ky",21193
+KY,Pike,356,413,76,"pike county, ky",21195
+KY,Pulaski,230,283,38,"pulaski county, ky",21199
+KY,Rockcastle,20,20,0,"rockcastle county, ky",21203
+KY,Rowan,90,149,14,"rowan county, ky",21205
+KY,Russell,25,25,2,"russell county, ky",21207
+KY,Scott,75,75,6,"scott county, ky",21209
+KY,Shelby,30,70,4,"shelby county, ky",21211
+KY,Simpson,25,25,0,"simpson county, ky",21213
+KY,Taylor,90,90,8,"taylor county, ky",21217
+KY,Trigg,25,25,0,"trigg county, ky",21221
+KY,Union,25,25,0,"union county, ky",21225
+KY,Warren,639,733,32,"warren county, ky",21227
+KY,Wayne,25,25,0,"wayne county, ky",21231
+KY,Whitley,280,273,0,"whitley county, ky",21235
+KY,Woodford,25,25,0,"woodford county, ky",21239
+LA,Acadia,171,170,4,"acadia parish, la",22001
+LA,Allen,74,109,3,"allen parish, la",22003
+LA,Ascension,151,131,7,"ascension parish, la",22005
+LA,Assumption,15,15,0,"assumption parish, la",22007
+LA,Avoyelles,92,69,2,"avoyelles parish, la",22009
+LA,Beauregard,80,20,6,"beauregard parish, la",22011
+LA,Bienville,21,21,0,"bienville parish, la",22013
+LA,Bossier,267,272,18,"bossier parish, la",22015
+LA,Caddo,1853,2099,94,"caddo parish, la",22017
+LA,Calcasieu,802,905,75,"calcasieu parish, la",22019
+LA,Caldwell,77,87,0,"caldwell parish, la",22021
+LA,Cameron,49,49,0,"cameron parish, la",22023
+LA,Claiborne,37,47,4,"claiborne parish, la",22027
+LA,Concordia,65,65,5,"concordia parish, la",22029
+LA,De Soto,34,34,0,"de soto parish, la",22031
+LA,East Baton Rouge,2355,2297,99,"east baton rouge parish, la",22033
+LA,East Carroll,23,23,0,"east carroll parish, la",22035
+LA,East Feliciana,636,633,0,"east feliciana parish, la",22037
+LA,Evangeline,223,285,24,"evangeline parish, la",22039
+LA,Franklin,29,37,6,"franklin parish, la",22041
+LA,Iberia,317,269,11,"iberia parish, la",22045
+LA,Iberville,10,0,0,"iberville parish, la",22047
+LA,Jackson,25,25,0,"jackson parish, la",22049
+LA,Jefferson,2463,2141,157,"jefferson parish, la",22051
+LA,Jefferson Davis,92,65,5,"jefferson davis parish, la",22053
+LA,La Salle,55,81,0,"la salle parish, la",22059
+LA,Lafayette,1379,1224,74,"lafayette parish, la",22055
+LA,Lafourche,178,240,21,"lafourche parish, la",22057
+LA,Lincoln,258,238,17,"lincoln parish, la",22061
+LA,Madison,25,25,0,"madison parish, la",22065
+LA,Morehouse,109,119,6,"morehouse parish, la",22067
+LA,Natchitoches,102,117,8,"natchitoches parish, la",22069
+LA,Orleans,1428,2009,62,"orleans parish, la",22071
+LA,Ouachita,806,622,88,"ouachita parish, la",22073
+LA,Pointe Coupee,25,26,0,"pointe coupee parish, la",22077
+LA,Rapides,1438,1425,26,"rapides parish, la",22079
+LA,Red River,37,37,0,"red river parish, la",22081
+LA,Richland,63,63,2,"richland parish, la",22083
+LA,Sabine,48,48,0,"sabine parish, la",22085
+LA,Saint Bernard,40,40,8,"st. bernard parish, la",22087
+LA,Saint Charles,39,59,8,"st. charles parish, la",22089
+LA,Saint Helena,25,25,0,"st. helena parish, la",22091
+LA,Saint James,44,44,0,"st. james parish, la",22093
+LA,Saint Landry,517,257,22,"st. landry parish, la",22097
+LA,Saint Martin,43,43,0,"st. martin parish, la",22099
+LA,Saint Mary,152,186,15,"st. mary parish, la",22101
+LA,Saint Tammany,1237,1138,207,"st. tammany parish, la",22103
+LA,St John The Baptist,82,82,0,"st. john the baptist parish, la",22095
+LA,Tangipahoa,536,536,64,"tangipahoa parish, la",22105
+LA,Terrebonne,344,567,26,"terrebonne parish, la",22109
+LA,Union,35,35,0,"union parish, la",22111
+LA,Vermilion,69,95,6,"vermilion parish, la",22113
+LA,Vernon,126,112,7,"vernon parish, la",22115
+LA,Washington,61,117,13,"washington parish, la",22117
+LA,Webster,171,219,16,"webster parish, la",22119
+LA,West Carroll,30,30,0,"west carroll parish, la",22123
+LA,West Feliciana,25,25,0,"west feliciana parish, la",22125
+LA,Winn,46,60,5,"winn parish, la",22127
+MA,Barnstable,410,407,21,"barnstable county, ma",25001
+MA,Berkshire,245,323,24,"berkshire county, ma",25003
+MA,Bristol,1492,1322,96,"bristol county, ma",25005
+MA,Dukes,25,25,0,"dukes county, ma",25007
+MA,Essex,1732,1173,98,"essex county, ma",25009
+MA,Franklin,89,89,6,"franklin county, ma",25011
+MA,Hampden,1620,1626,83,"hampden county, ma",25013
+MA,Hampshire,118,140,11,"hampshire county, ma",25015
+MA,Middlesex,4474,3756,206,"middlesex county, ma",25017
+MA,Nantucket,19,19,0,"nantucket county, ma",25019
+MA,Norfolk,1219,1095,59,"norfolk county, ma",25021
+MA,Plymouth,853,435,47,"plymouth county, ma",25023
+MA,Suffolk,5844,5363,453,"suffolk county, ma",25025
+MA,Worcester,3234,2507,119,"worcester county, ma",25027
+MD,Allegany,288,319,14,"allegany county, md",24001
+MD,Anne Arundel,483,673,50,"anne arundel county, md",24003
+MD,Baltimore,1739,1969,94,"baltimore county, md",24005
+MD,Baltimore City,3735,3816,377,"baltimore county, md",24005
+MD,Calvert,41,74,4,"calvert county, md",24009
+MD,Carroll,675,668,12,"carroll county, md",24013
+MD,Cecil,182,82,5,"cecil county, md",24015
+MD,Charles,98,109,10,"charles county, md",24017
+MD,Dorchester,122,132,0,"dorchester county, md",24019
+MD,Frederick,281,257,18,"frederick county, md",24021
+MD,Garrett,27,27,2,"garrett county, md",24023
+MD,Harford,231,257,19,"harford county, md",24025
+MD,Howard,267,267,16,"howard county, md",24027
+MD,Kent,21,26,6,"kent county, md",24029
+MD,Montgomery,1716,1439,143,"montgomery county, md",24031
+MD,Prince Georges,490,654,78,"prince george's county, md",24033
+MD,Saint Marys,96,109,12,"queen anne's county, md",24035
+MD,Talbot,48,120,16,"talbot county, md",24041
+MD,Washington,340,362,17,"washington county, md",24043
+MD,Wicomico,418,348,24,"wicomico county, md",24045
+MD,Worcester,32,45,6,"worcester county, md",24047
+ME,Androscoggin,361,483,34,"androscoggin county, me",23001
+ME,Aroostook,166,228,12,"aroostook county, me",23003
+ME,Cumberland,1215,1184,50,"cumberland county, me",23005
+ME,Franklin,48,65,5,"franklin county, me",23007
+ME,Hancock,98,114,6,"hancock county, me",23009
+ME,Kennebec,297,335,16,"kennebec county, me",23011
+ME,Knox,81,109,8,"knox county, me",23013
+ME,Lincoln,25,25,4,"lincoln county, me",23015
+ME,Oxford,50,75,4,"oxford county, me",23017
+ME,Penobscot,581,773,51,"penobscot county, me",23019
+ME,Piscataquis,50,25,0,"piscataquis county, me",23021
+ME,Somerset,50,50,4,"somerset county, me",23025
+ME,Waldo,25,25,4,"waldo county, me",23027
+ME,Washington,50,50,0,"washington county, me",23029
+ME,York,206,287,14,"york county, me",23031
+MI,Alger,11,11,0,"alger county, mi",26003
+MI,Allegan,25,25,0,"allegan county, mi",26005
+MI,Alpena,128,124,9,"alpena county, mi",26007
+MI,Arenac,25,25,5,"arenac county, mi",26011
+MI,Baraga,15,15,0,"baraga county, mi",26013
+MI,Barry,25,49,6,"barry county, mi",26015
+MI,Bay,328,387,32,"bay county, mi",26017
+MI,Benzie,8,8,0,"benzie county, mi",26019
+MI,Berrien,311,335,20,"berrien county, mi",26021
+MI,Branch,87,71,10,"branch county, mi",26023
+MI,Calhoun,262,298,32,"calhoun county, mi",26025
+MI,Cass,25,25,0,"cass county, mi",26027
+MI,Charlevoix,25,25,0,"charlevoix county, mi",26029
+MI,Chippewa,49,82,6,"chippewa county, mi",26033
+MI,Clare,49,49,0,"clare county, mi",26035
+MI,Clinton,59,25,2,"clinton county, mi",26037
+MI,Crawford,49,71,6,"crawford county, mi",26039
+MI,Delta,25,25,9,"delta county, mi",26041
+MI,Dickinson,56,49,6,"dickinson county, mi",26043
+MI,Eaton,45,45,0,"eaton county, mi",26045
+MI,Emmet,187,202,18,"emmet county, mi",26047
+MI,Genesee,1047,1151,109,"genesee county, mi",26049
+MI,Gladwin,25,25,0,"gladwin county, mi",26051
+MI,Gogebic,25,25,5,"gogebic county, mi",26053
+MI,Grand Traverse,409,425,20,"grand traverse county, mi",26055
+MI,Gratiot,49,67,0,"gratiot county, mi",26057
+MI,Hillsdale,44,65,4,"hillsdale county, mi",26059
+MI,Houghton,61,61,5,"houghton county, mi",26061
+MI,Huron,98,98,4,"huron county, mi",26063
+MI,Ingham,925,966,115,"ingham county, mi",26065
+MI,Ionia,25,0,2,"ionia county, mi",26067
+MI,Iosco,47,47,4,"iosco county, mi",26069
+MI,Iron,25,25,3,"iron county, mi",26071
+MI,Isabella,83,118,8,"isabella county, mi",26073
+MI,Jackson,469,389,34,"jackson county, mi",26075
+MI,Kalamazoo,904,806,70,"kalamazoo county, mi",26077
+MI,Kalkaska,8,8,0,"kalkaska county, mi",26079
+MI,Kent,2502,1717,142,"kent county, mi",26081
+MI,Lapeer,183,183,10,"lapeer county, mi",26087
+MI,Lenawee,113,113,9,"lenawee county, mi",26091
+MI,Livingston,142,177,8,"livingston county, mi",26093
+MI,Luce,25,25,0,"luce county, mi",26095
+MI,Mackinac,15,15,0,"mackinac county, mi",26097
+MI,Macomb,1362,1101,122,"macomb county, mi",26099
+MI,Manistee,45,45,0,"manistee county, mi",26101
+MI,Marquette,263,289,26,"marquette county, mi",26103
+MI,Mason,45,49,6,"mason county, mi",26105
+MI,Mecosta,49,69,4,"mecosta county, mi",26107
+MI,Midland,324,324,26,"midland county, mi",26111
+MI,Monroe,153,217,14,"monroe county, mi",26115
+MI,Montcalm,109,126,12,"montcalm county, mi",26117
+MI,Muskegon,362,413,44,"muskegon county, mi",26121
+MI,Newaygo,25,25,9,"newaygo county, mi",26123
+MI,Oakland,4188,4383,369,"oakland county, mi",26125
+MI,Oceana,24,24,0,"oceana county, mi",26127
+MI,Ogemaw,88,88,0,"ogemaw county, mi",26129
+MI,Ontonagon,25,25,0,"ontonagon county, mi",26131
+MI,Osceola,25,25,4,"osceola county, mi",26133
+MI,Otsego,46,46,4,"otsego county, mi",26137
+MI,Ottawa,325,327,22,"ottawa county, mi",26139
+MI,Saginaw,1014,912,46,"saginaw county, mi",26145
+MI,Saint Clair,372,375,23,"st. clair county, mi",26147
+MI,Saint Joseph,97,144,4,"st. joseph county, mi",26149
+MI,Sanilac,65,65,0,"sanilac county, mi",26151
+MI,Schoolcraft,12,12,0,"schoolcraft county, mi",26153
+MI,Shiawassee,133,129,7,"shiawassee county, mi",26155
+MI,Tuscola,198,50,0,"tuscola county, mi",26157
+MI,Van Buren,74,74,0,"van buren county, mi",26159
+MI,Washtenaw,2176,1720,46,"washtenaw county, mi",26161
+MI,Wayne,5387,5921,411,"wayne county, mi",26163
+MI,Wexford,49,49,20,"wexford county, mi",26165
+MN,Aitkin,25,25,4,"aitkin county, mn",27001
+MN,Anoka,941,546,35,"anoka county, mn",27003
+MN,Becker,36,87,8,"becker county, mn",27005
+MN,Beltrami,128,118,10,"beltrami county, mn",27007
+MN,Big Stone,40,40,0,"big stone county, mn",27011
+MN,Blue Earth,167,272,29,"blue earth county, mn",27013
+MN,Brown,40,78,0,"brown county, mn",27015
+MN,Carlton,47,61,2,"carlton county, mn",27017
+MN,Carver,109,109,18,"carver county, mn",27019
+MN,Cass,5,0,0,"cass county, mn",27021
+MN,Chippewa,25,30,0,"chippewa county, mn",27023
+MN,Chisago,55,61,10,"chisago county, mn",27025
+MN,Clearwater,25,25,0,"clearwater county, mn",27029
+MN,Cook,16,16,0,"cook county, mn",27031
+MN,Cottonwood,26,26,0,"cottonwood county, mn",27033
+MN,Crow Wing,168,204,16,"crow wing county, mn",27035
+MN,Dakota,179,207,12,"dakota county, mn",27037
+MN,Douglas,99,127,8,"douglas county, mn",27041
+MN,Faribault,24,43,4,"faribault county, mn",27043
+MN,Freeborn,159,159,18,"freeborn county, mn",27047
+MN,Goodhue,65,65,4,"goodhue county, mn",27049
+MN,Grant,10,10,0,"grant county, mn",27051
+MN,Hennepin,3717,5441,215,"hennepin county, mn",27053
+MN,Hubbard,25,50,0,"hubbard county, mn",27057
+MN,Isanti,70,86,0,"isanti county, mn",27059
+MN,Itasca,76,104,0,"itasca county, mn",27061
+MN,Jackson,14,20,0,"jackson county, mn",27063
+MN,Kanabec,25,49,4,"kanabec county, mn",27065
+MN,Kandiyohi,81,136,8,"kandiyohi county, mn",27067
+MN,Kittson,15,15,0,"kittson county, mn",27069
+MN,Koochiching,18,25,0,"koochiching county, mn",27071
+MN,Lac Qui Parle,32,32,0,"lac qui parle county, mn",27073
+MN,Lake,16,25,0,"lake county, mn",27075
+MN,Lake Of The Woods,15,15,0,"lake of the woods county, mn",27077
+MN,Le Sueur,9,15,0,"le sueur county, mn",27079
+MN,Lincoln,44,44,0,"lincoln county, mn",27081
+MN,Lyon,50,74,0,"lyon county, mn",27083
+MN,Mahnomen,10,18,0,"mahnomen county, mn",27087
+MN,Marshall,12,12,0,"marshall county, mn",27089
+MN,Martin,55,57,0,"martin county, mn",27091
+MN,Mcleod,74,115,6,"mcleod county, mn",27085
+MN,Meeker,25,35,0,"meeker county, mn",27093
+MN,Mille Lacs,61,82,4,"mille lacs county, mn",27095
+MN,Morrison,25,49,0,"morrison county, mn",27097
+MN,Mower,80,0,0,"mower county, mn",27099
+MN,Murray,20,25,0,"murray county, mn",27101
+MN,Nicollet,65,17,0,"nicollet county, mn",27103
+MN,Nobles,48,48,0,"nobles county, mn",27105
+MN,Norman,14,14,0,"norman county, mn",27107
+MN,Olmsted,1986,2120,218,"olmsted county, mn",27109
+MN,Otter Tail,121,133,5,"otter tail county, mn",27111
+MN,Pennington,41,26,0,"pennington county, mn",27113
+MN,Pine,9,30,0,"pine county, mn",27115
+MN,Pipestone,18,44,0,"pipestone county, mn",27117
+MN,Polk,54,92,5,"polk county, mn",27119
+MN,Pope,19,34,0,"pope county, mn",27121
+MN,Ramsey,1461,1899,115,"ramsey county, mn",27123
+MN,Redwood,25,25,0,"redwood county, mn",27127
+MN,Renville,16,16,0,"renville county, mn",27129
+MN,Rice,69,86,0,"rice county, mn",27131
+MN,Rock,25,28,0,"rock county, mn",27133
+MN,Roseau,25,25,0,"roseau county, mn",27135
+MN,Saint Louis,1195,1121,78,"st. louis county, mn",27137
+MN,Scott,109,142,0,"scott county, mn",27139
+MN,Sherburne,16,0,0,"sherburne county, mn",27141
+MN,Sibley,16,20,0,"sibley county, mn",27143
+MN,Stearns,535,575,42,"stearns county, mn",27145
+MN,Steele,29,43,0,"steele county, mn",27147
+MN,Stevens,25,49,0,"stevens county, mn",27149
+MN,Swift,33,46,0,"swift county, mn",27151
+MN,Todd,14,34,0,"todd county, mn",27153
+MN,Traverse,15,25,0,"traverse county, mn",27155
+MN,Wabasha,32,43,0,"wabasha county, mn",27157
+MN,Wadena,125,86,5,"wadena county, mn",27159
+MN,Waseca,15,35,0,"waseca county, mn",27161
+MN,Washington,154,183,31,"washington county, mn",27163
+MN,Watonwan,50,50,0,"watonwan county, mn",27165
+MN,Wilkin,25,25,0,"wilkin county, mn",27167
+MN,Winona,49,49,8,"winona county, mn",27169
+MN,Wright,85,104,3,"wright county, mn",27171
+MN,Yellow Medicine,47,55,0,"yellow medicine county, mn",27173
+MO,Adair,51,93,10,"adair county, mo",29001
+MO,Atchison,16,18,0,"atchison county, mo",29005
+MO,Audrain,40,88,0,"audrain county, mo",29007
+MO,Barry,43,43,0,"barry county, mo",29009
+MO,Barton,25,25,4,"barton county, mo",29011
+MO,Bates,44,60,0,"bates county, mo",29013
+MO,Boone,1260,494,114,"boone county, mo",29019
+MO,Buchanan,501,393,21,"buchanan county, mo",29021
+MO,Butler,434,582,14,"butler county, mo",29023
+MO,Callaway,56,37,0,"callaway county, mo",29027
+MO,Camden,114,130,18,"camden county, mo",29029
+MO,Cape Girardeau,494,601,31,"cape girardeau county, mo",29031
+MO,Carroll,21,25,0,"carroll county, mo",29033
+MO,Cass,96,106,9,"cass county, mo",29037
+MO,Cedar,25,25,0,"cedar county, mo",29039
+MO,Christian,48,48,0,"christian county, mo",29043
+MO,Clay,694,905,34,"clay county, mo",29047
+MO,Clinton,34,58,5,"clinton county, mo",29049
+MO,Cole,254,268,25,"cole county, mo",29051
+MO,Dent,25,55,0,"dent county, mo",29065
+MO,Franklin,173,183,13,"franklin county, mo",29071
+MO,Gasconade,24,24,0,"gasconade county, mo",29073
+MO,Gentry,25,35,0,"gentry county, mo",29075
+MO,Greene,1632,1955,129,"greene county, mo",29077
+MO,Grundy,21,25,0,"grundy county, mo",29079
+MO,Harrison,14,19,0,"harrison county, mo",29081
+MO,Henry,96,97,8,"henry county, mo",29083
+MO,Howell,128,139,12,"howell county, mo",29091
+MO,Iron,15,15,0,"iron county, mo",29093
+MO,Jackson,2419,3018,279,"jackson county, mo",29095
+MO,Jasper,706,706,87,"jasper county, mo",29097
+MO,Jefferson,279,341,28,"jefferson county, mo",29099
+MO,Johnson,46,75,0,"johnson county, mo",29101
+MO,Laclede,43,58,4,"laclede county, mo",29105
+MO,Lafayette,25,32,2,"lafayette county, mo",29107
+MO,Lawrence,25,53,0,"lawrence county, mo",29109
+MO,Lincoln,25,25,4,"lincoln county, mo",29113
+MO,Linn,25,54,0,"linn county, mo",29115
+MO,Livingston,25,25,0,"livingston county, mo",29117
+MO,Macon,25,25,0,"macon county, mo",29121
+MO,Madison,25,144,0,"madison county, mo",29123
+MO,Marion,86,99,8,"marion county, mo",29127
+MO,Newton,25,49,0,"newton county, mo",29145
+MO,Nodaway,38,81,0,"nodaway county, mo",29147
+MO,Pemiscot,49,167,7,"pemiscot county, mo",29155
+MO,Perry,25,25,0,"perry county, mo",29157
+MO,Pettis,108,145,9,"pettis county, mo",29159
+MO,Phelps,172,242,18,"phelps county, mo",29161
+MO,Pike,25,25,0,"pike county, mo",29163
+MO,Platte,118,97,0,"platte county, mo",29165
+MO,Polk,52,86,8,"polk county, mo",29167
+MO,Pulaski,46,0,0,"pulaski county, mo",29169
+MO,Putnam,15,15,0,"putnam county, mo",29171
+MO,Randolph,33,99,8,"randolph county, mo",29175
+MO,Ray,25,34,0,"ray county, mo",29177
+MO,Saint Charles,1208,1016,39,"st. charles county, mo",29183
+MO,Saint Clair,12,12,0,"st. clair county, mo",29185
+MO,Saint Francois,433,133,10,"st. francois county, mo",29187
+MO,Saint Louis,5172,4894,460,"st. louis county, mo",29189
+MO,Saint Louis City,2694,2281,196,"st. louis city, mo",29510
+MO,Sainte Genevieve,25,47,0,"ste. genevieve county, mo",29186
+MO,Saline,42,60,7,"saline county, mo",29195
+MO,Scotland,25,25,0,"scotland county, mo",29199
+MO,Scott,110,144,12,"scott county, mo",29201
+MO,Stoddard,48,48,4,"stoddard county, mo",29207
+MO,Sullivan,17,25,0,"sullivan county, mo",29211
+MO,Taney,105,157,18,"taney county, mo",29213
+MO,Texas,47,66,4,"texas county, mo",29215
+MO,Vernon,57,140,6,"vernon county, mo",29217
+MO,Washington,25,25,0,"washington county, mo",29221
+MS,Adams,147,179,15,"adams county, ms",28001
+MS,Alcorn,163,200,24,"alcorn county, ms",28003
+MS,Attala,25,25,0,"attala county, ms",28007
+MS,Bolivar,152,164,8,"bolivar county, ms",28011
+MS,Calhoun,25,25,0,"calhoun county, ms",28013
+MS,Chickasaw,39,84,0,"chickasaw county, ms",28017
+MS,Choctaw,15,25,0,"choctaw county, ms",28019
+MS,Claiborne,22,32,0,"claiborne county, ms",28021
+MS,Clarke,25,25,0,"clarke county, ms",28023
+MS,Clay,49,49,6,"clay county, ms",28025
+MS,Coahoma,181,181,10,"coahoma county, ms",28027
+MS,Copiah,25,0,0,"copiah county, ms",28029
+MS,Covington,25,35,0,"covington county, ms",28031
+MS,Desoto,470,514,8,"desoto county, ms",28033
+MS,Forrest,587,723,57,"forrest county, ms",28035
+MS,Franklin,24,25,0,"franklin county, ms",28037
+MS,George,42,48,6,"george county, ms",28039
+MS,Greene,7,7,0,"greene county, ms",28041
+MS,Grenada,49,156,0,"grenada county, ms",28043
+MS,Hancock,47,102,6,"hancock county, ms",28045
+MS,Harrison,854,834,57,"harrison county, ms",28047
+MS,Hinds,2237,1876,149,"hinds county, ms",28049
+MS,Holmes,25,25,0,"holmes county, ms",28051
+MS,Jackson,571,571,48,"jackson county, ms",28059
+MS,Jasper,16,16,0,"jasper county, ms",28061
+MS,Jefferson,12,30,0,"jefferson county, ms",28063
+MS,Jefferson Davis,25,35,0,"jefferson davis county, ms",28065
+MS,Jones,268,285,14,"jones county, ms",28067
+MS,Kemper,25,25,0,"kemper county, ms",28069
+MS,Lafayette,169,217,24,"lafayette county, ms",28071
+MS,Lamar,45,50,0,"lamar county, ms",28073
+MS,Lauderdale,767,787,39,"lauderdale county, ms",28075
+MS,Lawrence,25,25,0,"lawrence county, ms",28077
+MS,Leake,25,25,0,"leake county, ms",28079
+MS,Lee,700,700,24,"lee county, ms",28081
+MS,Leflore,173,208,9,"leflore county, ms",28083
+MS,Lincoln,90,99,5,"lincoln county, ms",28085
+MS,Lowndes,158,315,18,"lowndes county, ms",28087
+MS,Madison,67,67,7,"madison county, ms",28089
+MS,Marion,49,49,6,"marion county, ms",28091
+MS,Marshall,27,40,0,"marshall county, ms",28093
+MS,Monroe,120,130,9,"monroe county, ms",28095
+MS,Montgomery,25,25,0,"montgomery county, ms",28097
+MS,Neshoba,83,73,0,"neshoba county, ms",28099
+MS,Noxubee,25,25,0,"noxubee county, ms",28103
+MS,Oktibbeha,88,96,6,"oktibbeha county, ms",28105
+MS,Panola,45,112,0,"panola county, ms",28107
+MS,Pearl River,73,84,6,"pearl river county, ms",28109
+MS,Perry,22,22,0,"perry county, ms",28111
+MS,Pike,177,191,16,"pike county, ms",28113
+MS,Pontotoc,25,25,0,"pontotoc county, ms",28115
+MS,Prentiss,39,114,0,"prentiss county, ms",28117
+MS,Rankin,583,2030,18,"rankin county, ms",28121
+MS,Scott,50,60,0,"scott county, ms",28123
+MS,Sharkey,19,29,0,"sharkey county, ms",28125
+MS,Simpson,69,99,0,"simpson county, ms",28127
+MS,Smith,19,29,0,"smith county, ms",28129
+MS,Stone,25,25,0,"stone county, ms",28131
+MS,Sunflower,126,84,0,"sunflower county, ms",28133
+MS,Tallahatchie,9,18,0,"tallahatchie county, ms",28135
+MS,Tippah,25,25,0,"tippah county, ms",28139
+MS,Tishomingo,48,48,0,"tishomingo county, ms",28141
+MS,Union,92,153,8,"union county, ms",28145
+MS,Walthall,25,25,0,"walthall county, ms",28147
+MS,Warren,336,396,22,"warren county, ms",28149
+MS,Washington,541,364,22,"washington county, ms",28151
+MS,Wayne,49,80,6,"wayne county, ms",28153
+MS,Webster,38,38,0,"webster county, ms",28155
+MS,Wilkinson,16,25,0,"wilkinson county, ms",28157
+MS,Winston,14,41,0,"winston county, ms",28159
+MS,Yalobusha,26,26,0,"yalobusha county, ms",28161
+MS,Yazoo,25,25,0,"yazoo county, ms",28163
+MT,Beaverhead,18,0,0,"beaverhead county, mt",30001
+MT,Big Horn,49,0,0,"big horn county, mt",30003
+MT,Blaine,6,0,0,"blaine county, mt",30005
+MT,Broadwater,25,0,0,"broadwater county, mt",30007
+MT,Carbon,10,0,0,"carbon county, mt",30009
+MT,Carter,25,0,0,"carter county, mt",30011
+MT,Cascade,552,635,20,"cascade county, mt",30013
+MT,Chouteau,33,0,0,"chouteau county, mt",30015
+MT,Custer,25,0,4,"custer county, mt",30017
+MT,Daniels,25,0,0,"daniels county, mt",30019
+MT,Dawson,25,0,3,"dawson county, mt",30021
+MT,Deer Lodge,199,0,0,"deer lodge county, mt",30023
+MT,Fallon,25,0,0,"fallon county, mt",30025
+MT,Fergus,23,0,0,"fergus county, mt",30027
+MT,Flathead,220,30,22,"flathead county, mt",30029
+MT,Gallatin,87,86,8,"gallatin county, mt",30031
+MT,Garfield,4,0,0,"garfield county, mt",30033
+MT,Glacier,46,0,0,"glacier county, mt",30035
+MT,Granite,25,0,0,"granite county, mt",30039
+MT,Hill,49,49,6,"hill county, mt",30041
+MT,Lake,47,0,0,"lake county, mt",30047
+MT,Lewis And Clark,131,143,8,"lewis and clark county, mt",30049
+MT,Liberty,25,0,0,"liberty county, mt",30051
+MT,Lincoln,25,0,0,"lincoln county, mt",30053
+MT,Madison,20,0,0,"madison county, mt",30057
+MT,Mccone,25,0,0,"mccone county, mt",30055
+MT,Meagher,25,0,0,"meagher county, mt",30059
+MT,Mineral,24,0,0,"mineral county, mt",30061
+MT,Missoula,299,404,32,"missoula county, mt",30063
+MT,Musselshell,25,0,0,"musselshell county, mt",30065
+MT,Park,25,0,4,"park county, mt",30067
+MT,Phillips,6,0,0,"phillips county, mt",30071
+MT,Pondera,20,0,0,"pondera county, mt",30073
+MT,Powell,16,0,0,"powell county, mt",30077
+MT,Prairie,22,0,0,"prairie county, mt",30079
+MT,Ravalli,25,0,5,"ravalli county, mt",30081
+MT,Richland,25,0,0,"richland county, mt",30083
+MT,Roosevelt,75,0,0,"roosevelt county, mt",30085
+MT,Rosebud,25,0,1,"rosebud county, mt",30087
+MT,Sanders,16,0,0,"sanders county, mt",30089
+MT,Sheridan,19,0,0,"sheridan county, mt",30091
+MT,Silver Bow,71,98,11,"silver bow county, mt",30093
+MT,Stillwater,10,0,0,"stillwater county, mt",30095
+MT,Sweet Grass,25,0,0,"sweet grass county, mt",30097
+MT,Teton,25,0,0,"teton county, mt",30099
+MT,Toole,21,0,0,"toole county, mt",30101
+MT,Valley,25,0,0,"valley county, mt",30105
+MT,Wheatland,25,0,0,"wheatland county, mt",30107
+MT,Yellowstone,577,611,41,"yellowstone county, mt",30111
+NC,Alamance,176,238,20,"alamance county, nc",37001
+NC,Alleghany,25,41,0,"alleghany county, nc",37005
+NC,Anson,15,15,0,"anson county, nc",37007
+NC,Ashe,25,76,0,"ashe county, nc",37009
+NC,Avery,21,50,0,"avery county, nc",37011
+NC,Beaufort,72,142,8,"beaufort county, nc",37013
+NC,Bertie,6,6,0,"bertie county, nc",37015
+NC,Bladen,25,58,4,"bladen county, nc",37017
+NC,Brunswick,126,99,19,"brunswick county, nc",37019
+NC,Buncombe,1708,884,146,"buncombe county, nc",37021
+NC,Burke,587,315,16,"burke county, nc",37023
+NC,Cabarrus,540,497,15,"cabarrus county, nc",37025
+NC,Caldwell,110,110,12,"caldwell county, nc",37027
+NC,Carteret,99,135,8,"carteret county, nc",37031
+NC,Catawba,426,613,52,"catawba county, nc",37035
+NC,Chatham,25,25,4,"chatham county, nc",37037
+NC,Cherokee,25,57,0,"cherokee county, nc",37039
+NC,Chowan,25,49,4,"chowan county, nc",37041
+NC,Cleveland,292,308,57,"cleveland county, nc",37045
+NC,Columbus,154,154,0,"columbus county, nc",37047
+NC,Craven,286,350,72,"craven county, nc",37049
+NC,Cumberland,726,700,56,"cumberland county, nc",37051
+NC,Dare,21,21,0,"dare county, nc",37055
+NC,Davidson,154,240,29,"davidson county, nc",37057
+NC,Davie,50,50,0,"davie county, nc",37059
+NC,Duplin,49,81,9,"duplin county, nc",37061
+NC,Durham,1376,1374,70,"durham county, nc",37063
+NC,Edgecombe,101,117,15,"edgecombe county, nc",37065
+NC,Forsyth,2172,1878,180,"forsyth county, nc",37067
+NC,Gaston,423,475,57,"gaston county, nc",37071
+NC,Granville,1342,142,6,"granville county, nc",37077
+NC,Guilford,1354,1411,107,"guilford county, nc",37081
+NC,Halifax,106,204,16,"halifax county, nc",37083
+NC,Harnett,268,151,14,"harnett county, nc",37085
+NC,Haywood,122,159,12,"haywood county, nc",37087
+NC,Henderson,233,325,27,"henderson county, nc",37089
+NC,Hertford,70,114,10,"hertford county, nc",37091
+NC,Hoke,61,49,0,"hoke county, nc",37093
+NC,Iredell,406,514,36,"iredell county, nc",37097
+NC,Jackson,82,86,9,"jackson county, nc",37099
+NC,Johnston,229,199,24,"johnston county, nc",37101
+NC,Lee,127,137,8,"lee county, nc",37105
+NC,Lenoir,1086,261,0,"lenoir county, nc",37107
+NC,Lincoln,101,101,10,"lincoln county, nc",37109
+NC,Macon,49,83,5,"macon county, nc",37113
+NC,Martin,43,49,6,"martin county, nc",37117
+NC,Mcdowell,49,65,9,"mcdowell county, nc",37111
+NC,Mecklenburg,2898,2646,141,"mecklenburg county, nc",37119
+NC,Mitchell,25,46,0,"mitchell county, nc",37121
+NC,Montgomery,4,37,0,"montgomery county, nc",37123
+NC,Moore,412,402,0,"moore county, nc",37125
+NC,Nash,372,395,21,"nash county, nc",37127
+NC,New Hanover,992,769,29,"new hanover county, nc",37129
+NC,Onslow,306,162,14,"onslow county, nc",37133
+NC,Orange,1086,905,0,"orange county, nc",37135
+NC,Pasquotank,91,182,10,"pasquotank county, nc",37139
+NC,Pender,25,86,0,"pender county, nc",37141
+NC,Person,38,98,6,"person county, nc",37145
+NC,Pitt,930,909,71,"pitt county, nc",37147
+NC,Polk,25,35,6,"polk county, nc",37149
+NC,Randolph,145,145,12,"randolph county, nc",37151
+NC,Richmond,99,99,0,"richmond county, nc",37153
+NC,Robeson,256,452,25,"robeson county, nc",37155
+NC,Rockingham,218,218,9,"rockingham county, nc",37157
+NC,Rowan,169,268,20,"rowan county, nc",37159
+NC,Rutherford,111,143,18,"rutherford county, nc",37161
+NC,Sampson,71,146,8,"sampson county, nc",37163
+NC,Scotland,97,104,8,"scotland county, nc",37165
+NC,Stanly,97,109,10,"stanly county, nc",37167
+NC,Stokes,25,99,0,"stokes county, nc",37169
+NC,Surry,181,226,10,"surry county, nc",37171
+NC,Swain,44,48,0,"swain county, nc",37173
+NC,Transylvania,25,92,4,"transylvania county, nc",37175
+NC,Union,182,252,14,"union county, nc",37179
+NC,Vance,91,102,20,"vance county, nc",37181
+NC,Wake,2920,1704,117,"wake county, nc",37183
+NC,Washington,25,0,0,"washington county, nc",37187
+NC,Watauga,95,117,10,"watauga county, nc",37189
+NC,Wayne,514,316,16,"wayne county, nc",37191
+NC,Wilkes,93,130,8,"wilkes county, nc",37193
+NC,Wilson,270,294,14,"wilson county, nc",37195
+ND,Adams,25,25,0,"adams county, nd",38001
+ND,Barnes,25,25,0,"barnes county, nd",38003
+ND,Bottineau,25,25,0,"bottineau county, nd",38009
+ND,Bowman,23,23,0,"bowman county, nd",38011
+ND,Burleigh,458,510,52,"burleigh county, nd",38015
+ND,Cass,1407,1052,111,"cass county, nd",38017
+ND,Cavalier,20,20,0,"cavalier county, nd",38019
+ND,Dickey,20,20,0,"dickey county, nd",38021
+ND,Divide,15,15,0,"divide county, nd",38023
+ND,Emmons,14,14,0,"emmons county, nd",38029
+ND,Foster,25,25,0,"foster county, nd",38031
+ND,Grand Forks,384,404,16,"grand forks county, nd",38035
+ND,Grant,30,30,0,"grant county, nd",38037
+ND,Griggs,18,18,0,"griggs county, nd",38039
+ND,Mcintosh,44,44,0,"mcintosh county, nd",38051
+ND,Mckenzie,24,24,0,"mckenzie county, nd",38053
+ND,Mclean,47,47,0,"mclean county, nd",38055
+ND,Mercer,13,13,0,"mercer county, nd",38057
+ND,Morton,41,41,0,"morton county, nd",38059
+ND,Mountrail,11,11,0,"mountrail county, nd",38061
+ND,Nelson,19,19,0,"nelson county, nd",38063
+ND,Pembina,20,20,0,"pembina county, nd",38067
+ND,Pierce,25,25,0,"pierce county, nd",38069
+ND,Ramsey,25,25,0,"ramsey county, nd",38071
+ND,Ransom,25,25,0,"ransom county, nd",38073
+ND,Rolette,52,25,0,"rolette county, nd",38079
+ND,Sioux,12,0,0,"sioux county, nd",38085
+ND,Stark,25,25,4,"stark county, nd",38089
+ND,Stutsman,131,165,6,"stutsman county, nd",38093
+ND,Towner,20,20,0,"towner county, nd",38095
+ND,Traill,41,41,0,"traill county, nd",38097
+ND,Walsh,28,28,0,"walsh county, nd",38099
+ND,Ward,466,441,19,"ward county, nd",38101
+ND,Wells,25,25,0,"wells county, nd",38103
+ND,Williams,50,50,0,"williams county, nd",38105
+NE,Adams,127,162,10,"adams county, ne",31001
+NE,Antelope,23,23,0,"antelope county, ne",31003
+NE,Boone,25,25,0,"boone county, ne",31011
+NE,Box Butte,25,25,0,"box butte county, ne",31013
+NE,Boyd,20,20,0,"boyd county, ne",31015
+NE,Brown,23,23,0,"brown county, ne",31017
+NE,Buffalo,362,266,34,"buffalo county, ne",31019
+NE,Burt,16,16,0,"burt county, ne",31021
+NE,Butler,20,20,0,"butler county, ne",31023
+NE,Chase,22,20,0,"chase county, ne",31029
+NE,Cherry,25,0,0,"cherry county, ne",31031
+NE,Cheyenne,19,25,4,"cheyenne county, ne",31033
+NE,Colfax,25,25,0,"colfax county, ne",31037
+NE,Cuming,25,25,0,"cuming county, ne",31039
+NE,Custer,35,35,0,"custer county, ne",31041
+NE,Dawes,25,25,0,"dawes county, ne",31045
+NE,Dawson,57,57,0,"dawson county, ne",31047
+NE,Dodge,50,70,0,"dodge county, ne",31053
+NE,Douglas,2208,2705,234,"douglas county, ne",31055
+NE,Dundy,14,14,0,"dundy county, ne",31057
+NE,Fillmore,20,20,0,"fillmore county, ne",31059
+NE,Franklin,14,14,0,"franklin county, ne",31061
+NE,Furnas,20,20,0,"furnas county, ne",31065
+NE,Gage,25,25,3,"gage county, ne",31067
+NE,Garden,10,10,0,"garden county, ne",31069
+NE,Hall,140,159,16,"hall county, ne",31079
+NE,Hamilton,14,12,0,"hamilton county, ne",31081
+NE,Harlan,19,19,0,"harlan county, ne",31083
+NE,Holt,42,42,0,"holt county, ne",31089
+NE,Howard,16,16,0,"howard county, ne",31093
+NE,Jefferson,17,17,0,"jefferson county, ne",31095
+NE,Johnson,18,18,0,"johnson county, ne",31097
+NE,Kearney,10,10,0,"kearney county, ne",31099
+NE,Keith,18,18,0,"keith county, ne",31101
+NE,Kimball,15,15,0,"kimball county, ne",31105
+NE,Knox,23,23,0,"knox county, ne",31107
+NE,Lancaster,1392,1144,52,"lancaster county, ne",31109
+NE,Lincoln,97,116,19,"lincoln county, ne",31111
+NE,Madison,131,0,24,"madison county, ne",31119
+NE,Merrick,20,20,0,"merrick county, ne",31121
+NE,Morrill,20,20,0,"morrill county, ne",31123
+NE,Nance,19,19,0,"nance county, ne",31125
+NE,Nemaha,16,16,0,"nemaha county, ne",31127
+NE,Nuckolls,25,25,0,"nuckolls county, ne",31129
+NE,Otoe,28,36,0,"otoe county, ne",31131
+NE,Pawnee,17,11,0,"pawnee county, ne",31133
+NE,Perkins,20,20,0,"perkins county, ne",31135
+NE,Phelps,25,25,0,"phelps county, ne",31137
+NE,Pierce,35,35,0,"pierce county, ne",31139
+NE,Platte,47,47,5,"platte county, ne",31141
+NE,Polk,16,16,0,"polk county, ne",31143
+NE,Red Willow,25,25,0,"red willow county, ne",31145
+NE,Richardson,24,24,0,"richardson county, ne",31147
+NE,Rock,24,24,0,"rock county, ne",31149
+NE,Saline,43,43,0,"saline county, ne",31151
+NE,Sarpy,89,212,8,"sarpy county, ne",31153
+NE,Saunders,16,16,0,"saunders county, ne",31155
+NE,Scotts Bluff,122,166,22,"scotts bluff county, ne",31157
+NE,Seward,24,24,0,"seward county, ne",31159
+NE,Sheridan,25,25,0,"sheridan county, ne",31161
+NE,Thayer,19,17,0,"thayer county, ne",31169
+NE,Thurston,34,21,0,"thurston county, ne",31173
+NE,Valley,16,16,0,"valley county, ne",31175
+NE,Washington,21,21,0,"washington county, ne",31177
+NE,Wayne,25,0,0,"wayne county, ne",31179
+NE,Webster,13,13,0,"webster county, ne",31181
+NE,York,38,38,0,"york county, ne",31185
+NH,Belknap,86,137,10,"belknap county, nh",33001
+NH,Carroll,50,50,8,"carroll county, nh",33003
+NH,Cheshire,86,169,27,"cheshire county, nh",33005
+NH,Coos,66,66,3,"coos county, nh",33007
+NH,Grafton,553,506,52,"grafton county, nh",33009
+NH,Hillsborough,1002,1082,62,"hillsborough county, nh",33011
+NH,Merrimack,474,395,18,"merrimack county, nh",33013
+NH,Rockingham,506,573,43,"rockingham county, nh",33015
+NH,Strafford,182,290,17,"strafford county, nh",33017
+NH,Sullivan,25,25,0,"sullivan county, nh",33019
+NJ,Atlantic,1602,906,54,"atlantic county, nj",34001
+NJ,Bergen,3025,3011,112,"bergen county, nj",34003
+NJ,Burlington,983,1046,82,"burlington county, nj",34005
+NJ,Camden,2244,2142,166,"camden county, nj",34007
+NJ,Cape May,149,242,16,"cape may county, nj",34009
+NJ,Cumberland,321,335,12,"cumberland county, nj",34011
+NJ,Essex,2906,3581,215,"essex county, nj",34013
+NJ,Gloucester,233,311,14,"gloucester county, nj",34015
+NJ,Hudson,1086,1851,89,"hudson county, nj",34017
+NJ,Hunterdon,170,184,12,"hunterdon county, nj",34019
+NJ,Mercer,1399,1147,80,"mercer county, nj",34021
+NJ,Middlesex,2808,2071,97,"middlesex county, nj",34023
+NJ,Monmouth,1643,2151,128,"monmouth county, nj",34025
+NJ,Morris,1867,1528,81,"morris county, nj",34027
+NJ,Ocean,1325,1528,94,"ocean county, nj",34029
+NJ,Passaic,1740,1187,53,"passaic county, nj",34031
+NJ,Salem,209,222,19,"salem county, nj",34033
+NJ,Somerset,820,642,28,"somerset county, nj",34035
+NJ,Sussex,130,148,10,"sussex county, nj",34037
+NJ,Union,1010,1401,55,"union county, nj",34039
+NJ,Warren,156,309,20,"warren county, nj",34041
+NM,Bernalillo,2647,1958,117,"bernalillo county, nm",35001
+NM,Chaves,204,232,24,"chaves county, nm",35005
+NM,Cibola,31,25,4,"cibola county, nm",35006
+NM,Colfax,25,25,4,"colfax county, nm",35007
+NM,Curry,106,106,8,"curry county, nm",35009
+NM,Dona Ana,663,427,51,"dona ana county, nm",35013
+NM,Eddy,130,164,12,"eddy county, nm",35015
+NM,Grant,32,68,6,"grant county, nm",35017
+NM,Guadalupe,10,10,0,"guadalupe county, nm",35019
+NM,Lea,86,230,8,"lea county, nm",35025
+NM,Lincoln,25,25,4,"lincoln county, nm",35027
+NM,Los Alamos,47,47,6,"los alamos county, nm",35028
+NM,Luna,25,25,6,"luna county, nm",35029
+NM,Mckinley,148,98,5,"mckinley county, nm",35031
+NM,Otero,56,100,10,"otero county, nm",35035
+NM,Rio Arriba,52,70,8,"rio arriba county, nm",35039
+NM,Roosevelt,20,24,0,"roosevelt county, nm",35041
+NM,San Juan,260,210,10,"san juan county, nm",35045
+NM,San Miguel,226,175,8,"san miguel county, nm",35047
+NM,Sandoval,200,259,0,"sandoval county, nm",35043
+NM,Santa Fe,244,219,24,"santa fe county, nm",35049
+NM,Sierra,11,25,0,"sierra county, nm",35051
+NM,Socorro,24,24,0,"socorro county, nm",35053
+NM,Taos,6,25,6,"taos county, nm",35055
+NM,Union,50,50,0,"union county, nm",35059
+NV,Carson City,219,234,24,"carson city, nv",32510
+NV,Churchill,25,40,0,"churchill county, nv",32001
+NV,Clark,6323,5370,452,"clark county, nv",32003
+NV,Douglas,23,23,0,"douglas county, nv",32005
+NV,Elko,59,75,7,"elko county, nv",32007
+NV,Humboldt,25,53,3,"humboldt county, nv",32013
+NV,Lander,5,25,0,"lander county, nv",32015
+NV,Lincoln,4,20,0,"lincoln county, nv",32017
+NV,Lyon,14,63,0,"lyon county, nv",32019
+NV,Mineral,11,35,0,"mineral county, nv",32021
+NV,Nye,25,25,0,"nye county, nv",32023
+NV,Pershing,13,38,0,"pershing county, nv",32027
+NV,Washoe,1429,1705,290,"washoe county, nv",32031
+NV,White Pine,25,25,0,"white pine county, nv",32033
+NY,Albany,1623,899,81,"albany county, ny",36001
+NY,Allegany,69,70,6,"allegany county, ny",36003
+NY,Bronx,4602,3000,201,"bronx county, ny",36005
+NY,Broome,772,742,47,"broome county, ny",36007
+NY,Cattaraugus,260,186,0,"cattaraugus county, ny",36009
+NY,Cayuga,85,99,0,"cayuga county, ny",36011
+NY,Chautauqua,208,386,26,"chautauqua county, ny",36013
+NY,Chemung,325,391,20,"chemung county, ny",36015
+NY,Chenango,58,58,7,"chenango county, ny",36017
+NY,Clinton,300,300,21,"clinton county, ny",36019
+NY,Columbia,95,192,9,"columbia county, ny",36021
+NY,Cortland,103,162,12,"cortland county, ny",36023
+NY,Delaware,56,0,0,"delaware county, ny",36025
+NY,Dutchess,874,692,27,"dutchess county, ny",36027
+NY,Erie,2653,2664,190,"erie county, ny",36029
+NY,Essex,25,0,0,"essex county, ny",36031
+NY,Franklin,131,171,13,"franklin county, ny",36033
+NY,Fulton,58,74,8,"fulton county, ny",36035
+NY,Genesee,131,0,10,"genesee county, ny",36037
+NY,Herkimer,25,0,0,"herkimer county, ny",36043
+NY,Jefferson,287,290,10,"jefferson county, ny",36045
+NY,Kings,4557,5746,248,"kings county, ny",36047
+NY,Lewis,25,0,6,"lewis county, ny",36049
+NY,Livingston,67,67,0,"livingston county, ny",36051
+NY,Madison,126,101,6,"madison county, ny",36053
+NY,Monroe,2038,1139,154,"monroe county, ny",36055
+NY,Montgomery,100,120,8,"montgomery county, ny",36057
+NY,Nassau,4187,4377,235,"nassau county, ny",36059
+NY,New York,9382,9378,725,"new york county, ny",36061
+NY,Niagara,411,482,32,"niagara county, ny",36063
+NY,Oneida,903,701,26,"oneida county, ny",36065
+NY,Onondaga,2113,1762,118,"onondaga county, ny",36067
+NY,Ontario,307,399,27,"ontario county, ny",36069
+NY,Orange,986,807,76,"orange county, ny",36071
+NY,Orleans,25,0,0,"orleans county, ny",36073
+NY,Oswego,132,132,8,"oswego county, ny",36075
+NY,Otsego,227,180,14,"otsego county, ny",36077
+NY,Putnam,120,164,10,"putnam county, ny",36079
+NY,Queens,3438,2857,92,"queens county, ny",36081
+NY,Rensselaer,257,227,24,"rensselaer county, ny",36083
+NY,Richmond,1254,1114,62,"richmond county, ny",36085
+NY,Rockland,1144,791,0,"rockland county, ny",36087
+NY,Saint Lawrence,384,259,20,"st. lawrence county, ny",36089
+NY,Saratoga,259,171,0,"saratoga county, ny",36091
+NY,Schenectady,351,538,36,"schenectady county, ny",36093
+NY,Schoharie,40,40,0,"schoharie county, ny",36095
+NY,Schuyler,25,0,0,"schuyler county, ny",36097
+NY,Steuben,95,115,8,"steuben county, ny",36101
+NY,Suffolk,3509,3181,250,"suffolk county, ny",36103
+NY,Sullivan,99,154,0,"sullivan county, ny",36105
+NY,Tompkins,163,212,16,"tompkins county, ny",36109
+NY,Ulster,209,300,25,"ulster county, ny",36111
+NY,Warren,361,406,24,"warren county, ny",36113
+NY,Wayne,101,120,8,"wayne county, ny",36117
+NY,Westchester,3160,3396,158,"westchester county, ny",36119
+NY,Wyoming,50,62,5,"wyoming county, ny",36121
+NY,Yates,25,0,0,"yates county, ny",36123
+OH,Adams,25,25,0,"adams county, oh",39001
+OH,Allen,529,830,34,"allen county, oh",39003
+OH,Ashland,39,123,6,"ashland county, oh",39005
+OH,Ashtabula,286,431,19,"ashtabula county, oh",39007
+OH,Athens,156,0,0,"athens county, oh",39009
+OH,Auglaize,36,131,6,"auglaize county, oh",39011
+OH,Belmont,185,45,0,"belmont county, oh",39013
+OH,Butler,809,593,56,"butler county, oh",39017
+OH,Champaign,25,0,0,"champaign county, oh",39021
+OH,Clark,270,40,38,"clark county, oh",39023
+OH,Clermont,147,160,16,"clermont county, oh",39025
+OH,Clinton,89,165,6,"clinton county, oh",39027
+OH,Columbiana,219,199,20,"columbiana county, oh",39029
+OH,Coshocton,56,56,7,"coshocton county, oh",39031
+OH,Crawford,50,75,9,"crawford county, oh",39033
+OH,Cuyahoga,5850,5935,397,"cuyahoga county, oh",39035
+OH,Darke,40,104,6,"darke county, oh",39037
+OH,Defiance,73,104,8,"defiance county, oh",39039
+OH,Delaware,124,60,6,"delaware county, oh",39041
+OH,Erie,410,405,18,"erie county, oh",39043
+OH,Fairfield,213,245,20,"fairfield county, oh",39045
+OH,Fayette,25,25,0,"fayette county, oh",39047
+OH,Franklin,5911,3692,368,"franklin county, oh",39049
+OH,Fulton,25,117,7,"fulton county, oh",39051
+OH,Gallia,157,287,14,"gallia county, oh",39053
+OH,Geauga,124,0,12,"geauga county, oh",39055
+OH,Greene,235,206,20,"greene county, oh",39057
+OH,Guernsey,156,255,11,"guernsey county, oh",39059
+OH,Hamilton,3829,3626,232,"hamilton county, oh",39061
+OH,Hancock,141,176,0,"hancock county, oh",39063
+OH,Hardin,25,25,0,"hardin county, oh",39065
+OH,Harrison,25,25,0,"harrison county, oh",39067
+OH,Henry,25,31,5,"henry county, oh",39069
+OH,Highland,50,70,0,"highland county, oh",39071
+OH,Hocking,25,0,0,"hocking county, oh",39073
+OH,Holmes,41,69,4,"holmes county, oh",39075
+OH,Huron,148,198,22,"huron county, oh",39077
+OH,Jackson,24,25,0,"jackson county, oh",39079
+OH,Jefferson,448,500,12,"jefferson county, oh",39081
+OH,Knox,65,111,12,"knox county, oh",39083
+OH,Lake,709,531,27,"lake county, oh",39085
+OH,Lawrence,8,8,0,"lawrence county, oh",39087
+OH,Licking,262,35,13,"licking county, oh",39089
+OH,Logan,39,115,0,"logan county, oh",39091
+OH,Lorain,838,453,54,"lorain county, oh",39093
+OH,Lucas,2468,3274,158,"lucas county, oh",39095
+OH,Madison,45,94,13,"madison county, oh",39097
+OH,Mahoning,826,1100,38,"mahoning county, oh",39099
+OH,Marion,174,0,15,"marion county, oh",39101
+OH,Medina,150,191,12,"medina county, oh",39103
+OH,Mercer,42,88,5,"mercer county, oh",39107
+OH,Miami,119,182,10,"miami county, oh",39109
+OH,Montgomery,2153,2327,208,"montgomery county, oh",39113
+OH,Morrow,23,25,3,"morrow county, oh",39117
+OH,Muskingum,282,321,24,"muskingum county, oh",39119
+OH,Ottawa,25,25,4,"ottawa county, oh",39123
+OH,Paulding,25,25,0,"paulding county, oh",39125
+OH,Pickaway,83,83,8,"pickaway county, oh",39129
+OH,Pike,25,25,0,"pike county, oh",39131
+OH,Portage,191,302,16,"portage county, oh",39133
+OH,Richland,279,358,37,"richland county, oh",39139
+OH,Ross,189,261,12,"ross county, oh",39141
+OH,Sandusky,102,186,8,"sandusky county, oh",39143
+OH,Scioto,202,446,16,"scioto county, oh",39145
+OH,Seneca,94,145,9,"seneca county, oh",39147
+OH,Shelby,61,90,7,"shelby county, oh",39149
+OH,Stark,1006,1523,68,"stark county, oh",39151
+OH,Summit,2260,2097,145,"summit county, oh",39153
+OH,Trumbull,435,590,42,"trumbull county, oh",39155
+OH,Tuscarawas,153,174,10,"tuscarawas county, oh",39157
+OH,Union,60,97,7,"union county, oh",39159
+OH,Van Wert,145,195,5,"van wert county, oh",39161
+OH,Warren,265,340,16,"warren county, oh",39165
+OH,Washington,213,243,11,"washington county, oh",39167
+OH,Wayne,129,184,14,"wayne county, oh",39169
+OH,Williams,100,123,7,"williams county, oh",39171
+OH,Wood,149,0,10,"wood county, oh",39173
+OH,Wyandot,24,31,0,"wyandot county, oh",39175
+OK,Adair,30,67,0,"adair county, ok",40001
+OK,Atoka,25,25,0,"atoka county, ok",40005
+OK,Beaver,24,24,0,"beaver county, ok",40007
+OK,Beckham,34,62,6,"beckham county, ok",40009
+OK,Blaine,42,42,0,"blaine county, ok",40011
+OK,Bryan,140,148,8,"bryan county, ok",40013
+OK,Caddo,42,42,0,"caddo county, ok",40015
+OK,Canadian,74,75,8,"canadian county, ok",40017
+OK,Carter,162,212,13,"carter county, ok",40019
+OK,Cherokee,122,98,14,"cherokee county, ok",40021
+OK,Choctaw,34,34,0,"choctaw county, ok",40023
+OK,Cimarron,25,25,0,"cimarron county, ok",40025
+OK,Cleveland,1025,605,52,"cleveland county, ok",40027
+OK,Coal,20,20,0,"coal county, ok",40029
+OK,Comanche,365,512,28,"comanche county, ok",40031
+OK,Craig,235,55,0,"craig county, ok",40035
+OK,Creek,95,95,0,"creek county, ok",40037
+OK,Custer,70,81,4,"custer county, ok",40039
+OK,Delaware,58,58,6,"delaware county, ok",40041
+OK,Dewey,18,18,0,"dewey county, ok",40043
+OK,Ellis,25,25,0,"ellis county, ok",40045
+OK,Garfield,349,436,30,"garfield county, ok",40047
+OK,Garvin,26,26,0,"garvin county, ok",40049
+OK,Grady,49,75,9,"grady county, ok",40051
+OK,Greer,18,18,0,"greer county, ok",40055
+OK,Harmon,22,25,0,"harmon county, ok",40057
+OK,Harper,15,25,0,"harper county, ok",40059
+OK,Hughes,25,25,0,"hughes county, ok",40063
+OK,Jackson,49,49,6,"jackson county, ok",40065
+OK,Jefferson,25,25,0,"jefferson county, ok",40067
+OK,Johnston,25,25,0,"johnston county, ok",40069
+OK,Kay,82,189,10,"kay county, ok",40071
+OK,Kingfisher,25,25,0,"kingfisher county, ok",40073
+OK,Kiowa,38,38,0,"kiowa county, ok",40075
+OK,Latimer,43,0,0,"latimer county, ok",40077
+OK,Le Flore,25,43,4,"le flore county, ok",40079
+OK,Lincoln,50,50,0,"lincoln county, ok",40081
+OK,Logan,25,25,0,"logan county, ok",40083
+OK,Love,25,25,0,"love county, ok",40085
+OK,Major,25,25,0,"major county, ok",40093
+OK,Marshall,21,25,0,"marshall county, ok",40095
+OK,Mayes,24,48,0,"mayes county, ok",40097
+OK,Mcclain,39,39,0,"mcclain county, ok",40087
+OK,Mccurtain,77,0,6,"mccurtain county, ok",40089
+OK,Murray,25,25,0,"murray county, ok",40099
+OK,Muskogee,373,384,24,"muskogee county, ok",40101
+OK,Noble,26,26,0,"noble county, ok",40103
+OK,Nowata,25,25,0,"nowata county, ok",40105
+OK,Okfuskee,25,0,0,"okfuskee county, ok",40107
+OK,Oklahoma,4337,4357,267,"oklahoma county, ok",40109
+OK,Okmulgee,107,107,0,"okmulgee county, ok",40111
+OK,Osage,40,40,0,"osage county, ok",40113
+OK,Ottawa,144,167,9,"ottawa county, ok",40115
+OK,Pawnee,14,14,0,"pawnee county, ok",40117
+OK,Payne,161,216,11,"payne county, ok",40119
+OK,Pittsburg,132,164,15,"pittsburg county, ok",40121
+OK,Pontotoc,240,216,12,"pontotoc county, ok",40123
+OK,Pottawatomie,111,130,14,"pottawatomie county, ok",40125
+OK,Pushmataha,42,0,0,"pushmataha county, ok",40127
+OK,Roger Mills,15,15,0,"roger mills county, ok",40129
+OK,Rogers,100,81,6,"rogers county, ok",40131
+OK,Seminole,32,32,0,"seminole county, ok",40133
+OK,Sequoyah,41,41,0,"sequoyah county, ok",40135
+OK,Stephens,86,138,9,"stephens county, ok",40137
+OK,Texas,47,47,0,"texas county, ok",40139
+OK,Tulsa,3313,3360,276,"tulsa county, ok",40143
+OK,Wagoner,100,100,6,"wagoner county, ok",40145
+OK,Washington,81,140,0,"washington county, ok",40147
+OK,Washita,14,14,0,"washita county, ok",40149
+OK,Woods,25,25,0,"woods county, ok",40151
+OK,Woodward,64,115,6,"woodward county, ok",40153
+OR,Baker,21,36,2,"baker county, or",41001
+OR,Benton,169,188,12,"benton county, or",41003
+OR,Clackamas,453,549,54,"clackamas county, or",41005
+OR,Clatsop,48,83,4,"clatsop county, or",41007
+OR,Coos,166,218,12,"coos county, or",41011
+OR,Crook,16,16,0,"crook county, or",41013
+OR,Curry,16,24,0,"curry county, or",41015
+OR,Deschutes,270,304,36,"deschutes county, or",41017
+OR,Douglas,156,190,32,"douglas county, or",41019
+OR,Grant,14,25,0,"grant county, or",41023
+OR,Harney,19,25,2,"harney county, or",41025
+OR,Hood River,25,25,0,"hood river county, or",41027
+OR,Jackson,458,595,34,"jackson county, or",41029
+OR,Jefferson,25,25,0,"jefferson county, or",41031
+OR,Josephine,121,125,12,"josephine county, or",41033
+OR,Klamath,105,176,0,"klamath county, or",41035
+OR,Lake,24,24,0,"lake county, or",41037
+OR,Lane,721,599,71,"lane county, or",41039
+OR,Lincoln,50,50,0,"lincoln county, or",41041
+OR,Linn,92,128,11,"linn county, or",41043
+OR,Malheur,44,49,8,"malheur county, or",41045
+OR,Marion,1067,543,68,"marion county, or",41047
+OR,Morrow,21,21,0,"morrow county, or",41049
+OR,Multnomah,2852,2598,165,"multnomah county, or",41051
+OR,Polk,15,25,0,"polk county, or",41053
+OR,Tillamook,25,49,4,"tillamook county, or",41057
+OR,Umatilla,66,98,8,"umatilla county, or",41059
+OR,Union,25,25,4,"union county, or",41061
+OR,Wallowa,23,25,0,"wallowa county, or",41063
+OR,Wasco,43,49,17,"wasco county, or",41065
+OR,Washington,989,795,85,"washington county, or",41067
+OR,Yamhill,90,128,11,"yamhill county, or",41071
+PA,Adams,76,76,8,"adams county, pa",42001
+PA,Allegheny,6602,6736,443,"allegheny county, pa",42003
+PA,Armstrong,131,154,12,"armstrong county, pa",42005
+PA,Beaver,229,320,20,"beaver county, pa",42007
+PA,Bedford,40,49,4,"bedford county, pa",42009
+PA,Berks,1142,1326,50,"berks county, pa",42011
+PA,Blair,496,518,42,"blair county, pa",42013
+PA,Bradford,310,314,42,"bradford county, pa",42015
+PA,Bucks,1105,1155,91,"bucks county, pa",42017
+PA,Butler,292,296,35,"butler county, pa",42019
+PA,Cambria,423,539,19,"cambria county, pa",42021
+PA,Carbon,68,159,6,"carbon county, pa",42025
+PA,Centre,432,440,0,"centre county, pa",42027
+PA,Chester,1133,1109,54,"chester county, pa",42029
+PA,Clarion,169,146,7,"clarion county, pa",42031
+PA,Clearfield,241,315,15,"clearfield county, pa",42033
+PA,Clinton,63,68,0,"clinton county, pa",42035
+PA,Columbia,143,173,22,"columbia county, pa",42037
+PA,Crawford,170,242,16,"crawford county, pa",42039
+PA,Cumberland,724,684,31,"cumberland county, pa",42041
+PA,Dauphin,1516,1433,36,"dauphin county, pa",42043
+PA,Delaware,2036,1329,101,"delaware county, pa",42045
+PA,Elk,25,35,0,"elk county, pa",42047
+PA,Erie,1040,1116,40,"erie county, pa",42049
+PA,Fayette,210,235,15,"fayette county, pa",42051
+PA,Franklin,299,314,0,"franklin county, pa",42055
+PA,Fulton,21,21,0,"fulton county, pa",42057
+PA,Greene,23,49,0,"greene county, pa",42059
+PA,Huntingdon,57,62,7,"huntingdon county, pa",42061
+PA,Indiana,134,166,12,"indiana county, pa",42063
+PA,Jefferson,69,84,5,"jefferson county, pa",42065
+PA,Lackawanna,855,984,53,"lackawanna county, pa",42069
+PA,Lancaster,1031,941,73,"lancaster county, pa",42071
+PA,Lawrence,206,207,12,"lawrence county, pa",42073
+PA,Lebanon,393,273,18,"lebanon county, pa",42075
+PA,Lehigh,2277,1271,98,"lehigh county, pa",42077
+PA,Luzerne,1248,1114,67,"luzerne county, pa",42079
+PA,Lycoming,303,300,32,"lycoming county, pa",42081
+PA,Mckean,138,138,10,"mckean county, pa",42083
+PA,Mercer,562,478,26,"mercer county, pa",42085
+PA,Mifflin,109,123,10,"mifflin county, pa",42087
+PA,Monroe,295,239,24,"monroe county, pa",42089
+PA,Montgomery,3019,2778,165,"montgomery county, pa",42091
+PA,Montour,848,773,68,"montour county, pa",42093
+PA,Northampton,1000,1220,80,"northampton county, pa",42095
+PA,Northumberland,45,0,0,"northumberland county, pa",42097
+PA,Philadelphia,6540,7129,387,"philadelphia county, pa",42101
+PA,Potter,25,59,4,"potter county, pa",42105
+PA,Schuylkill,266,349,26,"schuylkill county, pa",42107
+PA,Somerset,148,185,6,"somerset county, pa",42111
+PA,Susquehanna,50,50,4,"susquehanna county, pa",42115
+PA,Tioga,25,25,6,"tioga county, pa",42117
+PA,Union,123,132,12,"union county, pa",42119
+PA,Venango,118,158,8,"venango county, pa",42121
+PA,Warren,237,237,6,"warren county, pa",42123
+PA,Washington,448,578,16,"washington county, pa",42125
+PA,Wayne,76,112,8,"wayne county, pa",42127
+PA,Westmoreland,794,974,33,"westmoreland county, pa",42129
+PA,Wyoming,44,44,6,"wyoming county, pa",42131
+PA,York,808,985,70,"york county, pa",42133
+PR,Aguadilla,124,0,8,"aguadilla municipio, pr",72005
+PR,Aibonito,210,0,6,"aibonito municipio, pr",72009
+PR,Arecibo,292,0,14,"arecibo municipio, pr",72013
+PR,Bayamon,837,0,66,"bayamon municipio, pr",72021
+PR,Cabo Rojo,43,0,0,"cabo rojo municipio, pr",72023
+PR,Caguas,665,0,64,"caguas municipio, pr",72025
+PR,Carolina,342,0,14,"carolina municipio, pr",72031
+PR,Cayey,225,0,35,"cayey municipio, pr",72035
+PR,Cidra,216,0,0,"cidra municipio, pr",72041
+PR,Comerio,0,0,0,"comerio municipio, pr",72045
+PR,Fajardo,222,0,21,"fajardo municipio, pr",72053
+PR,Guayama,116,0,6,"guayama municipio, pr",72057
+PR,Guaynabo,49,0,0,"guaynabo municipio, pr",72061
+PR,Humacao,296,0,39,"humacao municipio, pr",72069
+PR,Lares,0,0,0,"lares municipio, pr",72081
+PR,Manati,553,0,28,"manati municipio, pr",72091
+PR,Mayaguez,468,0,44,"mayaguez municipio, pr",72097
+PR,Moca,106,0,7,"moca municipio, pr",72099
+PR,Ponce,848,0,111,"ponce municipio, pr",72113
+PR,San German,232,0,18,"san german municipio, pr",72125
+PR,San Juan,2555,0,245,"san juan municipio, pr",72127
+PR,Utuado,7,0,0,"utuado municipio, pr",72141
+PR,Vega Baja,130,0,6,"vega baja municipio, pr",72145
+PR,Yauco,84,0,11,"yauco municipio, pr",72153
+RI,Kent,323,359,15,"kent county, ri",44003
+RI,Newport,102,129,10,"newport county, ri",44005
+RI,Providence,3416,2627,204,"providence county, ri",44007
+RI,Washington,154,225,17,"washington county, ri",44009
+SC,Abbeville,25,25,6,"abbeville county, sc",45001
+SC,Aiken,204,259,35,"aiken county, sc",45003
+SC,Allendale,25,25,0,"allendale county, sc",45005
+SC,Anderson,532,793,25,"anderson county, sc",45007
+SC,Beaufort,318,290,24,"beaufort county, sc",45013
+SC,Charleston,2172,2029,221,"charleston county, sc",45019
+SC,Cherokee,44,125,12,"cherokee county, sc",45021
+SC,Chester,36,82,6,"chester county, sc",45023
+SC,Chesterfield,48,59,6,"chesterfield county, sc",45025
+SC,Clarendon,49,81,6,"clarendon county, sc",45027
+SC,Colleton,102,135,8,"colleton county, sc",45029
+SC,Darlington,152,188,12,"darlington county, sc",45031
+SC,Dillon,72,79,6,"dillon county, sc",45033
+SC,Dorchester,94,94,0,"dorchester county, sc",45035
+SC,Edgefield,25,25,0,"edgefield county, sc",45037
+SC,Florence,1011,1033,63,"florence county, sc",45041
+SC,Georgetown,131,131,10,"georgetown county, sc",45043
+SC,Greenville,1560,1748,123,"greenville county, sc",45045
+SC,Greenwood,332,400,20,"greenwood county, sc",45047
+SC,Hampton,32,32,6,"hampton county, sc",45049
+SC,Horry,1032,973,100,"horry county, sc",45051
+SC,Jasper,41,41,4,"jasper county, sc",45053
+SC,Kershaw,121,121,10,"kershaw county, sc",45055
+SC,Lancaster,208,253,20,"lancaster county, sc",45057
+SC,Laurens,43,76,0,"laurens county, sc",45059
+SC,Lexington,634,636,37,"lexington county, sc",45063
+SC,Marion,94,124,10,"marion county, sc",45067
+SC,Newberry,48,90,7,"newberry county, sc",45071
+SC,Oconee,122,169,0,"oconee county, sc",45073
+SC,Orangeburg,266,301,20,"orangeburg county, sc",45075
+SC,Pickens,131,164,4,"pickens county, sc",45077
+SC,Richland,2339,1490,82,"richland county, sc",45079
+SC,Spartanburg,748,884,41,"spartanburg county, sc",45083
+SC,Sumter,173,283,17,"sumter county, sc",45085
+SC,Union,49,143,6,"union county, sc",45087
+SC,Williamsburg,25,25,4,"williamsburg county, sc",45089
+SC,York,318,338,24,"york county, sc",45091
+SD,Beadle,25,25,6,"beadle county, sd",46005
+SD,Bennett,14,14,0,"bennett county, sd",46007
+SD,Bon Homme,50,50,0,"bon homme county, sd",46009
+SD,Brookings,49,49,0,"brookings county, sd",46011
+SD,Brown,97,157,6,"brown county, sd",46013
+SD,Brule,25,25,0,"brule county, sd",46015
+SD,Charles Mix,37,37,0,"charles mix county, sd",46023
+SD,Clay,25,25,0,"clay county, sd",46027
+SD,Codington,81,81,8,"codington county, sd",46029
+SD,Custer,11,11,0,"custer county, sd",46033
+SD,Davison,50,67,8,"davison county, sd",46035
+SD,Day,20,25,0,"day county, sd",46037
+SD,Deuel,10,10,0,"deuel county, sd",46039
+SD,Dewey,8,0,0,"dewey county, sd",46041
+SD,Douglas,11,11,0,"douglas county, sd",46043
+SD,Edmunds,12,12,0,"edmunds county, sd",46045
+SD,Fall River,25,25,0,"fall river county, sd",46047
+SD,Faulk,12,12,0,"faulk county, sd",46049
+SD,Grant,25,25,0,"grant county, sd",46051
+SD,Gregory,41,41,0,"gregory county, sd",46053
+SD,Haakon,18,18,0,"haakon county, sd",46055
+SD,Hand,25,0,0,"hand county, sd",46059
+SD,Hughes,50,50,6,"hughes county, sd",46065
+SD,Hutchinson,50,50,0,"hutchinson county, sd",46067
+SD,Jerauld,16,16,0,"jerauld county, sd",46073
+SD,Kingsbury,6,6,0,"kingsbury county, sd",46077
+SD,Lake,22,22,0,"lake county, sd",46079
+SD,Lawrence,45,62,5,"lawrence county, sd",46081
+SD,Lincoln,64,64,0,"lincoln county, sd",46083
+SD,Marshall,20,20,0,"marshall county, sd",46091
+SD,Mcpherson,4,6,0,"mcpherson county, sd",46089
+SD,Meade,79,25,3,"meade county, sd",46093
+SD,Minnehaha,1296,1150,56,"minnehaha county, sd",46099
+SD,Moody,18,18,0,"moody county, sd",46101
+SD,Oglala Lakota,45,0,0,"oglala lakota county, sd",46102
+SD,Pennington,403,449,38,"pennington county, sd",46103
+SD,Potter,10,10,0,"potter county, sd",46107
+SD,Roberts,25,25,0,"roberts county, sd",46109
+SD,Spink,23,25,0,"spink county, sd",46115
+SD,Todd,35,0,0,"todd county, sd",46121
+SD,Tripp,25,25,0,"tripp county, sd",46123
+SD,Turner,12,12,0,"turner county, sd",46125
+SD,Union,38,40,0,"union county, sd",46127
+SD,Walworth,25,25,4,"walworth county, sd",46129
+SD,Yankton,168,232,10,"yankton county, sd",46135
+TN,Anderson,220,317,25,"anderson county, tn",47001
+TN,Bedford,44,60,8,"bedford county, tn",47003
+TN,Benton,25,25,0,"benton county, tn",47005
+TN,Bledsoe,25,25,0,"bledsoe county, tn",47007
+TN,Blount,348,459,8,"blount county, tn",47009
+TN,Bradley,183,251,27,"bradley county, tn",47011
+TN,Campbell,81,120,10,"campbell county, tn",47013
+TN,Cannon,30,60,0,"cannon county, tn",47015
+TN,Carroll,42,70,0,"carroll county, tn",47017
+TN,Carter,109,121,8,"carter county, tn",47019
+TN,Cheatham,12,12,0,"cheatham county, tn",47021
+TN,Claiborne,33,85,5,"claiborne county, tn",47025
+TN,Cocke,32,74,5,"cocke county, tn",47029
+TN,Coffee,123,160,13,"coffee county, tn",47031
+TN,Cumberland,73,189,12,"cumberland county, tn",47035
+TN,Davidson,3658,4073,359,"davidson county, tn",47037
+TN,Decatur,40,40,0,"decatur county, tn",47039
+TN,Dekalb,52,71,4,"dekalb county, tn",47041
+TN,Dickson,91,157,6,"dickson county, tn",47043
+TN,Dyer,109,225,14,"dyer county, tn",47045
+TN,Franklin,152,173,10,"franklin county, tn",47051
+TN,Gibson,47,70,3,"gibson county, tn",47053
+TN,Giles,81,95,6,"giles county, tn",47055
+TN,Greene,189,240,17,"greene county, tn",47059
+TN,Hamblen,116,167,20,"hamblen county, tn",47063
+TN,Hamilton,2141,2052,151,"hamilton county, tn",47065
+TN,Hancock,10,10,0,"hancock county, tn",47067
+TN,Hardeman,175,238,0,"hardeman county, tn",47069
+TN,Hardin,49,58,0,"hardin county, tn",47071
+TN,Hawkins,32,50,6,"hawkins county, tn",47073
+TN,Henderson,36,45,0,"henderson county, tn",47077
+TN,Henry,64,142,0,"henry county, tn",47079
+TN,Hickman,25,25,0,"hickman county, tn",47081
+TN,Houston,25,25,0,"houston county, tn",47083
+TN,Humphreys,25,25,0,"humphreys county, tn",47085
+TN,Jefferson,58,58,6,"jefferson county, tn",47089
+TN,Johnson,2,2,0,"johnson county, tn",47091
+TN,Knox,1751,1253,147,"knox county, tn",47093
+TN,Lauderdale,25,25,0,"lauderdale county, tn",47097
+TN,Lawrence,89,99,6,"lawrence county, tn",47099
+TN,Lincoln,49,59,6,"lincoln county, tn",47103
+TN,Loudon,30,50,5,"loudon county, tn",47105
+TN,Macon,25,25,0,"macon county, tn",47111
+TN,Madison,870,177,89,"madison county, tn",47113
+TN,Marion,28,70,0,"marion county, tn",47115
+TN,Marshall,25,25,0,"marshall county, tn",47117
+TN,Maury,281,271,41,"maury county, tn",47119
+TN,Mcminn,88,118,4,"mcminn county, tn",47107
+TN,Monroe,59,59,0,"monroe county, tn",47123
+TN,Montgomery,260,296,21,"montgomery county, tn",47125
+TN,Obion,63,173,0,"obion county, tn",47131
+TN,Overton,90,114,6,"overton county, tn",47133
+TN,Perry,21,53,0,"perry county, tn",47135
+TN,Putnam,247,285,38,"putnam county, tn",47141
+TN,Rhea,25,25,3,"rhea county, tn",47143
+TN,Roane,52,54,6,"roane county, tn",47145
+TN,Robertson,109,109,8,"robertson county, tn",47147
+TN,Rutherford,759,491,78,"rutherford county, tn",47149
+TN,Scott,25,25,0,"scott county, tn",47151
+TN,Sevier,58,79,16,"sevier county, tn",47155
+TN,Shelby,4470,4745,196,"shelby county, tn",47157
+TN,Smith,25,25,2,"smith county, tn",47159
+TN,Sullivan,851,1139,92,"sullivan county, tn",47163
+TN,Sumner,255,265,38,"sumner county, tn",47165
+TN,Tipton,47,100,0,"tipton county, tn",47167
+TN,Trousdale,25,25,0,"trousdale county, tn",47169
+TN,Unicoi,10,48,0,"unicoi county, tn",47171
+TN,Warren,100,125,8,"warren county, tn",47177
+TN,Washington,630,581,76,"washington county, tn",47179
+TN,Wayne,30,80,0,"wayne county, tn",47181
+TN,Weakley,94,156,0,"weakley county, tn",47183
+TN,White,32,60,4,"white county, tn",47185
+TN,Williamson,543,270,28,"williamson county, tn",47187
+TN,Wilson,170,170,12,"wilson county, tn",47189
+TX,Anderson,150,0,10,"anderson county, tx",48001
+TX,Andrews,30,34,0,"andrews county, tx",48003
+TX,Angelina,367,446,39,"angelina county, tx",48005
+TX,Atascosa,67,67,6,"atascosa county, tx",48013
+TX,Austin,32,32,0,"austin county, tx",48015
+TX,Bailey,25,25,0,"bailey county, tx",48017
+TX,Bastrop,8,8,0,"bastrop county, tx",48021
+TX,Baylor,27,49,0,"baylor county, tx",48023
+TX,Bee,40,69,8,"bee county, tx",48025
+TX,Bell,1241,365,90,"bell county, tx",48027
+TX,Bexar,8584,7596,505,"bexar county, tx",48029
+TX,Bosque,25,25,0,"bosque county, tx",48035
+TX,Bowie,679,864,58,"bowie county, tx",48037
+TX,Brazoria,247,312,16,"brazoria county, tx",48039
+TX,Brazos,579,537,48,"brazos county, tx",48041
+TX,Brewster,25,25,3,"brewster county, tx",48043
+TX,Brown,77,188,12,"brown county, tx",48049
+TX,Burleson,15,25,0,"burleson county, tx",48051
+TX,Burnet,71,71,12,"burnet county, tx",48053
+TX,Caldwell,57,59,0,"caldwell county, tx",48055
+TX,Calhoun,25,25,6,"calhoun county, tx",48057
+TX,Cameron,1214,1277,96,"cameron county, tx",48061
+TX,Camp,25,25,0,"camp county, tx",48063
+TX,Cass,43,43,0,"cass county, tx",48067
+TX,Castro,17,17,0,"castro county, tx",48069
+TX,Chambers,39,39,0,"chambers county, tx",48071
+TX,Cherokee,346,97,0,"cherokee county, tx",48073
+TX,Childress,39,39,0,"childress county, tx",48075
+TX,Clay,25,25,0,"clay county, tx",48077
+TX,Cochran,18,18,0,"cochran county, tx",48079
+TX,Coleman,25,25,0,"coleman county, tx",48083
+TX,Collin,1826,1928,82,"collin county, tx",48085
+TX,Collingsworth,13,13,0,"collingsworth county, tx",48087
+TX,Colorado,61,65,0,"colorado county, tx",48089
+TX,Comal,324,340,16,"comal county, tx",48091
+TX,Comanche,25,25,0,"comanche county, tx",48093
+TX,Concho,16,16,0,"concho county, tx",48095
+TX,Cooke,54,78,5,"cooke county, tx",48097
+TX,Coryell,25,25,4,"coryell county, tx",48099
+TX,Crane,25,25,0,"crane county, tx",48103
+TX,Crosby,25,25,0,"crosby county, tx",48107
+TX,Culberson,14,14,0,"culberson county, tx",48109
+TX,Dallam,21,21,0,"dallam county, tx",48111
+TX,Dallas,7823,7317,508,"dallas county, tx",48113
+TX,Dawson,22,23,0,"dawson county, tx",48115
+TX,De Witt,44,49,0,"de witt county, tx",48123
+TX,Deaf Smith,30,42,0,"deaf smith county, tx",48117
+TX,Denton,1464,1349,85,"denton county, tx",48121
+TX,Dimmit,25,25,0,"dimmit county, tx",48127
+TX,Eastland,36,52,0,"eastland county, tx",48133
+TX,Ector,560,638,30,"ector county, tx",48135
+TX,El Paso,2763,2094,225,"el paso county, tx",48141
+TX,Ellis,166,189,18,"ellis county, tx",48139
+TX,Erath,50,98,5,"erath county, tx",48143
+TX,Falls,36,36,0,"falls county, tx",48145
+TX,Fannin,317,25,2,"fannin county, tx",48147
+TX,Fayette,38,65,0,"fayette county, tx",48149
+TX,Fisher,14,14,0,"fisher county, tx",48151
+TX,Floyd,25,25,0,"floyd county, tx",48153
+TX,Fort Bend,1327,1268,146,"fort bend county, tx",48157
+TX,Freestone,37,37,0,"freestone county, tx",48161
+TX,Frio,24,22,0,"frio county, tx",48163
+TX,Gaines,25,33,0,"gaines county, tx",48165
+TX,Galveston,1363,252,0,"galveston county, tx",48167
+TX,Gillespie,57,86,10,"gillespie county, tx",48171
+TX,Gonzales,34,33,0,"gonzales county, tx",48177
+TX,Gray,97,115,8,"gray county, tx",48179
+TX,Grayson,663,623,71,"grayson county, tx",48181
+TX,Gregg,644,681,57,"gregg county, tx",48183
+TX,Grimes,18,25,0,"grimes county, tx",48185
+TX,Guadalupe,123,133,9,"guadalupe county, tx",48187
+TX,Hale,69,68,5,"hale county, tx",48189
+TX,Hamilton,42,42,0,"hamilton county, tx",48193
+TX,Hansford,14,14,0,"hansford county, tx",48195
+TX,Hardeman,24,24,0,"hardeman county, tx",48197
+TX,Harris,14802,13137,1039,"harris county, tx",48201
+TX,Harrison,149,149,42,"harrison county, tx",48203
+TX,Haskell,25,25,0,"haskell county, tx",48207
+TX,Hays,391,385,42,"hays county, tx",48209
+TX,Hemphill,15,26,0,"hemphill county, tx",48211
+TX,Henderson,127,127,10,"henderson county, tx",48213
+TX,Hidalgo,2212,2332,195,"hidalgo county, tx",48215
+TX,Hill,25,116,0,"hill county, tx",48217
+TX,Hockley,48,48,0,"hockley county, tx",48219
+TX,Hood,48,73,12,"hood county, tx",48221
+TX,Hopkins,56,96,14,"hopkins county, tx",48223
+TX,Houston,25,0,0,"houston county, tx",48225
+TX,Howard,275,150,8,"howard county, tx",48227
+TX,Hunt,176,181,16,"hunt county, tx",48231
+TX,Hutchinson,25,25,4,"hutchinson county, tx",48233
+TX,Jack,17,17,0,"jack county, tx",48237
+TX,Jackson,25,25,0,"jackson county, tx",48239
+TX,Jasper,40,59,6,"jasper county, tx",48241
+TX,Jefferson,1362,1179,88,"jefferson county, tx",48245
+TX,Jim Wells,72,135,8,"jim wells county, tx",48249
+TX,Johnson,346,501,35,"johnson county, tx",48251
+TX,Jones,7,45,0,"jones county, tx",48253
+TX,Karnes,25,25,0,"karnes county, tx",48255
+TX,Kaufman,351,91,8,"kaufman county, tx",48257
+TX,Kerr,302,124,12,"kerr county, tx",48265
+TX,Kimble,15,15,0,"kimble county, tx",48267
+TX,Kleberg,50,96,10,"kleberg county, tx",48273
+TX,Knox,28,28,0,"knox county, tx",48275
+TX,Lamar,154,202,20,"lamar county, tx",48277
+TX,Lamb,42,75,0,"lamb county, tx",48279
+TX,Lampasas,25,25,0,"lampasas county, tx",48281
+TX,Lavaca,50,50,3,"lavaca county, tx",48285
+TX,Liberty,41,32,0,"liberty county, tx",48291
+TX,Limestone,69,78,6,"limestone county, tx",48293
+TX,Llano,25,27,0,"llano county, tx",48299
+TX,Lubbock,2730,1569,194,"lubbock county, tx",48303
+TX,Lynn,25,24,0,"lynn county, tx",48305
+TX,Madison,15,25,0,"madison county, tx",48313
+TX,Martin,18,18,0,"martin county, tx",48317
+TX,Matagorda,63,75,6,"matagorda county, tx",48321
+TX,Maverick,86,101,10,"maverick county, tx",48323
+TX,Mcculloch,14,25,0,"mcculloch county, tx",48307
+TX,Mclennan,738,526,42,"mclennan county, tx",48309
+TX,Medina,25,25,0,"medina county, tx",48325
+TX,Midland,626,554,0,"midland county, tx",48329
+TX,Mitchell,25,25,0,"mitchell county, tx",48335
+TX,Montague,55,87,0,"montague county, tx",48337
+TX,Montgomery,1491,1431,113,"montgomery county, tx",48339
+TX,Moore,19,25,3,"moore county, tx",48341
+TX,Nacogdoches,297,392,27,"nacogdoches county, tx",48347
+TX,Navarro,49,162,9,"navarro county, tx",48349
+TX,Nolan,39,86,5,"nolan county, tx",48353
+TX,Nueces,1808,1872,105,"nueces county, tx",48355
+TX,Ochiltree,25,25,0,"ochiltree county, tx",48357
+TX,Palo Pinto,48,74,8,"palo pinto county, tx",48363
+TX,Panola,42,42,0,"panola county, tx",48365
+TX,Parker,108,129,20,"parker county, tx",48367
+TX,Parmer,25,25,0,"parmer county, tx",48369
+TX,Pecos,39,39,0,"pecos county, tx",48371
+TX,Polk,52,66,8,"polk county, tx",48373
+TX,Potter,1354,967,51,"potter county, tx",48375
+TX,Reagan,7,7,0,"reagan county, tx",48383
+TX,Reeves,25,25,0,"reeves county, tx",48389
+TX,Refugio,20,0,0,"refugio county, tx",48391
+TX,Rockwall,61,69,6,"rockwall county, tx",48397
+TX,Runnels,31,50,0,"runnels county, tx",48399
+TX,Rusk,41,96,0,"rusk county, tx",48401
+TX,Sabine,25,25,0,"sabine county, tx",48403
+TX,San Augustine,9,18,0,"san augustine county, tx",48405
+TX,Schleicher,14,14,0,"schleicher county, tx",48413
+TX,Scurry,25,25,0,"scurry county, tx",48415
+TX,Smith,1632,1234,211,"smith county, tx",48423
+TX,Somervell,16,16,0,"somervell county, tx",48425
+TX,Starr,48,48,0,"starr county, tx",48427
+TX,Stephens,14,40,0,"stephens county, tx",48429
+TX,Stonewall,20,20,0,"stonewall county, tx",48433
+TX,Sutton,12,12,0,"sutton county, tx",48435
+TX,Swisher,20,20,0,"swisher county, tx",48437
+TX,Tarrant,5952,5762,372,"tarrant county, tx",48439
+TX,Taylor,733,878,66,"taylor county, tx",48441
+TX,Terry,26,45,0,"terry county, tx",48445
+TX,Throckmorton,14,14,0,"throckmorton county, tx",48447
+TX,Titus,49,174,8,"titus county, tx",48449
+TX,Tom Green,580,470,29,"tom green county, tx",48451
+TX,Travis,3005,2714,301,"travis county, tx",48453
+TX,Tyler,25,49,0,"tyler county, tx",48457
+TX,Upton,26,29,0,"upton county, tx",48461
+TX,Uvalde,21,25,6,"uvalde county, tx",48463
+TX,Val Verde,47,93,7,"val verde county, tx",48465
+TX,Victoria,685,717,35,"victoria county, tx",48469
+TX,Walker,90,123,6,"walker county, tx",48471
+TX,Ward,21,25,0,"ward county, tx",48475
+TX,Washington,50,60,5,"washington county, tx",48477
+TX,Webb,515,557,56,"webb county, tx",48479
+TX,Wharton,26,49,4,"wharton county, tx",48481
+TX,Wheeler,41,41,0,"wheeler county, tx",48483
+TX,Wichita,812,479,12,"wichita county, tx",48485
+TX,Wilbarger,398,47,0,"wilbarger county, tx",48487
+TX,Williamson,954,848,100,"williamson county, tx",48491
+TX,Wilson,44,44,4,"wilson county, tx",48493
+TX,Winkler,19,19,0,"winkler county, tx",48495
+TX,Wise,49,99,21,"wise county, tx",48497
+TX,Wood,48,50,0,"wood county, tx",48499
+TX,Yoakum,24,24,0,"yoakum county, tx",48501
+TX,Young,50,50,0,"young county, tx",48503
+UT,Beaver,30,74,0,"beaver county, ut",49001
+UT,Box Elder,56,74,0,"box elder county, ut",49003
+UT,Cache,152,168,14,"cache county, ut",49005
+UT,Carbon,49,0,6,"carbon county, ut",49007
+UT,Davis,310,390,22,"davis county, ut",49011
+UT,Duchesne,35,49,4,"duchesne county, ut",49013
+UT,Garfield,15,36,0,"garfield county, ut",49017
+UT,Grand,17,17,0,"grand county, ut",49019
+UT,Iron,48,48,6,"iron county, ut",49021
+UT,Juab,25,25,0,"juab county, ut",49023
+UT,Kane,25,25,0,"kane county, ut",49025
+UT,Millard,37,37,0,"millard county, ut",49027
+UT,Salt Lake,2967,3377,230,"salt lake county, ut",49035
+UT,San Juan,32,36,1,"san juan county, ut",49037
+UT,Sanpete,43,43,0,"sanpete county, ut",49039
+UT,Sevier,24,29,0,"sevier county, ut",49041
+UT,Summit,37,38,4,"summit county, ut",49043
+UT,Tooele,36,44,4,"tooele county, ut",49045
+UT,Uintah,39,39,4,"uintah county, ut",49047
+UT,Utah,1227,1384,122,"utah county, ut",49049
+UT,Wasatch,19,19,0,"wasatch county, ut",49051
+UT,Washington,164,245,32,"washington county, ut",49053
+UT,Weber,457,593,64,"weber county, ut",49057
+VA,Accomack,46,0,10,"accomack county, va",51001
+VA,Albemarle,150,0,12,"albemarle county, va",51003
+VA,Alexandria City,339,0,40,"alexandria city, va",51510
+VA,Alleghany,95,0,10,"alleghany county, va",51005
+VA,Arlington,305,0,32,"arlington county, va",51013
+VA,Augusta,209,0,8,"augusta county, va",51015
+VA,Bath,14,0,0,"bath county, va",51017
+VA,Bedford,34,0,6,"bedford county, va",51019
+VA,Bristol City,25,0,0,"bristol city, va",51520
+VA,Buchanan,49,0,12,"buchanan county, va",51027
+VA,Charlottesville City,786,0,14,"charlottesville city, va",51540
+VA,Chesapeake City,310,0,28,"chesapeake city, va",51550
+VA,Chesterfield,450,0,94,"chesterfield county, va",51041
+VA,Culpeper,70,0,6,"culpeper county, va",51047
+VA,Danville City,367,0,34,"danville city, va",51590
+VA,Dickenson,2,0,0,"dickenson county, va",51051
+VA,Emporia City,70,0,7,"emporia city, va",51595
+VA,Essex,67,0,7,"essex county, va",51057
+VA,Fairfax,2807,0,142,"fairfax county, va",51059
+VA,Fauquier,97,0,8,"fauquier county, va",51061
+VA,Franklin,37,0,4,"franklin county, va",51067
+VA,Franklin City,75,0,8,"franklin city, va",51620
+VA,Fredericksburg City,533,0,0,"fredericksburg city, va",51630
+VA,Galax City,141,0,10,"galax city, va",51640
+VA,Giles,25,0,0,"giles county, va",51071
+VA,Gloucester,67,0,7,"gloucester county, va",51073
+VA,Halifax,107,0,12,"halifax county, va",51083
+VA,Hampton City,251,0,24,"hampton city, va",51650
+VA,Hanover,264,0,24,"hanover county, va",51085
+VA,Harrisonburg City,238,0,34,"harrisonburg city, va",51660
+VA,Henrico,1018,0,81,"henrico county, va",51087
+VA,Hopewell City,107,0,17,"hopewell city, va",51670
+VA,James City,276,0,26,"james city county, va",51095
+VA,Lancaster,25,0,0,"lancaster county, va",51103
+VA,Lexington City,25,0,0,"lexington city, va",51678
+VA,Loudoun,429,0,33,"loudoun county, va",51107
+VA,Lynchburg City,555,0,37,"lynchburg city, va",51680
+VA,Manassas City,94,0,11,"manassas city, va",51683
+VA,Martinsville City,223,0,0,"martinsville city, va",51690
+VA,Mecklenburg,70,0,0,"mecklenburg county, va",51117
+VA,Montgomery,198,0,22,"montgomery county, va",51121
+VA,New Kent,94,0,0,"new kent county, va",51127
+VA,Newport News City,605,0,34,"newport news city, va",51700
+VA,Norfolk City,1346,0,87,"norfolk city, va",51710
+VA,Norton City,233,0,11,"norton city, va",51720
+VA,Nottoway,180,0,0,"nottoway county, va",51135
+VA,Page,25,0,0,"page county, va",51139
+VA,Petersburg City,618,0,28,"petersburg city, va",51730
+VA,Portsmouth City,417,0,22,"portsmouth city, va",51740
+VA,Prince Edward,86,0,8,"prince edward county, va",51147
+VA,Prince William,207,0,24,"prince william county, va",51153
+VA,Pulaski,92,0,8,"pulaski county, va",51155
+VA,Richmond City,2507,0,33,"richmond city, va",51760
+VA,Roanoke,270,0,0,"roanoke county, va",51161
+VA,Roanoke City,747,0,36,"roanoke city, va",51770
+VA,Russell,49,0,5,"russell county, va",51167
+VA,Salem,330,0,24,"salem city, va",51775
+VA,Shenandoah,25,0,0,"shenandoah county, va",51171
+VA,Smyth,139,0,4,"smyth county, va",51173
+VA,Spotsylvania,105,0,12,"spotsylvania county, va",51177
+VA,Stafford,90,0,4,"stafford county, va",51179
+VA,Staunton City,132,0,0,"staunton city, va",51790
+VA,Suffolk City,155,0,12,"suffolk city, va",51800
+VA,Tazewell,207,0,12,"tazewell county, va",51185
+VA,Virginia Beach City,487,0,38,"virginia beach city, va",51810
+VA,Warren,46,0,8,"warren county, va",51187
+VA,Washington,115,0,14,"washington county, va",51191
+VA,Winchester City,389,0,48,"winchester city, va",51840
+VA,Wise,68,0,8,"wise county, va",51195
+VA,Wythe,92,0,6,"wythe county, va",51197
+VA,York,110,0,0,"york county, va",51199
+VI,Saint Croix,77,0,11,"st. croix, vi",78010
+VI,Saint Thomas,107,0,8,"st. thomas, vi",78030
+VT,Addison,25,45,0,"addison county, vt",50001
+VT,Bennington,78,99,10,"bennington county, vt",50003
+VT,Caledonia,25,75,4,"caledonia county, vt",50005
+VT,Chittenden,415,522,21,"chittenden county, vt",50007
+VT,Franklin,53,70,0,"franklin county, vt",50011
+VT,Lamoille,25,43,0,"lamoille county, vt",50015
+VT,Orange,25,52,2,"orange county, vt",50017
+VT,Orleans,25,49,5,"orleans county, vt",50019
+VT,Rutland,124,188,13,"rutland county, vt",50021
+VT,Washington,101,130,14,"washington county, vt",50023
+VT,Windham,185,229,0,"windham county, vt",50025
+VT,Windsor,50,144,0,"windsor county, vt",50027
+WA,Adams,28,0,0,"adams county, wa",53001
+WA,Asotin,25,0,0,"asotin county, wa",53003
+WA,Benton,453,32,44,"benton county, wa",53005
+WA,Chelan,221,0,20,"chelan county, wa",53007
+WA,Clallam,103,0,19,"clallam county, wa",53009
+WA,Clark,746,220,96,"clark county, wa",53011
+WA,Columbia,25,0,0,"columbia county, wa",53013
+WA,Cowlitz,166,346,18,"cowlitz county, wa",53015
+WA,Ferry,25,0,0,"ferry county, wa",53019
+WA,Franklin,25,95,0,"franklin county, wa",53021
+WA,Garfield,25,0,0,"garfield county, wa",53023
+WA,Grant,123,0,12,"grant county, wa",53025
+WA,Grays Harbor,108,0,8,"grays harbor county, wa",53027
+WA,Island,30,0,6,"island county, wa",53029
+WA,Jefferson,25,0,6,"jefferson county, wa",53031
+WA,King,4354,2228,541,"king county, wa",53033
+WA,Kitsap,334,336,20,"kitsap county, wa",53035
+WA,Kittitas,25,0,6,"kittitas county, wa",53037
+WA,Klickitat,28,0,0,"klickitat county, wa",53039
+WA,Lewis,152,0,6,"lewis county, wa",53041
+WA,Lincoln,50,0,0,"lincoln county, wa",53043
+WA,Mason,25,0,6,"mason county, wa",53045
+WA,Okanogan,71,0,0,"okanogan county, wa",53047
+WA,Pacific,35,0,0,"pacific county, wa",53049
+WA,Pend Oreille,20,0,0,"pend oreille county, wa",53051
+WA,Pierce,2531,552,197,"pierce county, wa",53053
+WA,San Juan,10,10,0,"san juan county, wa",53055
+WA,Skagit,205,25,6,"skagit county, wa",53057
+WA,Snohomish,863,0,72,"snohomish county, wa",53061
+WA,Spokane,1896,16,79,"spokane county, wa",53063
+WA,Stevens,48,0,0,"stevens county, wa",53065
+WA,Thurston,411,0,72,"thurston county, wa",53067
+WA,Walla Walla,120,0,28,"walla walla county, wa",53071
+WA,Whatcom,207,241,24,"whatcom county, wa",53073
+WA,Whitman,50,0,6,"whitman county, wa",53075
+WA,Yakima,258,0,52,"yakima county, wa",53077
+WI,Adams,25,25,0,"adams county, wi",55001
+WI,Ashland,25,35,0,"ashland county, wi",55003
+WI,Barron,90,90,5,"barron county, wi",55005
+WI,Brown,828,1278,56,"brown county, wi",55009
+WI,Burnett,25,25,0,"burnett county, wi",55013
+WI,Calumet,25,25,0,"calumet county, wi",55015
+WI,Chippewa,151,242,6,"chippewa county, wi",55017
+WI,Clark,25,25,0,"clark county, wi",55019
+WI,Columbia,68,98,10,"columbia county, wi",55021
+WI,Crawford,24,25,0,"crawford county, wi",55023
+WI,Dane,1901,2075,32,"dane county, wi",55025
+WI,Dodge,245,245,10,"dodge county, wi",55027
+WI,Door,25,25,4,"door county, wi",55029
+WI,Douglas,25,25,0,"douglas county, wi",55031
+WI,Dunn,25,25,0,"dunn county, wi",55033
+WI,Eau Claire,418,661,40,"eau claire county, wi",55035
+WI,Fond Du Lac,158,189,15,"fond du lac county, wi",55039
+WI,Grant,75,75,0,"grant county, wi",55043
+WI,Green,58,95,6,"green county, wi",55045
+WI,Green Lake,25,25,5,"green lake county, wi",55047
+WI,Iowa,25,25,0,"iowa county, wi",55049
+WI,Jackson,25,25,0,"jackson county, wi",55053
+WI,Jefferson,49,82,4,"jefferson county, wi",55055
+WI,Juneau,40,40,0,"juneau county, wi",55057
+WI,Kenosha,492,517,27,"kenosha county, wi",55059
+WI,La Crosse,395,656,52,"la crosse county, wi",55063
+WI,Lafayette,25,25,0,"lafayette county, wi",55065
+WI,Langlade,25,25,4,"langlade county, wi",55067
+WI,Lincoln,40,43,0,"lincoln county, wi",55069
+WI,Manitowoc,127,236,16,"manitowoc county, wi",55071
+WI,Marathon,338,440,52,"marathon county, wi",55073
+WI,Marinette,55,99,10,"marinette county, wi",55075
+WI,Milwaukee,4025,4651,455,"milwaukee county, wi",55079
+WI,Monroe,50,50,0,"monroe county, wi",55081
+WI,Oconto,32,35,0,"oconto county, wi",55083
+WI,Oneida,102,172,30,"oneida county, wi",55085
+WI,Outagamie,441,492,64,"outagamie county, wi",55087
+WI,Ozaukee,246,309,46,"ozaukee county, wi",55089
+WI,Pepin,25,25,0,"pepin county, wi",55091
+WI,Pierce,25,25,0,"pierce county, wi",55093
+WI,Polk,70,73,3,"polk county, wi",55095
+WI,Portage,84,94,12,"portage county, wi",55097
+WI,Price,24,25,4,"price county, wi",55099
+WI,Racine,657,715,33,"racine county, wi",55101
+WI,Richland,25,25,4,"richland county, wi",55103
+WI,Rock,381,564,33,"rock county, wi",55105
+WI,Rusk,25,25,4,"rusk county, wi",55107
+WI,Saint Croix,75,75,0,"st. croix county, wi",55109
+WI,Sauk,104,161,10,"sauk county, wi",55111
+WI,Sawyer,25,25,0,"sawyer county, wi",55113
+WI,Shawano,25,25,0,"shawano county, wi",55115
+WI,Sheboygan,189,370,13,"sheboygan county, wi",55117
+WI,Taylor,25,25,0,"taylor county, wi",55119
+WI,Trempealeau,43,43,0,"trempealeau county, wi",55121
+WI,Vernon,50,50,0,"vernon county, wi",55123
+WI,Vilas,14,25,0,"vilas county, wi",55125
+WI,Walworth,79,134,16,"walworth county, wi",55127
+WI,Washburn,45,50,0,"washburn county, wi",55129
+WI,Washington,105,141,12,"washington county, wi",55131
+WI,Waukesha,710,1243,64,"waukesha county, wi",55133
+WI,Waupaca,50,50,4,"waupaca county, wi",55135
+WI,Waushara,25,25,0,"waushara county, wi",55137
+WI,Winnebago,687,795,60,"winnebago county, wi",55139
+WI,Wood,315,619,4,"wood county, wi",55141
+WV,Barbour,12,72,0,"barbour county, wv",54001
+WV,Berkeley,146,241,20,"berkeley county, wv",54003
+WV,Boone,25,25,0,"boone county, wv",54005
+WV,Braxton,25,25,0,"braxton county, wv",54007
+WV,Cabell,1068,961,32,"cabell county, wv",54011
+WV,Calhoun,25,42,0,"calhoun county, wv",54013
+WV,Fayette,50,94,3,"fayette county, wv",54019
+WV,Grant,25,61,3,"grant county, wv",54023
+WV,Greenbrier,92,122,12,"greenbrier county, wv",54025
+WV,Hampshire,14,44,0,"hampshire county, wv",54027
+WV,Hancock,199,251,10,"hancock county, wv",54029
+WV,Harrison,423,292,20,"harrison county, wv",54033
+WV,Jackson,25,46,0,"jackson county, wv",54035
+WV,Jefferson,25,25,5,"jefferson county, wv",54037
+WV,Kanawha,1706,1381,100,"kanawha county, wv",54039
+WV,Lewis,220,70,6,"lewis county, wv",54041
+WV,Logan,132,140,12,"logan county, wv",54045
+WV,Marion,89,207,14,"marion county, wv",54049
+WV,Marshall,59,127,9,"marshall county, wv",54051
+WV,Mason,94,201,5,"mason county, wv",54053
+WV,Mcdowell,49,124,7,"mcdowell county, wv",54047
+WV,Mercer,206,419,17,"mercer county, wv",54055
+WV,Mineral,25,25,4,"mineral county, wv",54057
+WV,Mingo,27,76,6,"mingo county, wv",54059
+WV,Monongalia,1005,985,91,"monongalia county, wv",54061
+WV,Morgan,25,41,0,"morgan county, wv",54065
+WV,Nicholas,49,105,6,"nicholas county, wv",54067
+WV,Ohio,317,432,22,"ohio county, wv",54069
+WV,Pocahontas,25,25,0,"pocahontas county, wv",54075
+WV,Preston,25,25,0,"preston county, wv",54077
+WV,Putnam,70,70,0,"putnam county, wv",54079
+WV,Raleigh,413,473,27,"raleigh county, wv",54081
+WV,Randolph,90,90,0,"randolph county, wv",54083
+WV,Roane,25,60,0,"roane county, wv",54087
+WV,Summers,25,25,0,"summers county, wv",54089
+WV,Taylor,25,101,0,"taylor county, wv",54091
+WV,Tyler,25,12,0,"tyler county, wv",54095
+WV,Upshur,25,51,4,"upshur county, wv",54097
+WV,Wayne,80,0,0,"wayne county, wv",54099
+WV,Webster,25,15,0,"webster county, wv",54101
+WV,Wetzel,48,58,5,"wetzel county, wv",54103
+WV,Wood,270,313,18,"wood county, wv",54107
+WY,Albany,66,99,4,"albany county, wy",56001
+WY,Big Horn,22,25,0,"big horn county, wy",56003
+WY,Campbell,66,90,14,"campbell county, wy",56005
+WY,Carbon,25,25,6,"carbon county, wy",56007
+WY,Converse,25,25,0,"converse county, wy",56009
+WY,Crook,16,16,0,"crook county, wy",56011
+WY,Fremont,133,159,12,"fremont county, wy",56013
+WY,Goshen,25,25,0,"goshen county, wy",56015
+WY,Hot Springs,25,25,0,"hot springs county, wy",56017
+WY,Johnson,22,25,0,"johnson county, wy",56019
+WY,Laramie,252,206,15,"laramie county, wy",56021
+WY,Lincoln,35,38,0,"lincoln county, wy",56023
+WY,Natrona,372,269,14,"natrona county, wy",56025
+WY,Niobrara,24,24,0,"niobrara county, wy",56027
+WY,Park,50,50,4,"park county, wy",56029
+WY,Platte,25,25,0,"platte county, wy",56031
+WY,Sheridan,71,88,11,"sheridan county, wy",56033
+WY,Sweetwater,74,115,10,"sweetwater county, wy",56037
+WY,Teton,48,48,6,"teton county, wy",56039
+WY,Uinta,105,42,6,"uinta county, wy",56041
+WY,Washakie,18,18,0,"washakie county, wy",56043
+WY,Weston,12,12,0,"weston county, wy",56045
