@@ -10,3 +10,5 @@ These data are pulled from the [JHY CSSE github repo](https://github.com/CSSEGIS
 - **Date**: Date of observation, as YYYY-MM-DD
 - **Confirmed**: No. of cumulative confirmed cases for the region on date of observation
 - **Deaths**: No. of cumulative deaths for the region on date of observation
+
+Compiled by Manuel, Zara, and Boris

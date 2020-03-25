@@ -1,0 +1,284 @@
+# From: https://github.com/AnthonyEbert/COVID-19_ISO-3166/blob/master/JohnsHopkins-to-A3.csv
+Country/Region,alpha3
+Afghanistan,AFG
+Albania,ALB
+Algeria,DZA
+Andorra,AND
+Argentina,ARG
+Armenia,ARM
+Australia,AUS
+Austria,AUT
+Azerbaijan,AZE
+Bahrain,BHR
+Bangladesh,BGD
+Belarus,BLR
+Belgium,BEL
+Bhutan,BTN
+Bosnia and Herzegovina,BIH
+Brazil,BRA
+Brunei,BRN
+Bulgaria,BGR
+Burkina Faso,BFA
+Cambodia,KHM
+Cameroon,CMR
+Canada,CAN
+Channel Islands,GGY-JEY
+Chile,CHL
+Colombia,COL
+Costa Rica,CRI
+Croatia,HRV
+Cyprus,CYP
+Czech Republic,CZE
+Denmark,DNK
+Dominican Republic,DOM
+Ecuador,ECU
+Egypt,EGY
+Estonia,EST
+Faroe Islands,FRO
+Finland,FIN
+France,FRA
+French Guiana,GUF
+Georgia,GEO
+Germany,DEU
+Gibraltar,GIB
+Greece,GRC
+Holy See,VAT
+Hong Kong SAR,HKG
+Hungary,HUN
+Iceland,ISL
+India,IND
+Indonesia,IDN
+Iran (Islamic Republic of),IRN
+Iraq,IRQ
+Ireland,IRL
+Israel,ISR
+Italy,ITA
+Japan,JPN
+Jordan,JOR
+Kuwait,KWT
+Latvia,LVA
+Lebanon,LBN
+Liechtenstein,LIE
+Lithuania,LTU
+Luxembourg,LUX
+Macao SAR,MAC
+Mainland China,CHN
+Malaysia,MYS
+Maldives,MDV
+Malta,MLT
+Martinique,MTQ
+Mexico,MEX
+Monaco,MCO
+Mongolia,MNG
+Morocco,MAR
+Nepal,NPL
+Netherlands,NLD
+New Zealand,NZL
+Nigeria,NGA
+North Macedonia,MKD
+Norway,NOR
+occupied Palestinian territory,PSE
+Oman,OMN
+Others,Others
+Pakistan,PAK
+Panama,PAN
+Paraguay,PRY
+Peru,PER
+Philippines,PHL
+Poland,POL
+Portugal,PRT
+Qatar,QAT
+Republic of Korea,KOR
+Republic of Moldova,MDA
+Romania,ROU
+Russian Federation,RUS
+Saint Barthelemy,BLM
+Saint Martin,MAF
+San Marino,SMR
+Saudi Arabia,SAU
+Senegal,SEN
+Serbia,SRB
+Singapore,SGP
+Slovakia,SVK
+Slovenia,SVN
+South Africa,ZAF
+Spain,ESP
+Sri Lanka,LKA
+Sweden,SWE
+Switzerland,CHE
+Taipei and environs,TWN
+Thailand,THA
+Togo,TGO
+Tunisia,TUN
+UK,GBR
+Ukraine,UKR
+United Arab Emirates,ARE
+US,USA
+Viet Nam,VNM
+Bolivia,BOL
+China,CHN
+Congo (Kinshasa),COD
+Cote d'Ivoire,CIV
+Cruise Ship,cruise
+Cuba,CUB
+Czechia,CZE
+Guyana,GUY
+Honduras,HND
+Iran,IRN
+Jamaica,JAM
+"Korea, South",KOR
+Moldova,MDA
+Reunion,REU
+Russia,RUS
+Taiwan*,TWN
+Turkey,TUR
+United Kingdom,GBR
+Vietnam,VNM
+American Samoa,ASM
+Angola,AGO
+"Anguilla, Leeward Islands",AIA
+"Antigua and Barbuda, Leeward Islands",ATG
+Aruba,ABW
+Bahamas,BHS
+Barbados,BRB
+Belize,BLZ
+Benin,BEN
+Bermuda,BMU
+"Bonaire, Saint Eustatius and Saba",BES
+Botswana,BWA
+Brunei Darussalam,BRN
+Burundi,BDI
+Cape Verde,CPV
+Cayman Islands,CYM
+Central African Republic,CAF
+Chad,TCD
+Chinese Taipei,TWN
+"Christmas Island, Indian Ocean",CXR
+Cocos (keeling) Islands,CCK
+Comoros,COM
+Congo,COG
+Congo Democratic Republic of,COD
+Cook Islands,COK
+Cote D'Ivoire,CIV
+Curacao,CUW
+Djibouti,DJI
+Dominica,DMA
+El Salvador,SLV
+Equatorial Guinea,GNQ
+Eritrea,ERI
+Eswatini,SWZ
+Ethiopia,ETH
+Falkland Islands,FLK
+Fiji,FJI
+French Polynesia,GUF
+Gabon,GAB
+Gambia,GMB
+Ghana,GHA
+Greenland,GRL
+"Grenada, Windward Islands",GRD
+Guadeloupe,GLP
+Guam,GUM
+Guatemala,GTM
+Guinea,GIN
+Guinea-Bissau,GNB
+Haiti,HTI
+Hong Kong (sar) China,HKG
+Iran Islamic Republic of,IRN
+Ireland Republic of,IRL
+Kazakhstan,KAZ
+Kazakstan,KAZ
+Kenya,KEN
+Kiribati,KIR
+Korea Democratic People's Republic of,PRK
+Korea Republic of,KOR
+Kyrgyzstan,KGZ
+Laos,LAO
+Lesotho,LSO
+Liberia,LBR
+Libya,LBY
+Macao (sar) China,MAC
+Macedonia Former Yugoslav Republic of,MKD
+Madagascar,MDG
+Malawi,MWI
+Mali,MLI
+Marshall Islands,MHL
+Mauritania,MRT
+Mauritius,MUS
+Mayotte,MYT
+Micronesia Federated States of,FSM
+Moldova Republic of,MDA
+Montenegro,MNE
+"Montserrat, Leeward Islands",MSR
+Mozambique,MOZ
+Myanmar,MMR
+Namibia,NAM
+Nauru,NRU
+New Caledonia,NCL
+Nicaragua,NIC
+Niger,NER
+Niue,NIU
+Norfolk Island,NFK
+Northern Mariana Islands,MNP
+Palau,PLW
+Papua New Guinea,PNG
+Puerto Rico,PRI
+Rwanda,RWA
+Saint Helena,SHN
+"Saint Kitts and Nevis, Leeward Islands",KNA
+Saint Lucia,LCA
+Saint Pierre and Miquelon,SPM
+Samoa,WSM
+Sao Tome and Principe,STP
+Seychelles,SYC
+Sierra Leone,SLE
+Solomon Islands,SLB
+Somalia,SOM
+South Sudan,SSD
+St Maarten (dutch Part),SXM
+St Vincent and the Grenadines,VCT
+Sudan,SDN
+Suriname,SUR
+Syrian Arab Republic,SYR
+Tajikistan,TJK
+Tanzania United Republic of,TZA
+Timor-leste,TLS
+Tonga,TON
+Trinidad and Tobago,TTO
+Turkmenistan,TKM
+Turks and Caicos Islands,TCA
+Tuvalu,TUV
+Uganda,UGA
+Uruguay,URY
+USA,USA
+Uzbekistan,UZB
+Vanuatu,VUT
+Venezuela,VEN
+"Virgin Islands, British",VGB
+"Virgin Islands, US",VIR
+Wallis and Futuna Islands,WLF
+Yemen,YEM
+Zambia,ZMB
+Zimbabwe,ZWE
+Antigua and Barbuda,ATG
+Congo (Brazzaville),COG
+Guernsey,GGY
+Jersey,JEY
+Kosovo,RKS
+Saint Vincent and the Grenadines,VCT
+Taiwan,TWN
+Hong Kong,HKG
+Palestine,PSE
+Vatican City,VAT
+St. Martin,MAF
+"Bahamas, The",BHS
+Cabo Verde,CPV
+East Timor,TLS
+"Gambia, The",GMB
+Grenada,GRD
+Republic of the Congo,COG
+Syria,SYR
+Tanzania,TZA
+The Bahamas,BHS
+The Gambia,GMB
+Timor-Leste,TLS
+"Diamond Princess", DDD

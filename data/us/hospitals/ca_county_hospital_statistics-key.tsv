@@ -1,0 +1,23 @@
+Influenza_Season	October 01, 2018 through March 31, 2019
+State	California
+CDPH_HAI_HCP_FLU_VACCINATION	California Department of Public Health, Healthcare-Associated Infections Program, Health Care Personnel Influenza Vaccination
+County	Reported County
+Mask Required	"YES" indicates county had a policy or local health order that required Health Care Personnel (HCP) who refused vaccination to wear a surgical mask at all times while in the hospital during the 2018-19 influenza season; "NO" indicates county did not have such a policy or health order.
+Number of Hospitals	Number of reporting hospitals by county
+HCP_Total_Number_Vaccinated	Total number of Health Care Personnel (HCP) vaccinated. HCP include all paid (employee) and unpaid (licensed independent practitioners, other contract personnel and adult students/trainees and volunteers) persons working in health care settings and have the potential to transmit influenza to and from other HCP and patients. 
+HCP_Total_Number_Working	Total number of Health Care Personnel (HCP) working
+HCP_Percent_Vaccinated	Percentage of HCP vaccinated.
+Emp_Number_Vaccinated	Total number of hospital employees vaccinated
+Emp_Number_Working	Total number of hospital employees working
+Emp_Percent_Vaccinated	Percentage of hospital employees vaccinated
+Lip_Number_Vaccinated	Total number of licensed independent practitioners vaccinated
+Lip_Number_Working	Total number of licensed independent practitioners working
+Lip_Percent_Vaccinated	Percentage of licensed independent practitioners vaccinated
+Cont_Number_Vaccinated	Total number of other contract personnel vaccinated
+Cont_Number_Working	Total number of other contract personnel working
+Cont_Percent_Vaccinated	Percentage of contract personnel vaccinated
+StudVol_Number_Vaccinated	Total number of students, trainees, and volunteers vaccinated
+StudVol_Number_Working	Total number of students, trainees, and volunteers working
+StudVol_Percent_Vaccinated	Percentage of students, trainees, and volunteers vaccinated
+On Track to Achieve 90% by 2020 (≥ 87%  in 2018-19)	Hospitals that achieved the Healthy People 2010 goal of 60% vaccination need to increase their annual vaccination percentage by at least 3% per year to reach 90% by 2020. In 2018-19, hospitals should have achieved at least 87% HCP vaccination coverage to demonstrate sufficient incremental progress to reach 90% by 2020. Did county achieve at least 87% HCP vaccination coverage in 2018-19?  Yes or No. 
+Notes	“Hospitals in this county did not report data” indicates counties with non-reporter hospitals only (all data fields are blank).

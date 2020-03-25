@@ -22,6 +22,10 @@ def clean_df(df, val_name="Cases"):
     # clean datatypes
     df['Province/State'] = df['Province/State'].astype('string')
     df['Country/Region'] = df['Country/Region'].astype('string')
+    for i in range(len(df['Date'])):
+        row = df['Date'][i]
+        if '202' in row:
+            df['Date'][i] = row.replace('202', '20') # they had 3/21/202 instead of 3/21/20 in their dataset
     df['Date'] = df['Date'].astype('datetime64')
 
     return df
@@ -80,7 +84,7 @@ df = (output_dfs['Confirmed']
 # Find home directory for repo
 repo = git.Repo("./", search_parent_directories=True)
 homedir = repo.working_dir
-datadir = f"{homedir}/data/Johns_Hopkins_data/"
+datadir = f"{homedir}/data/international/covid/Johns_Hopkins_data/"
 
 # Store new tidy data-frames
 df.to_csv(
