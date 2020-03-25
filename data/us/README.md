@@ -9,7 +9,7 @@ County-level from USAFacts (aggregated from the CDC, state- and local-level publ
 Summary:
 * `confirmed_cases.csv`: Confirmed COVID cases per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
 * `deaths.csv`: Confirmed COVID deaths per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
-* `JHU_daily_US.csv`: COVID-19 case and death counts per county from JHU, merged from daily updates since 3/23/2020. https://github.com/CSSEGISandData/COVID-19/tree/master/csse\_covid\_19\_data
+* `JHU_daily_US.csv`: COVID-19 case and death counts per county from JHU, merged from daily updates since 3/23/2020. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
 Compiled by quantummind
 
@@ -19,7 +19,7 @@ This includes age/gender, education, and economic information of the US populati
 
 Summary:
 * `acs_2018.csv`: Number of households, age and ethnicity breakdowns. American Community Survey (ACS) 2018, US Census Bureau (data.census.gov).
-* `county_populations.csv`: Total population and population over the age of 60 per county from the 2017 American Community Survey. Data dictionary and more details available at. https://khn.org/wp-content/uploads/sites/2/2020/03/KHN\_ICU\_bed\_county\_analysis.zip
+* `county_populations.csv`: Total population and population over the age of 60 per county from the 2017 American Community Survey. Data dictionary and more details available at. https://khn.org/wp-content/uploads/sites/2/2020/03/KHN_ICU_bed_county_analysis.zip
 * `education.csv`: Education level per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 * `poverty.csv`: Urbanization and poverty rates per county, columns described in `poverty-key.txt`. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 * `state_populations.csv`: Statewide populations from the corona data scraper. https://coronadatascraper.com/#sources
@@ -50,8 +50,8 @@ Includes beds, ICU beds, staffed beds, etc. at the county level nationwide. Also
 Summary:
 * `bed_densities.csv`: Number of hospital beds per mile for each US state.
 * `beds_by_county.csv`: Initial (pre-virus) Numbers of staffed hospital beds, licensed hospital beds, and ICU beds for each county in each US state.
-* `ca_county_hospital_statistics.csv`: Number of hospitals as well as their working staff, contractors, and students for each county in California. Also notes whether these staff were flu-vaccinated or not, and if masks were required or not. Essentially evaluates preparedness of each county's hospitals. Consult `ca_county_hospital_statistics-key.tsv` for the meaning behind each column value. https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA\_Hospitals.aspx
-* `icu_county.csv`: ICU beds at the county level from the Healthcare Cost Report Information System (HCRIS at cms.gov) and hospital general information (data.medicare.gov). Data dictionary and more details available at. https://khn.org/wp-content/uploads/sites/2/2020/03/KHN\_ICU\_bed\_county\_analysis.zip
+* `ca_county_hospital_statistics.csv`: Number of hospitals as well as their working staff, contractors, and students for each county in California. Also notes whether these staff were flu-vaccinated or not, and if masks were required or not. Essentially evaluates preparedness of each county's hospitals. Consult `ca_county_hospital_statistics-key.tsv` for the meaning behind each column value. https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx
+* `icu_county.csv`: ICU beds at the county level from the Healthcare Cost Report Information System (HCRIS at cms.gov) and hospital general information (data.medicare.gov). Data dictionary and more details available at. https://khn.org/wp-content/uploads/sites/2/2020/03/KHN_ICU_bed_county_analysis.zip
 
 Compiled By Connor Soohoo (connorsoohoo@gmail.com) and quantummind
 
@@ -69,6 +69,6 @@ Compiled by quantummind
 Datasets that help in processing. Currently only FIPS codes to county names.
 
 Summary:
-* `fips_key.csv`: FIPS to county/state name conversion. https://www.dol.gov/owcp/regs/feeschedule/fee/Effective\_May\_16\_2004\_County\_and\_State\_FIPS.htm
+* `fips_key.csv`: FIPS to county/state name conversion. https://www.dol.gov/owcp/regs/feeschedule/fee/Effective_May_16_2004_County_and_State_FIPS.htm
 
 Compiled by quantummind

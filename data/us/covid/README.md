@@ -5,6 +5,6 @@ County-level from USAFacts (aggregated from the CDC, state- and local-level publ
 Summary:
 * `confirmed_cases.csv`: Confirmed COVID cases per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
 * `deaths.csv`: Confirmed COVID deaths per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
-* `JHU_daily_US.csv`: COVID-19 case and death counts per county from JHU, merged from daily updates since 3/23/2020. https://github.com/CSSEGISandData/COVID-19/tree/master/csse\_covid\_19\_data
+* `JHU_daily_US.csv`: COVID-19 case and death counts per county from JHU, merged from daily updates since 3/23/2020. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
 Compiled by quantummind
