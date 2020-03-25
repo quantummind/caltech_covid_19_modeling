@@ -1,6 +1,6 @@
 # International data
 
-Data should be standardized with ISO codes.
+Data should be standardized with ISO codes. **If you add data, update both this README and the README in that directory!**
 
 
 ## `covid`
