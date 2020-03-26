@@ -2,6 +2,7 @@
 
 Data should be standardized with ISO codes. **If you add data, update both this README and the README in that directory!**
 
+`aggregated_our_world_in_data.csv` collects all relevant data from Our World in Data (compiled by quantummind and thohoff).
 
 ## `covid`
 
@@ -26,6 +27,45 @@ These data are pulled from the [JHY CSSE github repo](https://github.com/CSSEGIS
 
 Compiled by Manuel, Zara, and Boris
 
+### `our_world_in_data`
+
+`full_data.csv` contains data from the ECDC scraped from https://ourworldindata.org/coronavirus.
+
+Compiled by thohoff
+
+
+## `demographics`
+
+Country-level 1960-now demographic data on age.
+
+Source: UN Population Division, scraped from https://ourworldindata.org/age-structure.
+Summary:
+* `age-dependency-ratio-old.csv`: ratio of people over 64 to people 15-64 years
+* `age-dependency-ratio-young-of-working-age-population.csv`: ratio of people under 15 to people 15-64 years
+* `median-age.csv`: median age
+* `share-of-the-population-that-is-70-years-and-older.csv`: population >=70 years old
+
+Compiled by quantummind
+
+
+## `health`
+
+Country-level 1960-now data of conditions related to COVID-19 deaths and hospitals.
+
+Source: World Bank, Global Burden of Disease Study 2017.
+Summary:
+* `hospital-beds-per-1000-people.csv`: hospital beds per 1000 people. https://ourworldindata.org/coronavirus
+* `physicians-per-1000-people.csv`: physicians per 1000 people. https://ourworldindata.org/coronavirus
+* `pneumonia-death-rates-age-standardized.csv`: pneumonia death rates per 100,000 individuals. https://ourworldindata.org/pneumonia
+* `share-deaths-heart-disease.csv`: share of deaths caused by heart disease. https://ourworldindata.org/grapher/share-deaths-heart-disease
+* `share-of-adults-who-smoke.csv`: share of adults who smoke. https://ourworldindata.org/smoking
+
+Compiled by quantummind
+
+
+## `italy`
+
+Italian case study, so far only COVID-19 data from the Italian government. The daily refresh script updates and translates it from https://github.com/pcm-dpc/COVID-19.
 
 ## `policies`
 
@@ -35,4 +75,4 @@ Summary:
 * `international.csv`: Last updated March 23. Puts together all the measures implemented by governments worldwide in response to the Coronavirus pandemic, assembled by ACAPS (non-profit). The researched information available falls into five categories: social distancing, movement restrictions, public health measures, social and economic measures, human rights implications. https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset
 * `regional.csv`: Last updated March 25. Crowdsourced but curated by The Machine Learning for Social Science Lab, Center for Peace and Security Studies, University of California San Diego. https://github.com/rexdouglass/TIGR/tree/master/data_out
 
-Compield by quantummind
+Compiled by quantummind

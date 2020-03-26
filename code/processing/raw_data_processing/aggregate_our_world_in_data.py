@@ -1,37 +1,24 @@
 import csv
 import pandas as pd
+import git
+import glob
 
-link_covid = "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+repo = git.Repo("./", search_parent_directories=True)
+homedir = repo.working_dir
+datadir = f"{homedir}/data/international/"
 
-# Our World In Data makes it difficult to download datasets by script for these, so these must be local. 
-dir_smoking = "share-of-adults-who-smoke.csv"
-dir_heart = "share-deaths-heart-disease.csv"
-dir_hospital_beds_per1000 = "hospital-beds-per-1000-people.csv"
-dir_median_age = "median-age.csv" 
+# aggregate Our World in Data files
+files = glob.glob(datadir + 'health/*.csv') + glob.glob(datadir + 'demographics/*.csv')
+# files = ['health/share-of-adults-who-smoke.csv', 'health/share-deaths-heart-disease.csv', 'health/pneumonia-death-rates-age-standardized.csv', 'health/hospital-beds-per-1000-people.csv', 'health/physicians-per-1000-people.csv', 'demographics/median-age.csv']
+# keys = ['Estimated prevalence (%)', 'Deaths - Cardiovascular diseases - Sex: Both - Age: All Ages (Percent) (%)', 'Hospital beds (per 1,000 people)', 'Physicians (per 1,000 people)', 'UN Population Division (Median Age) (2017) (years)']
+# vals = ['Estimated prevalence of smokers (%)', 'Deaths from Heart Disease (%)', 'Hospital beds (per 1,000 people)', 'Physicians (per 1,000 people)', 'Median Age']
 
+covid_df = pd.read_csv(datadir + 'covid/our_world_in_data/full_data.csv')
 
-
-covid_df = pd.read_csv(link_covid)
-smoking_df = pd.read_csv(dir_smoking).rename(
-    {"Estimated prevalence (%)" : "Estimated prevalence of smokers (%)"}, axis = 1
-)
-heart_df = pd.read_csv(dir_heart).rename(
-    {"Deaths - Cardiovascular diseases - Sex: Both - Age: All Ages (Percent) (%)" : "Deaths from Heart Disease (%)"}, axis = 1
-)
-bed_df = pd.read_csv(dir_hospital_beds_per1000).rename(
-    {"Hospital beds (per 1,000 people)": "Hospital beds (per 1,000 people)"}, axis = 1
-)
-age_df = pd.read_csv(dir_median_age).rename(
-    {"UN Population Division (Median Age) (2017) (years)": "Median Age"}, axis = 1
-)
-
-
-
-auxilary_dfs = [smoking_df, heart_df, bed_df, age_df]
-action_cols = ["Estimated prevalence of smokers (%)", "Deaths from Heart Disease (%)", "Hospital beds (per 1,000 people)", "Median Age"]
-
-
-for df in auxilary_dfs:
+for i in range(len(files)):
+    f = files[i]
+    df = pd.read_csv(f)
+    
     # Filter out projections.
     df = df[df['Year'] < 2020]
     # Then pick the most recent year for each country
@@ -66,4 +53,4 @@ for column in covid_df.columns:
 
 covid_df = covid_df.drop(code_cols, axis = 1)
 covid_df['country_code'] = covid_df['location'].map(code_mapping)
-covid_df.to_csv('our_world_in_data.csv', index=False)
+covid_df.to_csv(datadir + 'aggregated_our_world_in_data.csv', index=False)
