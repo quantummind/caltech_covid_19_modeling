@@ -4,6 +4,8 @@ Data should be standardized with ISO codes. **If you add data, update both this 
 
 `aggregated_our_world_in_data.csv` collects all relevant data from Our World in Data (compiled by quantummind and thohoff).
 
+`countries_regional_codes.csv` gives a mapping between country names and their respective alpha and numeric country codes. Standard protocol is to use `alpha-3` as the key (i.e United States of America -> USA).
+
 ## `covid`
 
 ### `corona_data_scraper`
