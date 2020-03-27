@@ -8,3 +8,4 @@ python3 get_JH_daily.py
 ./get_coronadatascraper_data.sh
 ./get_ECDC_data.sh
 ./clean_italy.sh
+./get_nty_data.sh
