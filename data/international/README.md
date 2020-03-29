@@ -1,20 +1,21 @@
 # International data
 
-Data should be standardized with ISO codes. **If you add data, update both this README and the README in that directory!**
+If you are getting started with international data analysis an excellent place to start is `aggregated_our_world_in_data.csv`, which includes COVID-19 data per country and helpful related variables (demographics, health, etc.) all cleaned and organized with ISO variables.
 
 `aggregated_our_world_in_data.csv` collects all relevant data from Our World in Data (compiled by quantummind and thohoff).
 
 `countries_regional_codes.csv` gives a mapping between country names and their respective alpha and numeric country codes. Standard protocol is to use `alpha-3` as the key (i.e United States of America -> USA). Source: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes. 
+
 
 ## `covid`
 
 ### `corona_data_scraper`
 
 `geopop.csv` is a very comprehensive file! Contains latitude and longitude coordinates as well as international and state populations (in US), in to a running tally by day of number of total cases, number of deaths, number of recovered patients, number of active cases, number of tested cases, growthFactor in total cases from last day's number, in addition to the source for each item. Note that the `geopop.csv` dataset is awaiting to get new county information (for US states). This dataset will get refreshed daily using the daily refresh scripts, and we will update this page once the data is updated.
-**EDIT: County data is starting to come in. It is not complete, but it does have geolocation coordinates for all US counties!!! `geopop.csv` should primarily be used for geolocation first and then as it is refreshed county data should become more robust**
 Source: https://coronadatascraper.com/#home. This site is very robust, tracking daily updates in active and recovered cases as well as tested cases. It also binds this data with geolocation and population data as well. I'd (@connorsoohoo) highly suggest you check out the website.
 
 Compiled by Connor Soohoo (connorsoohoo@gmail.com)
+
 
 ### `Johns_Hopkins_data`
 These data are pulled from the [JHY CSSE github repo](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) and updated regularly. They are reformatted for one observation per line, with the following columns:
@@ -29,6 +30,7 @@ These data are pulled from the [JHY CSSE github repo](https://github.com/CSSEGIS
 - **Deaths**: No. of cumulative deaths for the region on date of observation
 
 Compiled by Manuel, Zara, and Boris
+
 
 ### `our_world_in_data`
 
@@ -79,6 +81,7 @@ Summary:
 Sources of demographics and aggregate data: http://dati-censimentopopolazione.istat.it/Index.aspx?lang=en, https://www.istat.it/en/health-statistics?data-and-indicators, https://www.istat.it/en/archivio/16271
 
 Compiled by quantummind
+
 
 ## `policies`
 
