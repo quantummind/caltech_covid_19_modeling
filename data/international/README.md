@@ -96,3 +96,8 @@ Summary:
 * `regional.csv`: Last updated March 25. Crowdsourced but curated by The Machine Learning for Social Science Lab, Center for Peace and Security Studies, University of California San Diego. https://github.com/rexdouglass/TIGR/tree/master/data_out
 
 Compiled by quantummind
+
+
+## `sk`
+
+Data pulled directly from [Kaggle DS4C South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset/metadata) dataset.

@@ -16,6 +16,7 @@ County-level from USAFacts (aggregated from the CDC, state- and local-level publ
 
 Summary:
 * `confirmed_cases.csv`: Confirmed COVID cases per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
+* `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv
 * `deaths.csv`: Confirmed COVID deaths per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
 * `JHU_daily_US.csv`: COVID-19 case and death counts per county from JHU, merged from daily updates since 3/23/2020. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 * `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv 
@@ -48,10 +49,21 @@ Summary:
 * `WHO_NREVSS_Clinical_Labs.csv`:  Gives number of specimens tested per week and number and percent of specimens that tested positive for Influenza A and B, respectively. Only from 2015 - 2020. Note that beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update.
 * `WHO_NREVSS_Combined_prior_to_2015_16.csv`: 1997 - 2015 data. Gives number of specimens tested per week and number and percent of specimens that tested positive for Influenza A and B, respectively. Also differentiates based on strain. Combined data from public health and clinical labs.  **Very comprehensive, Useful for looking at spread of H1N1 (2009)**
 * `WHO_NREVSS_Public_Health_Labs.csv`:  Gives counts of number of speciments tested per week and number  of specimens that tested positive. Also differentiates based on strain of A and B. Only from 2015-2020. Note that beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update.
-* `national_pi_deaths_2013_2020.csv`: deaths nationwide.
-* `statewide_pi_deaths_2012_2020.csv`: deaths statewide.
 * `ny_flu_cases_by_county_2009_2020.csv`: Comprehensive record of public health lab confirmed flu cases in New York from 2009 to 2020. Also discriminates based on strain of influenza beyond just A and B.
 * `ca_flu_cases_byregion_2009_2018.csv`: California flu cases not by county, but by region  (i.e. Bay Area, Central, e.t.c)*, so might need do some extrapolation to map back to counties if you want to use this data.
+* `national_pi_deaths_2013_2020.csv`: deaths nationwide.
+* `statewide_pi_deaths_2012_2020.csv`: deaths statewide.
+
+Compiled By Connor Soohoo (connorsoohoo@gmail.com)
+
+## `geolocation`
+
+Geographic data of counties from https://github.com/btskinner/spatial.
+
+Summary:
+* `county_centers.csv`: This wide file gives the latitude and longitude for the spatial and population centers of every county in the United States for the Census years 2000 and 2010.
+* `nearest_hei.csv`: This long file gives the nearest highest education institution (HEI) to each county population center across a number of years and higher education sectors.
+* `neighborcounties.csv`: This long file links every county in the United States (as of the 2010 Census) with all of its contiguous counties.
 
 Compiled By Connor Soohoo (connorsoohoo@gmail.com)
 

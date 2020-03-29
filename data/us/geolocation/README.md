@@ -1,5 +1,4 @@
-
-## Detail
+## Geospatial
 
 ### [`neighborcounties.csv`](https://github.com/btskinner/spatial/blob/master/data/neighborcounties.csv) [[Raw]](https://raw.githubusercontent.com/btskinner/spatial/master/data/neighborcounties.csv)
 

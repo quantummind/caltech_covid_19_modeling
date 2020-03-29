@@ -1,5 +1,5 @@
 ## `exploratory`
 
-Almost nobody goes into a research project knowing exactly how to solve the problem. The scientific process often requires many attempts at solving a problem, processing a data set, performing a regression, or myriad other ways of thinking about the problem. As a result, one often generates many files of failed approaches before the "correct way" is found. Rather than having these files clutter your desktop or your `analysis` folder, you can put all of those files here. 
+**This directory is in under construction. Notebooks will be added over the next few days and the directory will be reorganized.**
 
-Once you arrive at a working bit of code, you should save it as a reduced template file and save it in the `templates` directory in the project root. You can keep all of your other attempts here in case you have to go back or if someone wants to see how else you attempted to solve the problem.  
+We include several exploratory notebooks of the provided datasets to walk through commonly used features. This also includes the baseline models of the TAs, such as SIR-like models used by the epidemiology community.

@@ -1,7 +1,12 @@
-## `data`
+# `data`
 
-This directory houses all small (< 50 MB) data sets that are a result of individual experiments and/or simulations. Depending on the type of data collected, you may want to split them up based on file type.
+This directory contains both US data (mostly at the county level) and international data. Detailed information on each of the datasets is provided both in the README files of `international` and `us`.
 
-If possible, data sets from individual experiments should be compiled in a long-form tidy format. This is important not only for your analysis, but for others who wish to reproduce your work. While you may have an intimate knowledge of your data and experimental structure, it may not be obvious to anyone else. It is much easier if you can combine the individual data sets into as few files as possible so only one or two files have to be read to perform the analysis and generate the figures. 
 
-This is **not** a place to store all of your large (> 50 MB) data files, such as images. For accessibility of these large data sets, there are myriad online data repositories such as [Zenodo](https://zenodo.org) which provide free storage and DOI generation. In addition, you should have all of your data backed up locally with redundancy.
+## Getting started with U.S. data
+
+For the most curated dataset of COVID-19 cases, see `covid/nyt_us_counties.csv`. Additional variables can be merged in from the appropriate subdirectories, but we also provide useful aggregate datasets of relevant variables (demographics, health, etc.) in `aggregate_berkeley.csv` and `aggregate_jhu.csv`.
+
+## Getting started with international data
+If you are beginning international data analysis, an excellent place to start is `aggregated_our_world_in_data.csv`, which includes COVID-19 data per country and helpful related variables (demographics, health, etc.) all cleaned and organized with ISO variables.
+If you are beginning a case study of a country that faced the pandemic earlier than the U.S., a good place to start is `italy/covid-regions.csv` for region-level COVID-19 data and `italy/aggregate_italy.csv` for related demographic, economic, and health variables.
