@@ -1,6 +1,14 @@
 # US data
 
-US datasets are (usually) encoded with a column named "FIPS" denoting the county code. Translations to county names are in `processing_data/fips_key.csv`. **If you add data, update both this README and the README in the directory of the new data!**
+US datasets are (usually) encoded with a column named "FIPS" denoting the county code. Translations to county names are in `processing_data/fips_key.csv`.
+
+## Getting started
+
+For the most curated dataset of COVID-19 cases, see `covid/nyt_us_counties.csv`. Additional variables can be merged in from the appropriate subdirectories, but we also provide useful aggregate datasets of relevant variables (demographics, health, etc.) in `aggregate_berkeley.csv` and `aggregate_jhu.csv`.
+
+Summary:
+* `aggregate_berkeley.csv`: Demographic, health, and other information compiled by Bin Yu's group at UC Berkeley. https://github.com/Yu-Group/covid-19-ventilator-demand-prediction
+* `aggregate_jhu.csv`: Demographic, health, and other information compiled by Johns Hopkins University. https://github.com/JieYingWu/COVID-19_US_County-level_Summaries
 
 ## `covid`
 
@@ -61,14 +69,12 @@ Compiled By Connor Soohoo (connorsoohoo@gmail.com) and quantummind
 
 ## `other`
 
-Random tidbits that could be useful for a detailed analysis of COVID-19. Currently only includes transit information.
+Random tidbits that could be useful for a detailed analysis of COVID-19.
 
 Summary:
 * `air_traffic.csv`: Data on 2019 US air traffic. Includes origin and destination airports. https://www.transtats.bts.gov/DL_SelectFields.asp
+* `policies.csv`: Interventions at the county level, compiled by Johns Hopkins University researchers. https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
 * `transit.csv`: Connectivity and frequency of transit per county. Data found by AllTransit using available General Transit Feed Specification data from transit agencies and publicly available schedules. https://alltransit.cnt.org/rankings/
-* `berkeley_aggregate` This includes data on number of icu beds and hospitals per county prevalance of chronic diseases, number of total deaths (from any cause), mortality rate from respiratory diseases, voting history, and impact from smoking at the county level. Download the `df_county_level_cached.csv` file [here](https://drive.google.com/open?id=1EHqZxbTVPO5RDxDvJntZMNBjhxGeE2bU) You can regenerate this dataset and view the original sources [here](https://github.com/Yu-Group/covid-19-ventilator-demand-prediction).
-
-Compiled by quantummind, thohoff, alexcdot
 
 ## `processing_data`
 

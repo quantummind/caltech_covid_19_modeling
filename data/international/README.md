@@ -1,10 +1,13 @@
 # International data
 
-If you are getting started with international data analysis an excellent place to start is `aggregated_our_world_in_data.csv`, which includes COVID-19 data per country and helpful related variables (demographics, health, etc.) all cleaned and organized with ISO variables.
+## Getting started
+If you are beginning international data analysis, an excellent place to start is `aggregated_our_world_in_data.csv`, which includes COVID-19 data per country and helpful related variables (demographics, health, etc.) all cleaned and organized with ISO variables.
 
-`aggregated_our_world_in_data.csv` collects all relevant data from Our World in Data (compiled by quantummind and thohoff).
+If you are beginning a case study of a country that faced the pandemic earlier than the U.S., a good place to start is `italy/covid-regions.csv` for region-level COVID-19 data and `italy/aggregate_italy.csv` for related demographic, economic, and health variables.
 
-`countries_regional_codes.csv` gives a mapping between country names and their respective alpha and numeric country codes. Standard protocol is to use `alpha-3` as the key (i.e United States of America -> USA). Source: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes. 
+Summary:
+* `aggregated_our_world_in_data.csv` collects all relevant data from Our World in Data (compiled by quantummind and thohoff).
+* `countries_regional_codes.csv` gives a mapping between country names and their respective alpha and numeric country codes. Standard protocol is to use `alpha-3` as the key (i.e United States of America -> USA). Source: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes. 
 
 
 ## `covid`
@@ -73,10 +76,11 @@ Compiled by quantummind
 Italian case study at the regional level. The daily refresh script updates `COVID-19` and translates it from https://github.com/pcm-dpc/COVID-19.
 
 Summary:
+* `aggregate_italy.csv`: Everything: health, demographics, doctors, and more.
+* `covid-regions.csv`: A copy of `COVID-19/dati-region-en/dpc-covid19-ita-regioni-total.csv`, below.
 * `COVID-19/dati-region-en/dpc-covid19-ita-regioni-total.csv`: COVID-19 cases, deaths, testing, etc. at the region level (larger than province).
 * `COVID-19/dati-province-en/dpc-covid19-ita-province-total.csv`: COVID-19 cases, deaths, testing, etc. at the province level (smaller than region).
 * `demographics/region-populations.csv`: Population data.
-* `aggregate_italy.csv`: Everything: health, demographics, doctors, and more.
 
 Sources of demographics and aggregate data: http://dati-censimentopopolazione.istat.it/Index.aspx?lang=en, https://www.istat.it/en/health-statistics?data-and-indicators, https://www.istat.it/en/archivio/16271
 
