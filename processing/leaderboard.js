@@ -2,7 +2,7 @@ leaderboard = `
 "loss",0.1
 "thumb",0.2
 "event",0.3
-"title",0.4
+"Baseline",0.4
 "front",0.5
 "sugar",0.6
 "mint",0.7
