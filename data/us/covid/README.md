@@ -10,4 +10,4 @@ Summary:
 * `nyt_us_states.csv` : Time series data on confirmed cases and deaths of COVID-19 at the state level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 * `nyt_us_counties.csv` : Time series data on confirmed cases and deaths of COVID-19 at the county level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 
-Compiled by quantummind & mrazomej
+Compiled by quantummind & mrazomej & alexcdot
