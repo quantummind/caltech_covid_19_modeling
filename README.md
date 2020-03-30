@@ -6,10 +6,10 @@ understand and model the COVID-19 outbreak. Organized by the
 [Caltech Data Science Organization](http://datascience.caltech.edu/) and run in Prof.
 Yaser Abu-Mostafa's [CS 156b](http://cs156.caltech.edu/) class, the competition offers a
 $10,000 prize to predict COVID-19 deaths at the county level in the U.S. on a two-week
-timescale.
+timescale. The competition is open to the entire Caltech campus — register [here](https://docs.google.com/forms/d/e/1FAIpQLSeq5ncLFDATIefqU--68OlSQ4pCae-Gww1ZQuf2T-mIZ2f9ng/viewform?usp=sf_link)!
 
 **IMPORTANT: at this time, we can only accommodate Caltech students and researchers in the competition. Over 10% of the student body is competing!**
-Official competition page (registration included): http://datascience.caltech.edu/covid/
+Official competition page: http://datascience.caltech.edu/covid/
 CS 156b competition page: http://cs156.caltech.edu/covid/
 
 ## Prizes
