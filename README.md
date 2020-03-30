@@ -4,7 +4,9 @@
 This repository contains all of the code generated during our efforts to
 understand and model the COVID-19 outbreak.
 
+### Sample Submission
 
+sample_submission.csv shows the expected format of predictions. Predictions should have 10 columns titled ['id', '10', '20', '30', '40', '50', '60', '70', '80', '90']. Each entry of the 'id' column should be in yyyy-mm-dd-FIPS format, where yyyy is the year of the prediction (2020 in this case), mm is the 2-digit month, dd is the 2-digit day, and FIPS indicates the entire FIPS code of predicted the county. The other columns should hold a numeric prediction for the corresponding quantile. For example '10' corresponds to the 0.1 quantile, or the bottom 10% of expected outcomes. A prediction should be made for every quantile for every county for every day from April 1st to June 30th inclusive. 
 
 # License Information
 
