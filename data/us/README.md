@@ -19,7 +19,7 @@ Summary:
 * `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv
 * `deaths.csv`: Confirmed COVID deaths per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
 * `JHU_daily_US.csv`: COVID-19 case and death counts per county from JHU, merged from daily updates since 3/23/2020. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
-* `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv 
+* `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv
 * `nyt_us_states.csv` : Time series data on confirmed cases and deaths of COVID-19 at the state level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 * `nyt_us_counties.csv` : Time series data on confirmed cases and deaths of COVID-19 at the county level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 
@@ -50,7 +50,7 @@ Summary:
 * `WHO_NREVSS_Combined_prior_to_2015_16.csv`: 1997 - 2015 data. Gives number of specimens tested per week and number and percent of specimens that tested positive for Influenza A and B, respectively. Also differentiates based on strain. Combined data from public health and clinical labs.  **Very comprehensive, Useful for looking at spread of H1N1 (2009)**
 * `WHO_NREVSS_Public_Health_Labs.csv`:  Gives counts of number of speciments tested per week and number  of specimens that tested positive. Also differentiates based on strain of A and B. Only from 2015-2020. Note that beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update.
 * `ny_flu_cases_by_county_2009_2020.csv`: Comprehensive record of public health lab confirmed flu cases in New York from 2009 to 2020. Also discriminates based on strain of influenza beyond just A and B.
-* `ca_flu_cases_byregion_2009_2018.csv`: California flu cases not by county, but by region  (i.e. Bay Area, Central, e.t.c)*, so might need do some extrapolation to map back to counties if you want to use this data.
+* `ca_flu_cases_byregion_2009_2018.csv`: California flu cases not by county, but by region  (i.e. Bay Area, Central, e.t.c), so might need do some extrapolation to map back to counties if you want to use this data.
 * `national_pi_deaths_2013_2020.csv`: deaths nationwide.
 * `statewide_pi_deaths_2012_2020.csv`: deaths statewide.
 
@@ -64,6 +64,48 @@ Summary:
 * `county_centers.csv`: This wide file gives the latitude and longitude for the spatial and population centers of every county in the United States for the Census years 2000 and 2010.
 * `nearest_hei.csv`: This long file gives the nearest highest education institution (HEI) to each county population center across a number of years and higher education sectors.
 * `neighborcounties.csv`: This long file links every county in the United States (as of the 2010 Census) with all of its contiguous counties.
+
+Compiled By Connor Soohoo (connorsoohoo@gmail.com)
+
+## `mobility`
+
+Anonymized mobility metrics to analyze efficacy of social distancing, from Descartes Labs: https://github.com/descarteslabs/DL-COVID-19.
+
+The data is available in CSV format with each date as a row in the
+[DL-us-mobility-daterow.csv](DL-us-mobility-daterow.csv) file.
+
+```csv
+date,country_code,admin_level,admin1,admin2,fips,samples,m50,m50_index
+2020-03-26,US,2,"New Mexico","Santa Fe County","35049",1331,0.095,1
+...
+```
+
+An alternate arrangement of the same data in CSV format with dates in
+the header, which may be preferable for some users, is in the
+[DL-us-m50.csv](DL-us-m50.csv),
+[DL-us-m50_index.csv](DL-us-m50_index.csv) and
+[DL-us-samples.csv](DL-us-samples.csv) files.
+
+```csv
+country_code,admin_level,admin1,admin2,fips,2020-03-24,2020-03-25,2020-03-26
+US,2,"New Mexico","Santa Fe County","35049",2,4,1
+...
+```
+
+### Field description
+
+For more `m50` and `m50_index` detailed metric descriptions, see the following paper: https://www.descarteslabs.com/wp-content/uploads/2020/03/mobility-v097.pdf
+
+- **country_code**: ISO 3166-1 alpha-2 code.
+- **admin_level**: 0 for country, 1 for admin1, 2 for admin2 granularity.
+- **admin1**: [GeoNames](https://www.geonames.org/) ADM1 feature name for the first-order administrative division, such as a state in the United States.
+- **admin2**: [GeoNames](https://www.geonames.org/) ADM2 feature name for the second-order administrative division, such as a county or borough in the United States.
+- **fips**: [FIPS code](https://www.census.gov/quickfacts/fact/note/US/fips), a
+standard geographic identifier, to make it easier to combine this data
+with other data sets.
+- **samples**: The number of samples observed in the specified region.
+- **m50**: The median of the max-distance mobility for all samples in the specified region.
+- **m50_index**: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07.
 
 Compiled By Connor Soohoo (connorsoohoo@gmail.com)
 
