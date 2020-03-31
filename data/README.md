@@ -1,6 +1,6 @@
 # `data`
 
-This directory contains both US data (mostly at the county level) and international data. Detailed information on each of the datasets is provided both in the README files of `international` and `us`.
+This directory contains both US data (mostly at the county level) and international data. Detailed information on each of the datasets is provided both in the README files of `international` and `us`..
 
 
 ## Getting started with U.S. data
