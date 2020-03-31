@@ -23,7 +23,7 @@ Summary:
 * `nyt_us_states.csv` : Time series data on confirmed cases and deaths of COVID-19 at the state level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 * `nyt_us_counties.csv` : Time series data on confirmed cases and deaths of COVID-19 at the county level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 
-Compiled by quantummind, alexcdot
+Compiled by quantummind, Alex Cui (alexcdot)
 
 ## `demographics`
 
@@ -78,7 +78,6 @@ Summary:
 
 Compiled By Connor Soohoo (connorsoohoo@gmail.com) and quantummind
 
-
 ## `other`
 
 Random tidbits that could be useful for a detailed analysis of COVID-19.
@@ -96,3 +95,16 @@ Summary:
 * `fips_key.csv`: FIPS to county/state name conversion. https://www.dol.gov/owcp/regs/feeschedule/fee/Effective_May_16_2004_County_and_State_FIPS.htm
 
 Compiled by quantummind
+
+## Respiratory Disease
+
+Includes chronic respiratory disease mortality at a county level nationwide.
+
+Summary:
+* `IHME_USA_COUNTY_RESP_DISEASE_MORTALITY_1980_2014_NATIONAL_Y2017M09D26.XLSX`: Chronic respiratory disease mortality at a county level nationwide in 4 year increments from 1980 - 2014. Mortality rate is out of 100,000. The notebook that helps you parse this data can be found at `exploratory/alexcui_respiratory_disease.ipynb`
+
+### Sources
+
+* [Institute for Health Metrics and Evaluation](http://ghdx.healthdata.org/record/ihme-data/united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014)
+
+Compiled by Alex Cui (alexcdot)
