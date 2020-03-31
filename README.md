@@ -1,4 +1,4 @@
-# Caltech $10,000 COVID-19 Prediction Challenge
+# Caltech COVID-19 Prediction Challenge
 
 ## Overview
 This repository contains all of the code generated during our efforts to
