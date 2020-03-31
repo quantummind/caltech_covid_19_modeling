@@ -9,3 +9,4 @@ python3 get_JH_daily.py
 ./get_ECDC_data.sh
 ./clean_italy.sh
 ./get_nyt_data.sh
+./get_mobility_data.sh
