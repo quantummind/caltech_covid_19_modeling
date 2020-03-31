@@ -1,4 +1,4 @@
-# Caltech COVID-19 Prediction Challenge
+# Caltech COVID-19 Prediction
 
 ## Overview
 This repository contains all of the code generated during our efforts to
@@ -10,12 +10,19 @@ in the crisis response. Specifically, teams predict COVID-19 deaths at the count
 the U.S. on a two-week timescale. The competition is open to the entire Caltech campus — register [here](https://docs.google.com/forms/d/e/1FAIpQLSeq5ncLFDATIefqU--68OlSQ4pCae-Gww1ZQuf2T-mIZ2f9ng/viewform?usp=sf_link)!
 
 **IMPORTANT: at this time, we can only accommodate Caltech students and researchers in the competition. Over 10% of the student body is competing!**
-Official competition page: http://datascience.caltech.edu/covid/
 CS 156b competition page: http://cs156.caltech.edu/covid/
 
-## Prizes
+## Purpose
 
-Citadel and Citadel Securities have sponsored $10,000 worth of prizes for the winning teams. Of this, $5,000 will be distributed based purely on the final leaderboard rankings of the teams and the other $5,000 will be distributed based on evaluation by a panel of experts who will consider the quality, innovativeness, and robustness of the underlying model as well as observed performance. A well-written final report will be essential for having a chance at the second prize pool. Citadel and Citadel Securities ask for your resume if you’re interested in an internship or career there: either email datascience@caltech.edu or submit to [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSej6IWhegXEjKtt8t7MBPCOuqnMzMwgGJKDAOTsY9SjKZSXvQ/viewform?usp=sf_link).
+Modeling the spread of disease is a central issue to protect lives around the world. The field of epidemiology seeks to 
+quantify predictions, enabling better policies to be formed in response to tragic outbreaks. The projects
+held in CS 156b this term directly support this response, introducing novel data science methods to address
+a critical problem. Models such as these have informed decisions [about Ebola, Zika, and other major
+crises](https://www.npr.org/sections/health-shots/2020/03/04/811146915/how-computer-modeling-of-covid-19s-spread-could-help-fight-the-virus). Indeed, early models introduced by Imperial College London [shaped U.K. policy](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other). The vital
+importance of these models has brought a recent [call to action](https://epcced.github.io/ramp/) from the Royal Society to produce
+better prediction models using techniques including data science; this announcement follows only a few months after a similar CDC $3 million mission to [forecast the flu](https://www.wsj.com/articles/scientists-crunch-data-to-predict-how-many-people-will-get-coronavirus-11584479851).
+CS 156b seeks to improve such results and make them more robust, more effectively tracking the pandemic to
+save lives.
 
 ## Data
 
@@ -59,7 +66,7 @@ A pinball loss will be used to evaluate scores, encouraging predicted distributi
 
 ## Collaboration and external code
 
-As this research problem relates to an immediate public health concern, we do not wish to restrict teams from using whatever resources possible to construct the best models they can. As such, teams are allowed to collaborate as much as they want, up to and including exchange of code. Students are also allowed to examine and make use of code which has been publicly posted by research groups from other universities who have been working on COVID modeling. The only condition is that if a team uses any code they did not write (outside of standard data science or ML packages), they must post a link to that code publicly on the Piazza forum and also mention it in their progress report. We ask under the honor code that challenge participants do not blindly copy and paste code which they do not understand. 
+As this research problem relates to an immediate public health concern, we do not wish to restrict teams from using whatever resources possible to construct the best models they can. As such, teams are allowed to collaborate as much as they want, up to and including exchange of code. Students are also allowed to examine and make use of code which has been publicly posted by research groups from other universities who have been working on COVID modeling. The only condition is that if a team uses any code they did not write (outside of standard data science or ML packages), they must post a link to that code publicly on the Piazza forum and also mention it in their progress report. We ask under the honor code that participants do not blindly copy and paste code which they do not understand. 
 
 # License Information
 
