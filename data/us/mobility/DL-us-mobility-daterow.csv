@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="E6E6:967D:7B383:A7746:5E83E8EE" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d0a927944762f019e69f18258b0560f790ebc1ac" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNkU2Ojk2N0Q6N0IzODM6QTc3NDY6NUU4M0U4RUUiLCJ2aXNpdG9yX2lkIjoiNzk4NDkzMjA3ODQ5ODM0MzE1MCIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="1024a4ec79d709e728106aa3a66691e051ddd21697324fccef6c756d7ec735d7" data-pjax-transient="true"/>
+  <meta name="request-id" content="EC9C:51D2:C8296:10CA27:5E83E935" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b3f6ccb11f8cc9c01a2567cf4494e872d0115ca6" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFQzlDOjUxRDI6QzgyOTY6MTBDQTI3OjVFODNFOTM1IiwidmlzaXRvcl9pZCI6IjgyNzQ4MDI3NDU2MTAwNzAzMjUiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="c82ea944f4fe5f948483e5f42aa6fccf28756cd1d07acfb56054c2b930ddc787" data-pjax-transient="true"/>
 
 
 
@@ -284,7 +284,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="nR+A0Q7BNxbmCVL8YmbiBhmrdev8+VSi2GrxK+xSxG/KfFOgtsOz+VKWF4uw1nKXwooiSe85u1X89L5Gv32/gw==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="O6p6eWHSX6XIWuGT0a0VALvEtqoF3d333UexDs8T6+rneSPDRhXCwVUCgHD+rxW5zJpv+c7EsqbqFuuAsowwmw==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -770,7 +770,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="NmDEYbzp2D19OJRZgol+z85vsEUIdxsHUMdvGARsWZOEyUBCcdkkl/y9G3hkHeLdT5ruR0eFykucarCLjnHr6g==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="t48hD/JlQO5RlKBHFCnApwlDLguzLInZjk9GijZq6lprgS65gYnjmb4Cx8Cjj7NIq6vjNzSU1T3wYB7xVX4BIw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
