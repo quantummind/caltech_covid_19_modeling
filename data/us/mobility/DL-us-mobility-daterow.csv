@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="8E64:294E:FB262:154922:5E83F5AA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d21140b0ade271c0664fc7741856c759ccade6f5" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4RTY0OjI5NEU6RkIyNjI6MTU0OTIyOjVFODNGNUFBIiwidmlzaXRvcl9pZCI6IjQwNjk3ODEzMTYxNDc4NjkwOTgiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="7c365a5936cbfd92bf8d9d9d14cf9cca4f57d17d1721369828ef44655c866dcb" data-pjax-transient="true"/>
+  <meta name="request-id" content="BD0C:294F:11FE28:184B30:5E83FCB1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d3b1f4e1e1a738bb02f2f54644e4cb9f016cd9ab" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCRDBDOjI5NEY6MTFGRTI4OjE4NEIzMDo1RTgzRkNCMSIsInZpc2l0b3JfaWQiOiIzODAyMzc3NzI2MDQwNzM0ODk3IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="e2d817d6cc600bb66f53c9dd83825c4a2e28329c649fbaec0711120947b6c7d6" data-pjax-transient="true"/>
 
 
 
@@ -284,7 +284,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="N5z8mVNWQsxywY/cVjfWigXCa0TZOcCdwQipj8GVa8wZpS35Z8UHZijtQoi1Y7mlTzummUmDgTPJf+j6t9nAPA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="iEvrOgvO82jHtp5pL93KzA3js3f3v2VpJJVe5rarmGPBX+oVQK+ctSKyOg0Oqu0Ef4ixHhbHV1S6jMudm9wBZA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -517,8 +517,8 @@
       Star
 </a>
     <a class="social-count js-social-count" href="/descarteslabs/DL-COVID-19/stargazers"
-      aria-label="15 users starred this repository">
-      15
+      aria-label="16 users starred this repository">
+      16
     </a>
 
   </li>
@@ -770,7 +770,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="p3wSZEgR47sSGDsQecTsW5C0FzRtKN/YG87HeAEGLLgUDTbyso+4VzM0ta9HtiGKG0l3lS4xC4OEhoi6YpJDUw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="0GSU+gibrKaK6uejnRs1QULxVonk0AnzQyuGnQ/ZigvAGzY9RBRpiBxmp0vAyge4dGv0gu2RD1g8P2fdx3wqwg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
