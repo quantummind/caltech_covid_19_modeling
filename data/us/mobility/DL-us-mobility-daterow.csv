@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-iXrV/b4ypc1nr10b3Giikqff+qAx5osQ0yJRxHRDd8mKFefdMtEZ0Sxs1QysJxuJBayOKThjsuMjynwBJQq0aw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-897ad5fdbe32a5cd67af5d1bdc68a292.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-23DJ0jGXuHq4HnEnOv5yjJ3aD9zHvk4UkkK4Vs7e52NlpTBA9/zI9GMjyZ7MrJmYgiHJ0ZHNKVSFxEC3Pud9UA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-db70c9d23197b87ab81e71273afe728c.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-CSzJZkoN7C7ZGnNwLiEuQhedkI4gxVts/68Thz9mRQDyDS6QKLjGaHn0eM224WX5ySTADg9jLhkaWHDKVeyyJA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-092cc9664a0dec2ed91a73702e212e42.css" />
     
     
     
@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="9078:7E97:59754:790D3:5E84ED9C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="244ea2a34cb44c7a42342cbdea42896873582f88" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MDc4OjdFOTc6NTk3NTQ6NzkwRDM6NUU4NEVEOUMiLCJ2aXNpdG9yX2lkIjoiMTIzOTcwMDkyMDk3NjMzODMzMiIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="b4af3c3d660931987b1e25b5ebd42436c34ce0300552ef769d904d71f982a36a" data-pjax-transient="true"/>
+  <meta name="request-id" content="911C:9BD0:17015:1F0D0:5E8523F4" data-pjax-transient="true"/><meta name="html-safe-nonce" content="59c381c99cc70e8380c3f4f99b056f4c199525b0" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MTFDOjlCRDA6MTcwMTU6MUYwRDA6NUU4NTIzRjQiLCJ2aXNpdG9yX2lkIjoiODkyMjE0MTExNDExMTQzNTc2NCIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="f05b61495d54227c48f1d5a8f656c1c55d0a1de5a565ca3f250a63a5a0aa20e4" data-pjax-transient="true"/>
 
 
 
@@ -78,7 +78,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES">
 
-  <meta http-equiv="x-pjax-version" content="eb62e8764fa3278de54bb7bf882d459d">
+  <meta http-equiv="x-pjax-version" content="306e99e4682455f275f3f8d3732e3175">
   
 
       <link href="https://github.com/descarteslabs/DL-COVID-19/commits/master.atom" rel="alternate" title="Recent Commits to DL-COVID-19:master" type="application/atom+xml">
@@ -284,7 +284,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="+RI0HnLHDzyv+CXTOs+G2wmhnyPacA/t7RBIi5ceVlIEFvKbGwlt2+xr26KRuWB5q2yb6yi1zDkaUpCW5JAuBQ==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="UW77vxFww+B5oJD9RErNGR4+5zWtf6AebmX6yARfLO3+PlwellajAuposa3fdiOxVFrgo7sotc9BJ5e4xPVv/g==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -517,8 +517,8 @@
       Star
 </a>
     <a class="social-count js-social-count" href="/descarteslabs/DL-COVID-19/stargazers"
-      aria-label="16 users starred this repository">
-      16
+      aria-label="18 users starred this repository">
+      18
     </a>
 
   </li>
@@ -580,7 +580,7 @@
       <span class="Counter">0</span>
 </a>
 
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /descarteslabs/DL-COVID-19/security/advisories" href="/descarteslabs/DL-COVID-19/security/advisories">
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /descarteslabs/DL-COVID-19/security" href="/descarteslabs/DL-COVID-19/security">
       <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg></div>
       Security
 </a>
@@ -631,7 +631,7 @@
 </a>      </span>
 
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy token_scanning code_scanning /descarteslabs/DL-COVID-19/security/advisories" href="/descarteslabs/DL-COVID-19/security/advisories">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /descarteslabs/DL-COVID-19/security" href="/descarteslabs/DL-COVID-19/security">
         <span itemprop="name">Security</span>
         <meta itemprop="position" content="8">
 </a>
@@ -660,9 +660,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/descarteslabs/DL-COVID-19/blob/df26a7a4788ad247d8de30d781a9e70fa84b843e/DL-us-mobility-daterow.csv">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/descarteslabs/DL-COVID-19/blob/3a029ccec4290c36d3cf07630cc81965923b7d13/DL-us-mobility-daterow.csv">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:73a9455909d72217143c5757598bab3b -->
+    <!-- blob contrib key: blob_contributors:v22:8de9393064282c6371dda82b1d8483ed -->
       <div class="signup-prompt-bg rounded-1 js-signup-prompt" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -729,45 +729,16 @@
 
 
 
-    
-  <div class="Box Box--condensed d-flex flex-column flex-shrink-0 mb-3">
-      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
-        <span class="pr-md-4 f6">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/mikewarren0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mikewarren0"><img class="avatar" src="https://avatars2.githubusercontent.com/u/10064867?s=40&amp;v=4" width="20" height="20" alt="@mikewarren0" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/mikewarren0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mikewarren0">mikewarren0</a>
-            <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Data through 2020-03-29" class="link-gray" href="/descarteslabs/DL-COVID-19/commit/182ec18824d62e7e57e9f54ef8d5ff21f2a683c6">Data through 2020-03-29</a>
-            </span>
-        </span>
-        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/descarteslabs/DL-COVID-19/commit/182ec18824d62e7e57e9f54ef8d5ff21f2a683c6" data-pjax>182ec18</a>
-          <relative-time datetime="2020-03-31T23:44:01Z" class="no-wrap">Mar 31, 2020</relative-time>
-        </span>
+    <include-fragment src="/descarteslabs/DL-COVID-19/contributors/master/DL-us-mobility-daterow.csv" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
       </div>
 
-    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
-      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-        <summary class="btn-link">
-          <span><strong>1</strong> contributor</span>
-        </summary>
-        <details-dialog
-          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-          aria-label="Users who have contributed to this file"
-          src="/descarteslabs/DL-COVID-19/contributors-list/master/DL-us-mobility-daterow.csv" preload>
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-            </button>
-            <h3 class="Box-title">
-              Users who have contributed to this file
-            </h3>
-          </div>
-          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-        </details-dialog>
-      </details>
-    </div>
-  </div>
-
+      <div class="Box-body d-flex flex-items-center" >
+        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
 
 
 
@@ -779,7 +750,7 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-    4.83 MB
+    5 MB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -799,7 +770,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="JeHez5qdC9zisB4bLuaIb2Ih43BMtlRobjOHlSC859rFLH3vdpgK3rrldMOji/gA82xUzDerC8H6rZJggrjDGg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="y8wJ1Dboca3zxNyw3ePbKmiDib7UExfpoQOQmq2ai2Nf3CYcb4hykSnL3h2KD/TQ109ry9jpDx5AwEfP1YkXvQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -889,7 +860,7 @@
     <script crossorigin="anonymous" async="async" integrity="sha512-fNcWYAh2sNNjfGtnzXeDPemQsJYesX60BB9k+YlUmuSw+iX+9bVew+TJOO74e0yqqKS3gU570rxTCs+ZBpJCvg==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-7cd71660.js"></script>
     <script crossorigin="anonymous" async="async" integrity="sha512-CcKFBqQZKOCZU5otP6R8GH2k+iJ3zC9r2z2Iakfs/Bo9/ptHy6JIWQN3FPhVuS3CR+Q/CkEOSfg+WJfoq3YMxQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-09c28506.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-xPJg1COA9uhIWBkdI5O7HLAEJ9Yatg8M9QBjjgcAP/7JN5Hkt5mw4sLocrdk6lTSxwwxAKZMqDp3J9hQxT2Chw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-c4f260d4.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-dot7OxWUFZrNxIJwzgx6qat0Y/U3JkGgOe8Jp3HBDl14zCaFcUu8ACNB3UtmoYHdllzu9B/KXsXoMLXQEhx/Rw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-768b7b3b.js"></script>
     
     
     
