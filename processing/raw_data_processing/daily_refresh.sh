@@ -10,3 +10,4 @@ python3 get_JH_daily.py
 ./clean_italy.sh
 ./get_nyt_data.sh
 ./get_mobility_data.sh
+sh get_aq_daily.sh
