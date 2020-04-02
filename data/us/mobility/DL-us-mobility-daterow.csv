@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="EBBA:98E2:19E006:231F70:5E858D83" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4f830c0d17175beac48fb51d38f5b59efcf7a007" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFQkJBOjk4RTI6MTlFMDA2OjIzMUY3MDo1RTg1OEQ4MyIsInZpc2l0b3JfaWQiOiIzNDk3OTQ5MTU5OTA1MTM2MDAzIiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="1388c461eb4248e06863099cfb6a7e3cc0e7cc143a9ec5f17d32109242b55b9a" data-pjax-transient="true"/>
+  <meta name="request-id" content="94B4:6D7D:B8B2:FCCD:5E863646" data-pjax-transient="true"/><meta name="html-safe-nonce" content="43b8644ca5cf0f078f614774b270b809649cf414" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5NEI0OjZEN0Q6QjhCMjpGQ0NEOjVFODYzNjQ2IiwidmlzaXRvcl9pZCI6Ijg3OTM2MDkzMDg2MzEwODY2NjIiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="4ea6112e899df58d9a14c8f6f6fb53d66f71c8c98869add4132ecbafe629ec7c" data-pjax-transient="true"/>
 
 
 
@@ -78,7 +78,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES">
 
-  <meta http-equiv="x-pjax-version" content="306e99e4682455f275f3f8d3732e3175">
+  <meta http-equiv="x-pjax-version" content="dae69e682166d49b27f17b1be3f9ada0">
   
 
       <link href="https://github.com/descarteslabs/DL-COVID-19/commits/master.atom" rel="alternate" title="Recent Commits to DL-COVID-19:master" type="application/atom+xml">
@@ -284,7 +284,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="skAzs69F/fXgOJ+2xhXtIo7Z4f3h+8bjt7q4GwhbvLTnjEaebwOWToWwiQGoH7R9gaFC8ZJeY67di6O5CyYMGg==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="CKnMLds2t2+topxnEkTfEXATYwS1oCs4+/630nZGlutWxlLAmy59hjwKGqPAzQ2kieX0iV2B4DcBWnQI9voGNA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -517,8 +517,8 @@
       Star
 </a>
     <a class="social-count js-social-count" href="/descarteslabs/DL-COVID-19/stargazers"
-      aria-label="18 users starred this repository">
-      18
+      aria-label="22 users starred this repository">
+      22
     </a>
 
   </li>
@@ -799,7 +799,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="V2TiDKu4GE70VzIIVu2lPxZSPOeluDYQTCfrEKRV9aK7jawYXTpZtErxFobPWuJOSuzsVt4Ri1rqvng7o0mGdw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Ls3yHQ/5ncLe4GN4tCrHlYP1XwawYVI4SnYzXtotxEN1nB1emE+0GXvaQ2D4JuW/Ge8e+hDEhbUKYfZvPfCwcQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -886,10 +886,10 @@
 
     <script crossorigin="anonymous" async="async" integrity="sha512-WcQmT2vhcClFVOaaAJV/M+HqsJ2Gq/myvl6F3gCVBxykazXTs+i5fvxncSXwyG1CSfcrqmLFw/R/bmFYzprX2A==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-59c4264f.js"></script>
     <script crossorigin="anonymous" integrity="sha512-6XBdUZGib4aqdruJTnLMOLpIh0VJsGlgQ7M3vndWJIH6YQNv+zqpo1TbCDzjHJ+YYEm4xkEinaY0VsemDUfi9A==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-e9705d51.js"></script>
-    <script crossorigin="anonymous" async="async" integrity="sha512-fNcWYAh2sNNjfGtnzXeDPemQsJYesX60BB9k+YlUmuSw+iX+9bVew+TJOO74e0yqqKS3gU570rxTCs+ZBpJCvg==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-7cd71660.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-QKyxLBCBEvv42oSrCTf/MpyWhA/kKSeJz8jMaZfFYeyfEdYDOjoquIg34MNXgQE6clHO+iiR5il9DD9NtPzsvA==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-40acb12c.js"></script>
     <script crossorigin="anonymous" async="async" integrity="sha512-CcKFBqQZKOCZU5otP6R8GH2k+iJ3zC9r2z2Iakfs/Bo9/ptHy6JIWQN3FPhVuS3CR+Q/CkEOSfg+WJfoq3YMxQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-09c28506.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-dot7OxWUFZrNxIJwzgx6qat0Y/U3JkGgOe8Jp3HBDl14zCaFcUu8ACNB3UtmoYHdllzu9B/KXsXoMLXQEhx/Rw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-768b7b3b.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-DHa5/4dDa0vQTQl0B15O85PTcdgWYQpQSTnP2aScFLQ4O6LnxyOBW47hkjYa1nvj503maSVmgRwJz0HJx5LzjA==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-0c76b9ff.js"></script>
     
     
     
