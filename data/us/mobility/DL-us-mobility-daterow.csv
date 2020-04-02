@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="91C4:7AAB:9D0E:D756:5E853921" data-pjax-transient="true"/><meta name="html-safe-nonce" content="622ca31e17eb4a6c304921faad8492b0b4a3a13f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MUM0OjdBQUI6OUQwRTpENzU2OjVFODUzOTIxIiwidmlzaXRvcl9pZCI6IjEwNDI3MDE5ODIzNjA2ODEyOSIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="fc185ea2c72a01d0f8e5922625adcb75d388275589e42333e99244bb1d34302e" data-pjax-transient="true"/>
+  <meta name="request-id" content="EBBA:98E2:19E006:231F70:5E858D83" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4f830c0d17175beac48fb51d38f5b59efcf7a007" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFQkJBOjk4RTI6MTlFMDA2OjIzMUY3MDo1RTg1OEQ4MyIsInZpc2l0b3JfaWQiOiIzNDk3OTQ5MTU5OTA1MTM2MDAzIiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="1388c461eb4248e06863099cfb6a7e3cc0e7cc143a9ec5f17d32109242b55b9a" data-pjax-transient="true"/>
 
 
 
@@ -284,7 +284,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="XgXuFbHzravJysA2FjMpf0hKGTOLLLyr+OmckDldM0yvm1V91lE3tD0e4sfTzbLNBF5G+0C+ljrmoJWG+AhUsw==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="skAzs69F/fXgOJ+2xhXtIo7Z4f3h+8bjt7q4GwhbvLTnjEaebwOWToWwiQGoH7R9gaFC8ZJeY67di6O5CyYMGg==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -529,8 +529,8 @@
         Fork
 </a>
     <a href="/descarteslabs/DL-COVID-19/network/members" class="social-count"
-       aria-label="8 users forked this repository">
-      8
+       aria-label="9 users forked this repository">
+      9
     </a>
   </li>
 </ul>
@@ -799,7 +799,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="/OHH4luQzjocuF4g7nhUADthkZDDL0pJLCGLLv15/RJuCZAHKaRVH9HDMSrjbDY8it8mSsJq2rbAMLWaLslG+Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="V2TiDKu4GE70VzIIVu2lPxZSPOeluDYQTCfrEKRV9aK7jawYXTpZtErxFobPWuJOSuzsVt4Ri1rqvng7o0mGdw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
