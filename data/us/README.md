@@ -140,7 +140,7 @@ Summary:
 
 Compiled by quantummind
 
-## Respiratory Disease
+## `respiratory_disease`
 
 Includes chronic respiratory disease mortality at a county level nationwide.
 
