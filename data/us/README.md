@@ -7,7 +7,7 @@ US datasets are (usually) encoded with a column named "FIPS" denoting the county
 For the most curated dataset of COVID-19 cases, see `covid/nyt_us_counties.csv`. Additional variables can be merged in from the appropriate subdirectories, but we also provide useful aggregate datasets of relevant variables (demographics, health, etc.) in `aggregate_berkeley.csv` and `aggregate_jhu.csv`.
 
 Summary:
-* `aggregate_berkeley.csv`: Demographic, health, and other information compiled by Bin Yu's group at UC Berkeley. https://github.com/Yu-Group/covid-19-ventilator-demand-prediction
+* `aggregate_berkeley.csv`: Demographic, health, and other information compiled by Bin Yu's group at UC Berkeley. A few columns are selected from a few thousand by feature selection done by Berkeley. The full dataset includes data on number of icu beds and hospitals per county prevalance of chronic diseases, number of total deaths (from any cause), mortality rate from respiratory diseases, voting history, and impact from smoking at the county level. You can download full dataset: `df_county_level_cached.csv` file at https://drive.google.com/open?id=1EHqZxbTVPO5RDxDvJntZMNBjhxGeE2bU. You can regenerate the full dataset and view the original sources at https://github.com/Yu-Group/covid-19-ventilator-demand-prediction.
 * `aggregate_jhu.csv`: Demographic, health, and other information compiled by Johns Hopkins University. https://github.com/JieYingWu/COVID-19_US_County-level_Summaries
 
 ## `covid`
@@ -32,6 +32,8 @@ This includes age/gender, education, and economic information of the US populati
 Summary:
 * `acs_2018.csv`: Number of households, age and ethnicity breakdowns. American Community Survey (ACS) 2018, US Census Bureau (data.census.gov).
 * `county_populations.csv`: Total population and population over the age of 60 per county from the 2017 American Community Survey. Data dictionary and more details available at. https://khn.org/wp-content/uploads/sites/2/2020/03/KHN_ICU_bed_county_analysis.zip
+* `county_land_areas.csv`: Total area, population per sq mile, and households per sq mile for each county from the 2010 census. https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk
+* `countypres_2000-2016.csv`: Number of votes for each presidential candidate by county for the 2000 - 2016 presidential elections. https://dataverse.harvard.edu/dataset.xhtml;jsessionid=49aac8aa6c3b5b267543f901b568?persistentId=doi:10.7910/DVN/VOQCHQ
 * `education.csv`: Education level per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 * `poverty.csv`: Urbanization and poverty rates per county, columns described in `poverty-key.txt`. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 * `state_populations.csv`: Statewide populations from the corona data scraper. https://coronadatascraper.com/#sources
@@ -126,7 +128,7 @@ Random tidbits that could be useful for a detailed analysis of COVID-19.
 
 Summary:
 * `air_traffic.csv`: Data on 2019 US air traffic. Includes origin and destination airports. https://www.transtats.bts.gov/DL_SelectFields.asp
-* `policies.csv`: Interventions at the county level, compiled by Johns Hopkins University researchers. https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+* `policies.csv`: Interventions at the county level, compiled by Johns Hopkins University researchers. The values indicate the day in March 2020 that the policy was put into action. https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
 * `transit.csv`: Connectivity and frequency of transit per county. Data found by AllTransit using available General Transit Feed Specification data from transit agencies and publicly available schedules. https://alltransit.cnt.org/rankings/
 
 ## `processing_data`
