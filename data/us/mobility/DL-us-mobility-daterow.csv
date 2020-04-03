@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-iXrV/b4ypc1nr10b3Giikqff+qAx5osQ0yJRxHRDd8mKFefdMtEZ0Sxs1QysJxuJBayOKThjsuMjynwBJQq0aw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-897ad5fdbe32a5cd67af5d1bdc68a292.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-CSzJZkoN7C7ZGnNwLiEuQhedkI4gxVts/68Thz9mRQDyDS6QKLjGaHn0eM224WX5ySTADg9jLhkaWHDKVeyyJA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-092cc9664a0dec2ed91a73702e212e42.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-nNiLDLS8nVmj1ksLLiScmstTqNgI+qAak+XQycJTfmcLoaR+QheHB5/eBhvtBV9dK8FmoCHkCJAu5iEC0H4Cgw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-9cd88b0cb4bc9d59a3d64b0b2e249c9a.css" />
     
     
     
@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="94B4:6D7D:B8B2:FCCD:5E863646" data-pjax-transient="true"/><meta name="html-safe-nonce" content="43b8644ca5cf0f078f614774b270b809649cf414" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5NEI0OjZEN0Q6QjhCMjpGQ0NEOjVFODYzNjQ2IiwidmlzaXRvcl9pZCI6Ijg3OTM2MDkzMDg2MzEwODY2NjIiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="4ea6112e899df58d9a14c8f6f6fb53d66f71c8c98869add4132ecbafe629ec7c" data-pjax-transient="true"/>
+  <meta name="request-id" content="95BA:56D7:CB6E8:10D64E:5E86DF02" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9a6efc41be3787288cc55c4e628cd34e0269cda3" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5NUJBOjU2RDc6Q0I2RTg6MTBENjRFOjVFODZERjAyIiwidmlzaXRvcl9pZCI6IjgyNDQ4NTk0NDkwOTgyOTcwOTAiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="d9a6d6cc27be9dca7a8f4b04c7e271d4c178fc5a18fb859ffa2d3421a7edf73b" data-pjax-transient="true"/>
 
 
 
@@ -78,7 +78,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES">
 
-  <meta http-equiv="x-pjax-version" content="dae69e682166d49b27f17b1be3f9ada0">
+  <meta http-equiv="x-pjax-version" content="d20ae514dd678682d4173e39e0850a68">
   
 
       <link href="https://github.com/descarteslabs/DL-COVID-19/commits/master.atom" rel="alternate" title="Recent Commits to DL-COVID-19:master" type="application/atom+xml">
@@ -284,7 +284,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="CKnMLds2t2+topxnEkTfEXATYwS1oCs4+/630nZGlutWxlLAmy59hjwKGqPAzQ2kieX0iV2B4DcBWnQI9voGNA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="9qcw+wy+QVA9ht0Ha1pj5wrxrwrrGVtcXXakOal/Zhb7+aQvY/QUY/a8ecHqC8j/1SLJcDCLyLu36tqtGrGHoA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -504,8 +504,8 @@
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/descarteslabs/DL-COVID-19/watchers"
-       aria-label="5 users are watching this repository">
-      5
+       aria-label="6 users are watching this repository">
+      6
     </a>
 
   </li>
@@ -517,8 +517,8 @@
       Star
 </a>
     <a class="social-count js-social-count" href="/descarteslabs/DL-COVID-19/stargazers"
-      aria-label="22 users starred this repository">
-      22
+      aria-label="25 users starred this repository">
+      25
     </a>
 
   </li>
@@ -660,9 +660,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/descarteslabs/DL-COVID-19/blob/3a029ccec4290c36d3cf07630cc81965923b7d13/DL-us-mobility-daterow.csv">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/descarteslabs/DL-COVID-19/blob/61ba640ab04eadf1ab595b0055f072bfde5669aa/DL-us-mobility-daterow.csv">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:8de9393064282c6371dda82b1d8483ed -->
+    <!-- blob contrib key: blob_contributors:v22:3e3345b0597ce2a63630726885c76400 -->
       <div class="signup-prompt-bg rounded-1 js-signup-prompt" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -736,12 +736,12 @@
           <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/mikewarren0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mikewarren0"><img class="avatar" src="https://avatars2.githubusercontent.com/u/10064867?s=40&amp;v=4" width="20" height="20" alt="@mikewarren0" /></a>
           <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/mikewarren0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mikewarren0">mikewarren0</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Data through 2020-03-30" class="link-gray" href="/descarteslabs/DL-COVID-19/commit/3a029ccec4290c36d3cf07630cc81965923b7d13">Data through 2020-03-30</a>
+              <a data-pjax="true" title="Data through 2020-03-31" class="link-gray" href="/descarteslabs/DL-COVID-19/commit/61ba640ab04eadf1ab595b0055f072bfde5669aa">Data through 2020-03-31</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/descarteslabs/DL-COVID-19/commit/3a029ccec4290c36d3cf07630cc81965923b7d13" data-pjax>3a029cc</a>
-          <relative-time datetime="2020-04-01T23:19:14Z" class="no-wrap">Apr 1, 2020</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/descarteslabs/DL-COVID-19/commit/61ba640ab04eadf1ab595b0055f072bfde5669aa" data-pjax>61ba640</a>
+          <relative-time datetime="2020-04-02T23:20:08Z" class="no-wrap">Apr 2, 2020</relative-time>
         </span>
       </div>
 
@@ -779,7 +779,7 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-    5 MB
+    5.16 MB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -799,7 +799,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Ls3yHQ/5ncLe4GN4tCrHlYP1XwawYVI4SnYzXtotxEN1nB1emE+0GXvaQ2D4JuW/Ge8e+hDEhbUKYfZvPfCwcQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/descarteslabs/DL-COVID-19/delete/master/DL-us-mobility-daterow.csv" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="f20wBj7Jo/2YHWQCzjbZridWgYDAo2W23pfKdqlmpuRiX3i75Ni0EgENvRA3CxepeOQBw9846N+OkwBpWPHCxA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
