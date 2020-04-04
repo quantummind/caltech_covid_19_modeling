@@ -4,11 +4,11 @@
 
 Influenza cases nationally and statewide for the past 5+ years, including the 2019-2020 Flu Season up to Week 11 (of 2020). Right now these are fixed, but feel free to use the interactive source links below to pull more recent weeks of data as the  challenge progresses.
 
-**Most of these report not in years but in Flu Seasons**. For instance, the 2019-2020 flu reasons runs from like September/October of 2019 through spring of 2020. **Each item in the table represents a week's worth of data, as denoted by the week number in that calendar year.**
+**Most of these report not in years but in Flu, especially in earlier years**. For instance, the 2019-2020 flu reasons runs from like September/October of 2019 through spring of 2020. Flu season typically runs from around Week 40 of the previous year up until Week 20. It would be best to incorporate seasonality into any flu models you create. **Each item in the table represents a week's worth of data, as denoted by the week number in that calendar year.** 
 
 Age ranges are usually grouped by 0-4, 5-24, 25-49, 25-64, 50-64, 65+
 
-* `ILI_Ages.csv`: Percentage of visits for Influenza-Like-Illness (ILI) reported by Sentinal Providers, for the past 23 years from 1997 up to 2020. Patients with ILI are also grouped by age range.
+* `ILI_Ages.csv`: Percentage of visits for Influenza-Like-Illness (ILI) reported by Sentinal Providers, for the past 23 years from 1997 up to 2020. Patients with ILI are also grouped by age range. Definition of what a sentinal provider is is given here: http://dhhr.wv.gov/oeps/disease/flu/documents/sentinel-providers/sentinel-%20provider-factsheet.pdf. Essentially a sentinal provider can be a provider of any specialty (e.g., family physicians, internists, pediatricians) in any type of practice (e.g., private practice, public health clinic, urgent care center, emergency room, student health center). This means that patients with mild flu-like symptoms can be surveyed without having to send samples to a national lab.
 
 * `WHO_cases_age_groupings_virus_strains.csv`: Influenza cases grouped by age range and by virus strain. Details on virus strains given below. **Useful for looking at spread of H1N1**
 
