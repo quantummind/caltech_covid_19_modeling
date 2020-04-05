@@ -1,6 +1,12 @@
 import pandas as pd
 import numpy as np
-nyt_us_df = pd.read_csv('../../data/us/covid/nyt_us_counties.csv')
+import git
+
+repo = git.Repo("./", search_parent_directories=True)
+homedir = repo.working_dir
+datadir = f"{homedir}/data/us/"
+
+nyt_us_df = pd.read_csv(datadir + 'covid/nyt_us_counties.csv')
 print('Processing NYT Data. Expect to wait up to 30 seconds or more.')
 
 # Manually set the FIPS codes for NYC and Guam as the data does 
@@ -59,4 +65,4 @@ for fips in fips_codes:
     df = difference_fips_df(df)
     df_list.append(df)
 
-pd.concat(df_list).to_csv('../../data/us/covid/nyt_us_counties_daily.csv')
+pd.concat(df_list).to_csv(datadir + 'covid/nyt_us_counties_daily.csv')
