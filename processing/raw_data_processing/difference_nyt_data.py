@@ -39,7 +39,7 @@ def process_fips_df(df):
     for i in range(1, len(dates)):
         # Fill in missing rows with no new cases/deaths, as it appears that these missing days
         # have no new cases/deaths.
-        if(dates[i] != dates[i-1]+np.timedelta64(1,'D')):
+        if(dates[i] > dates[i-1]+np.timedelta64(1,'D')):
             return process_fips_df(add_missing_date_rows(df, df.iloc[i], dates[i-1], dates[i]))
     return df
 
