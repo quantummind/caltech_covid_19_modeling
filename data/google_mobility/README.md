@@ -7,5 +7,6 @@ Since Google only provides PDFs (see most recent set of PDF mobility reports in 
 
 We only save the most recent set of PDF files, since each new set of data is 50MB. You can look at the commit history to retrieve past physical PDF files. However, the CSV files should contain all cumulative data from 3/29/2020. 
 
+Looks like data is refreshed on Google every 4 or 5 days.
 
 Compiled by Connor Soohoo (connorsoohoo@gmail.com)
