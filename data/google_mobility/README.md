@@ -9,4 +9,6 @@ We only save the most recent set of PDF files, since each new set of data is 50M
 
 Looks like data is refreshed on Google every 4 or 5 days.
 
+Also please don't move the `report_source.txt` file, it needs to be there for the aggregation script to work correctly.
+
 Compiled by Connor Soohoo (connorsoohoo@gmail.com)
