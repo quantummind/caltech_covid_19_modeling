@@ -9,4 +9,8 @@ We only save the most recent set of PDF files, since each new set of data is 50M
 
 In addition, we also have a script that extrapolates the trend lines from the Google Mobility graph images for the US counties, in addition to parsing the numbers. The resulting aggregate CSV file is called `extrapolated_mobility_report_US.csv`, and contains trends from 02/23/2020 onwards. In this file the `change` column represents the actual number that Google reported for the most recent date, and the `changecalc` column represents the extrapolated value that was determined from the same day. Note that this discrepancy is less than 3 percent for most if not all of the trends, so we can safely assume that these extrapolated values are fairly accurate and usable.
 
+Looks like data is refreshed on Google every 4 or 5 days.
+
+Also please don't move the `report_source.txt` file, it needs to be there for the aggregation script to work correctly.
+
 Compiled by Connor Soohoo (connorsoohoo@gmail.com)
