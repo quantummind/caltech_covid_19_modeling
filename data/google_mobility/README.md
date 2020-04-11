@@ -5,7 +5,8 @@ The reports chart movement trends over time by geography, across different categ
 
 Since Google only provides PDFs (see most recent set of PDF mobility reports in pdfs subfolder), we have a scraper that aggregates these PDFs into CSV files.
 
-We only save the most recent set of PDF files, since each new set of data is 50MB. You can look at the commit history to retrieve past physical PDF files. However, the CSV files should contain all cumulative data from 3/29/2020. 
+We only save the most recent set of PDF files, since each new set of data is 50MB. You can look at the commit history to retrieve past physical PDF files. However, `mobility_report_regions.csv` and `mobility_report_US.csv` should contain the most accurative data from 3/29/2020 onwards, for both international and the US (state and county-wide), respectively. 
 
+In addition, we also have a script that extrapolates the trend lines from the Google Mobility graph images for the US counties, in addition to parsing the numbers. The resulting aggregate CSV file is called `extrapolated_mobility_report_US.csv`, and contains trends from 02/23/2020 onwards. In this file the `change` column represents the actual number that Google reported for the most recent date, and the `changecalc` column represents the extrapolated value that was determined from the same day. Note that this discrepancy is less than 3 percent for most if not all of the trends, so we can safely assume that these extrapolated values are fairly accurate and usable.
 
 Compiled by Connor Soohoo (connorsoohoo@gmail.com)

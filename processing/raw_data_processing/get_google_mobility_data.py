@@ -16,6 +16,8 @@ import numpy as np
 import pandas as pd
 import git
 import shutil
+
+from extrapolate_google_mobility import extrapolate_all_states
 repo = git.Repo("./", search_parent_directories=True)
 homedir = repo.working_dir
 csvdir = f"{homedir}/data/google_mobility/"
@@ -251,6 +253,8 @@ def run():
                                     report_type='regions')
         build_covid_report_detailed(destination='mobility_report_US.csv',
                                     report_type='US')
+
+        extrapolate_all_states()
 
 
 if __name__ == '__main__':
