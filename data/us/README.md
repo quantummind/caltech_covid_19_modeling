@@ -15,6 +15,7 @@ Summary:
 County-level from USAFacts (aggregated from the CDC, state- and local-level public health agencies, and academic institutions), which is claimed to have been confirmed with individual counties. County-level data from JHU.
 
 Summary:
+* `cdc_all_deaths.csv`: Recent mortality due to COVID-19 and due to all causes, grouped by state, age, and place of death. https://data.cdc.gov/NCHS/Provisional-Death-Counts-for-Coronavirus-Disease-C/hc4f-j6nb
 * `confirmed_cases.csv`: Confirmed COVID cases per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
 * `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv
 * `deaths.csv`: Confirmed COVID deaths per county, USAFacts. https://static.usafacts.org/public/data/covid-19/
@@ -35,6 +36,7 @@ Summary:
 * `county_land_areas.csv`: Total area, population per sq mile, and households per sq mile for each county from the 2010 census. https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk
 * `countypres_2000-2016.csv`: Number of votes for each presidential candidate by county for the 2000 - 2016 presidential elections. https://dataverse.harvard.edu/dataset.xhtml;jsessionid=49aac8aa6c3b5b267543f901b568?persistentId=doi:10.7910/DVN/VOQCHQ
 * `education.csv`: Education level per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+* `households.csv.zip` (compressed): Household data from the ACS 2018 survey (5% of households in the US) showing the number of generations in a household. 2018 5-year American Community Survey.
 * `poverty.csv`: Urbanization and poverty rates per county, columns described in `poverty-key.txt`. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 * `state_populations.csv`: Statewide populations from the corona data scraper. https://coronadatascraper.com/#sources
 * `unemployment.csv`: Urbanization, metro areas, unemployment, and income per county. https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/

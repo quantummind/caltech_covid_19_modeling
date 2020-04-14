@@ -1,0 +1,92 @@
+Group,Indicator,All COVID-19 Deaths (U07.1),Deaths from All Causes,Percent of Expected Deaths,All Pneumonia Deaths (J12.0-J18.9),Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1),All Influenza Deaths (J09-J11)
+By week,Total Deaths,6930,531354,0.84,38672,3161,4718
+By week,2/1/2020,0,56461,0.95,3629,0,453
+By week,2/8/2020,0,56840,0.95,3611,0,486
+By week,2/15/2020,0,55467,0.95,3599,0,493
+By week,2/22/2020,0,55047,0.95,3442,0,508
+By week,2/29/2020,5,54647,0.95,3479,3,577
+By week,3/7/2020,19,53970,0.94,3569,11,556
+By week,3/14/2020,44,51649,0.91,3508,22,538
+By week,3/21/2020,435,50152,0.88,3829,200,452
+By week,3/28/2020,2034,48682,0.87,4602,928,328
+By week,4/4/2020,3240,38203,0.73,4266,1512,271
+By week,4/11/2020,1153,10236,0.26,1138,485,56
+By age,All ages,6930,531354,0.84,38672,3161,4718
+By age,Under 1 year,0,2822,0.61,23,0,10
+By age,1&ndash;4 years,1,565,0.72,27,1,26
+By age,5&ndash;14 years,1,827,0.68,26,0,34
+By age,15&ndash;24 years,7,4764,0.76,90,2,35
+By age,25&ndash;34 years,65,9977,0.81,270,26,108
+By age,35&ndash;44 years,162,14311,0.83,570,54,168
+By age,45&ndash;54 years,406,27639,0.76,1500,158,395
+By age,55&ndash;64 years,893,67012,0.81,4534,377,861
+By age,65&ndash;74 years,1499,104361,0.87,7864,617,1018
+By age,75&ndash;84 years,1888,131669,0.87,10760,921,1061
+By age,85 years and over,2008,167407,0.83,13008,1005,1002
+By state,Total US,6930,531354,0.84,38672,3161,4718
+By state,Alabama,17,9466,0.81,552,6,76
+By state,Alaska,1,677,0.73,33,1,3
+By state,Arizona,26,11869,0.88,748,13,95
+By state,Arkansas,10,6330,0.89,412,2,64
+By state,California,187,53852,0.89,4273,102,516
+By state,Colorado,107,8187,0.94,555,60,80
+By state,Connecticut,0,0,0,0,0,0
+By state,Delaware,2,1476,0.72,72,2,9
+By state,District of Columbia,5,1102,0.83,95,5,5
+By state,Florida,157,42518,0.91,2785,93,251
+By state,Georgia,74,14842,0.8,833,42,83
+By state,Hawaii,1,2216,0.86,156,0,16
+By state,Idaho,13,2825,0.9,151,4,24
+By state,Illinois,77,21441,0.91,1560,47,152
+By state,Indiana,43,12513,0.84,946,19,110
+By state,Iowa,12,5854,0.87,421,2,75
+By state,Kansas,9,4933,0.82,326,3,78
+By state,Kentucky,6,8117,0.76,692,3,76
+By state,Louisiana,154,7935,0.79,418,64,56
+By state,Maine,10,3049,0.94,260,5,29
+By state,Maryland,75,10332,0.92,783,42,92
+By state,Massachusetts,172,12294,0.91,1073,85,135
+By state,Michigan,309,19581,0.91,1370,142,192
+By state,Minnesota,17,8881,0.91,609,6,108
+By state,Mississippi,34,6206,0.89,520,17,50
+By state,Missouri,22,11672,0.81,699,9,157
+By state,Montana,3,1911,0.83,116,1,30
+By state,Nebraska,3,3260,0.86,249,2,25
+By state,Nevada,27,5025,0.88,363,21,34
+By state,New Hampshire,15,2601,0.95,171,8,29
+By state,New Jersey,593,16044,0.96,1305,303,93
+By state,New Mexico,1,3212,0.78,217,0,23
+By state,New York,1130,22628,1.01,2551,650,169
+By state,New York City,2862,16567,1.38,2363,1065,306
+By state,North Carolina,0,5405,0.25,340,0,53
+By state,North Dakota,1,1256,0.81,108,0,15
+By state,Ohio,8,19989,0.73,1015,4,187
+By state,Oklahoma,17,6703,0.75,580,5,77
+By state,Oregon,21,6463,0.8,338,13,49
+By state,Pennsylvania,220,21573,0.7,1348,98,170
+By state,Rhode Island,1,1726,0.74,83,1,21
+By state,South Carolina,36,10041,0.93,577,13,86
+By state,South Dakota,4,1452,0.8,111,1,18
+By state,Tennessee,25,14245,0.86,1043,11,113
+By state,Texas,47,38420,0.86,2695,18,285
+By state,Utah,8,3762,0.91,227,3,36
+By state,Vermont,17,1230,0.96,78,6,14
+By state,Virginia,39,13498,0.88,654,15,86
+By state,Washington,278,11521,0.9,916,142,93
+By state,West Virginia,0,2916,0.58,204,0,33
+By state,Wisconsin,34,10883,0.93,616,7,134
+By state,Wyoming,0,855,0.87,62,0,7
+By state,Puerto Rico,18,0,0,500,13,0
+By sex,Total Deaths,6930,531354,0.84,38672,3161,4718
+By sex,Male,4115,273009,0.86,20326,1836,2372
+By sex,Female,2815,258328,0.84,18346,1325,2346
+By sex,Unknown,0,17,1.13,0,0,0
+By place of death,Total,6930,531354,0.84,38672,3161,4718
+By place of death,"Healthcare setting, inpatient",5180,150708,0.82,26080,2598,3256
+By place of death,"Healthcare setting, outpatient or emergency room",421,31793,0.81,1408,152,160
+By place of death,"Healthcare setting, dead on arrival",10,1396,0.64,30,3,10
+By place of death,Decedent&#39;s home,519,171304,0.9,3202,62,587
+By place of death,Hospice facility,78,40774,0.84,2315,44,263
+By place of death,Nursing home/long term care facility,674,101624,0.84,4954,284,382
+By place of death,Other,48,33672,0.89,674,18,60
+By place of death,Place of death unknown,0,83,0.67,9,0,0
