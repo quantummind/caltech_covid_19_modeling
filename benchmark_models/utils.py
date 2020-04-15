@@ -24,7 +24,10 @@ def get_region_data(df, county_fips, proc_date=None, key='deaths'):
     county_fips = float(county_fips)
     d = df.loc[df['fips'] == county_fips]
     if proc_date is not None:
-        return d.loc[d['date_processed'] == proc_date][key].values[0]
+        vals = d.loc[d['date_processed'] == proc_date][key].values
+        if len(vals) == 0:
+            return 0.0
+        return vals[0]
     return d
 
 
