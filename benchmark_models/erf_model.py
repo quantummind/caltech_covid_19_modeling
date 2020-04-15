@@ -1,5 +1,6 @@
 from scipy.special import erf
 from scipy.optimize import curve_fit
+from scipy.stats import norm
 import numpy as np
 import time
 
@@ -45,14 +46,58 @@ def run_model(func, params, t):
     params: parameters to feed to the model
     t: input time values to the model
     '''
-    deaths = func(t, *params)
-    deaths[deaths < 0] = 0  # Remove spurious negative death predictions
+    preds = func(t, *params)
+    preds[preds < 0] = 0  # Remove spurious negative death predictions
 
-    return deaths
+    return preds
+
+
+def sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors, num_samples=100):
+    all_samples = []
+    # To bootstrap error bars, we run 100 models with randomly sampled parameters and measure their spread
+    for i in range(num_samples):
+        sample = np.random.normal(loc=popt, scale=errors)
+        for ind, (param, bound) in enumerate(zip(sample, fit_bounds)):
+            # Make sure the randomly selected parameters fall within our bounds
+            if param < fit_bounds[0][ind]:
+                sample[ind] = fit_bounds[0][ind]
+            elif param > fit_bounds[1][ind]:
+                sample[ind] = fit_bounds[1][ind]
+        y = run_model(fit_func, sample, t)
+        all_samples.append(np.diff(y))
+
+    all_samples = np.array(all_samples)
+    # Get decile levels by taking the 10th through 90th percentile levels of our sample curves at each date
+    all_deciles = np.transpose(np.array([np.percentile(all_samples, per, axis=0) for per in np.arange(10, 100, 10)]))
+    # Remove any spurious negative values
+    all_deciles[all_deciles < 0] = 0
+    return all_deciles
+
+
+def data_var_bootstrap_err(fit_func, popt, true_vals, start_date_proc, last_date_obv_proc, last_date_pred_proc):
+    if len(true_vals) < last_date_obv_proc + 1:
+        true_vals = np.concatenate((np.zeros(int(last_date_obv_proc + 1 - len(true_vals))), true_vals))
+    inds = np.where(true_vals > 10)[0]
+    if len(inds) < 10:
+        return None
+    preds = run_model(fit_func, popt, np.arange(0, last_date_pred_proc + 1))
+    preds_trim_diff = np.diff(preds[inds[0]:len(true_vals)])
+    good_inds = np.where(preds_trim_diff > 5)[0]
+    if len(good_inds) < 10:
+        return None
+    preds_trim_diff = preds_trim_diff[good_inds]
+    true_vals_trim_diff = np.diff(true_vals[inds[0:]])[good_inds]
+    percent_errs = (preds_trim_diff - true_vals_trim_diff) / preds_trim_diff
+    err_std = max(0.01, np.std(percent_errs))
+    pred_centers = np.diff(preds)[int(start_date_proc):]
+    pred_quants = np.zeros((int(last_date_pred_proc - start_date_proc), 9))
+    for i, quant in enumerate(np.arange(0.1, 1.0, 0.1)):
+        pred_quants[:, i] = max(0, norm.ppf(quant, loc=1.0, scale=err_std)) * pred_centers
+    return pred_quants
 
 
 def make_erf_predictions(df, county_fips, key='deaths', last_date_pred='2020-06-30', start_date='2020-03-31',
-                         boundary_date=None, do_diff=True):
+                         boundary_date=None):
     '''
     df: main nyt data frame
     county_fips: fips code of the county to be fit
@@ -63,16 +108,16 @@ def make_erf_predictions(df, county_fips, key='deaths', last_date_pred='2020-06-
     boundary_date: date at which to cut off data used for fitting
     do_diff: if true, report the daily increase in cases/deaths rather than cumulative values
     '''
-    num_days = int(utils.process_date(last_date_pred, df) - utils.process_date(start_date, df)) + 1
+    num_days = int(utils.process_date(last_date_pred, df) - utils.process_date(start_date, df))
     data = utils.get_region_data(df, county_fips)
     if len(data) == 0:  # If there's no data for this FIPS, just return zeroes
-        return np.zeros((num_days - (1 if do_diff else 0), 9))
+        return np.zeros((num_days, 9))
     first_date_obv_proc = np.min(data['date_processed'].values)
     boundary = None if boundary_date is None else int(utils.process_date(boundary_date, df) - first_date_obv_proc + 1)
 
     x = data['date_processed'].values[:boundary]
     if len(x) == 0:  # If there's no data for this FIPS, just return zeroes
-        return np.zeros((num_days - (1 if do_diff else 0), 9))
+        return np.zeros((num_days, 9))
     if start_date is None:
         start_date_proc = first_date_obv_proc
     else:
@@ -85,7 +130,7 @@ def make_erf_predictions(df, county_fips, key='deaths', last_date_pred='2020-06-
 
     y = data[key].values[:boundary]
     if np.max(y) == 0:  # If all data we have for this FIPS is zeroes, just return zeroes
-        return np.zeros((num_days - (1 if do_diff else 0), 9))
+        return np.zeros((num_days, 9))
     thresh_y = y[y >= 10]  # Isolate all days with at least 10 cases/deaths
     # If we have fewer than 5 days with substantial numbers of cases/deaths there isn't enough information to do an
     # erf fit, so just do a simple linear fit instead
@@ -118,36 +163,19 @@ def make_erf_predictions(df, county_fips, key='deaths', last_date_pred='2020-06-
     # Get error bars on the fitted parameters
     errors = np.sqrt(np.diag(pcov))
 
-    all_samples = []
-    samples = 100
-    t = np.arange(max(start_date_proc, first_date_obv_proc), last_date_pred_proc + 1)
-    # To bootstrap error bars, we run 100 models with randomly sampled parameters and measure their spread
-    for i in range(samples):
-        sample = np.random.normal(loc=popt, scale=errors)
-        for ind, (param, bound) in enumerate(zip(sample, fit_bounds)):
-            # Make sure the randomly selected parameters fall within our bounds
-            if param < fit_bounds[0][ind]:
-                sample[ind] = fit_bounds[0][ind]
-            elif param > fit_bounds[1][ind]:
-                sample[ind] = fit_bounds[1][ind]
-        y = run_model(fit_func, sample, t)
-        if do_diff:
-            all_samples.append(np.diff(y))
-        else:
-            all_samples.append(y)
+    all_deciles = data_var_bootstrap_err(fit_func, popt, y, start_date_proc, last_date_obv_proc, last_date_pred_proc)
+    if all_deciles is None:
+        t = np.arange(max(start_date_proc, first_date_obv_proc), last_date_pred_proc + 1)
+        all_deciles = sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors)
 
-    all_samples = np.array(all_samples)
-    # Get decile levels by taking the 10th through 90th percentile levels of our sample curves at each date
-    all_deciles = np.transpose(np.array([np.percentile(all_samples, per, axis=0) for per in np.arange(10, 100, 10)]))
-    # Remove any spurious negative values
-    all_deciles[all_deciles < 0] = 0
     # If data didn't start for this FIPS until after our start date, pad the beginning with zeroes
-    if first_date_obv_proc > start_date_proc:
-        all_deciles = np.concatenate((np.zeros((int(first_date_obv_proc - start_date_proc), 9)), all_deciles))
+    if len(all_deciles) < num_days:
+        all_deciles = np.concatenate((np.zeros((num_days - len(all_deciles), 9)), all_deciles))
     return all_deciles
 
 
-def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_predictions.csv', boundary_date=None):
+def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_predictions.csv', boundary_date=None,
+                         key='deaths'):
     out_dates = utils.all_output_dates()
     out_fips, all_row_starts = utils.all_output_fips('sample_submission.csv')
     num_dates, num_fips = len(out_dates), len(out_fips)
@@ -155,7 +183,7 @@ def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_pr
     # Go through each county one by one, perform our fit, and record predictions
     for fi, fips in enumerate(out_fips):
         print('Processing FIPS', fips)
-        preds = make_erf_predictions(df, fips, last_date_pred=last_date_pred, boundary_date=boundary_date)
+        preds = make_erf_predictions(df, fips, last_date_pred=last_date_pred, boundary_date=boundary_date, key=key)
         # Indices are disjointed because we're recording a single FIPS on many different dates
         out[np.arange(fi, out.shape[0], num_fips)] = preds
     # Add in the header line
@@ -171,5 +199,6 @@ def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_pr
 if __name__ == '__main__':
     start = time.time()
     df = utils.get_processed_df()
-    predict_all_counties(df, boundary_date='2020-04-09', out_file='erf_model_predictions_0409.csv')
+    predict_all_counties(df, boundary_date='2020-03-29', out_file='erf_model_case_predictions_dvar_0329.csv',
+                         key='cases')
     print('Runtime: %.1f seconds' % (time.time() - start))
