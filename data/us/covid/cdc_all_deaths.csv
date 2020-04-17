@@ -1,92 +1,92 @@
 Group,Indicator,All COVID-19 Deaths (U07.1),Deaths from All Causes,Percent of Expected Deaths,All Pneumonia Deaths (J12.0-J18.9),Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1),All Influenza Deaths (J09-J11)
-By week,Total Deaths,11356,569403,0.9,43358,5171,5055
-By week,2/1/2020,0,56569,0.95,3637,0,454
-By week,2/8/2020,0,57094,0.96,3632,0,488
-By week,2/15/2020,0,56114,0.95,3638,0,499
-By week,2/22/2020,0,55646,0.96,3488,0,516
-By week,2/29/2020,5,54968,0.96,3510,3,584
-By week,3/7/2020,19,54333,0.94,3601,11,564
-By week,3/14/2020,44,52381,0.92,3564,22,555
-By week,3/21/2020,449,51785,0.91,3966,206,475
-By week,3/28/2020,2285,52569,0.94,5053,1056,357
-By week,4/4/2020,5012,49770,0.89,6110,2429,346
-By week,4/11/2020,3542,28174,0.5,3159,1444,217
-By age,All ages,11356,569403,0.9,43358,5171,5055
-By age,Under 1 year,0,3019,0.65,24,0,11
-By age,1–4 years,2,596,0.76,31,2,26
-By age,5–14 years,1,881,0.72,29,0,36
-By age,15–24 years,10,5087,0.81,101,4,37
-By age,25–34 years,103,10749,0.87,306,38,116
-By age,35–44 years,247,15447,0.89,660,82,179
-By age,45–54 years,633,29767,0.82,1717,255,427
-By age,55–64 years,1509,72128,0.87,5164,645,927
-By age,65–74 years,2512,111920,0.93,8897,1064,1115
-By age,75–84 years,3088,140977,0.93,12048,1491,1123
-By age,85 years and over,3251,178832,0.89,14381,1590,1058
-By state,Total US,11356,569403,0.9,43358,5171,5055
-By state,Alabama,40,10138,0.87,595,11,79
-By state,Alaska,3,706,0.76,36,2,3
+By week,Total Deaths,13130,582565,0.92,45019,5902,5228
+By week,2/1/2020,0,56589,0.95,3639,0,454
+By week,2/8/2020,0,57114,0.96,3633,0,488
+By week,2/15/2020,0,56143,0.95,3638,0,499
+By week,2/22/2020,0,55690,0.96,3491,0,516
+By week,2/29/2020,5,55036,0.96,3516,3,586
+By week,3/7/2020,20,54476,0.94,3614,11,566
+By week,3/14/2020,44,52704,0.92,3586,22,558
+By week,3/21/2020,454,52271,0.92,4005,209,479
+By week,3/28/2020,2339,53687,0.96,5185,1090,368
+By week,4/4/2020,5457,52992,0.95,6549,2620,371
+By week,4/11/2020,4811,35863,0.65,4163,1947,343
+By age,All ages,13130,582565,0.92,45019,5902,5228
+By age,Under 1 year,0,3084,0.67,26,0,11
+By age,1–4 years,2,608,0.77,31,2,27
+By age,5–14 years,1,902,0.74,29,0,36
+By age,15–24 years,13,5204,0.83,104,5,37
+By age,25–34 years,113,11017,0.89,317,44,117
+By age,35–44 years,289,15826,0.92,692,99,188
+By age,45–54 years,751,30494,0.84,1804,299,441
+By age,55–64 years,1773,73874,0.9,5404,746,963
+By age,65–74 years,2919,114652,0.95,9293,1232,1152
+By age,75–84 years,3576,144138,0.95,12476,1698,1165
+By age,85 years and over,3693,182766,0.91,14843,1777,1091
+By state,Total US,13130,582565,0.92,45019,5902,5228
+By state,Alabama,47,10346,0.89,610,15,79
+By state,Alaska,3,747,0.81,36,2,3
 By state,Arizona,62,13201,0.98,870,37,99
-By state,Arkansas,12,6616,0.92,436,2,64
-By state,California,354,57477,0.95,4655,199,523
-By state,Colorado,188,8725,1,641,117,83
+By state,Arkansas,12,6616,0.93,436,2,64
+By state,California,452,58637,0.96,4788,246,527
+By state,Colorado,211,8873,1.01,670,131,85
 By state,Connecticut,0,0,0,0,0,0
 By state,Delaware,8,1517,0.74,74,4,10
-By state,District of Columbia,13,1168,0.88,110,13,6
-By state,Florida,347,45486,0.97,3139,207,263
-By state,Georgia,121,15766,0.85,911,67,87
-By state,Hawaii,2,2422,0.94,167,0,16
-By state,Idaho,22,3057,0.97,169,6,24
+By state,District of Columbia,21,1196,0.9,118,21,6
+By state,Florida,405,46261,0.99,3232,239,266
+By state,Georgia,147,16138,0.87,948,81,88
+By state,Hawaii,5,2454,0.95,171,2,17
+By state,Idaho,25,3089,0.98,172,7,24
 By state,Illinois,246,23381,0.99,1794,146,161
-By state,Indiana,109,13275,0.9,1066,59,117
-By state,Iowa,22,6242,0.93,444,4,77
+By state,Indiana,109,13965,0.94,1126,59,117
+By state,Iowa,26,6327,0.94,448,5,77
 By state,Kansas,26,5512,0.92,377,12,82
-By state,Kentucky,25,8835,0.8,767,17,80
-By state,Louisiana,278,8562,0.85,506,119,59
-By state,Maine,14,3218,0.99,275,7,29
-By state,Maryland,173,10901,0.97,866,84,95
-By state,Massachusetts,330,13278,0.99,1215,149,143
-By state,Michigan,495,20611,0.95,1549,236,199
-By state,Minnesota,48,9445,0.97,653,16,111
-By state,Mississippi,76,6598,0.95,565,31,52
-By state,Missouri,51,12500,0.86,769,23,160
+By state,Kentucky,26,8985,0.84,778,18,80
+By state,Louisiana,278,8743,0.87,516,119,59
+By state,Maine,14,3239,0.99,277,7,29
+By state,Maryland,217,11162,1,908,103,100
+By state,Massachusetts,449,13615,1.01,1287,196,143
+By state,Michigan,529,21397,0.99,1628,254,205
+By state,Minnesota,55,9551,0.98,670,21,111
+By state,Mississippi,76,6663,0.96,567,31,52
+By state,Missouri,59,12717,0.88,782,25,161
 By state,Montana,3,2142,0.93,124,1,31
-By state,Nebraska,7,3343,0.86,258,2,25
-By state,Nevada,55,5379,0.94,409,44,34
-By state,New Hampshire,30,2733,1,186,11,29
-By state,New Jersey,593,16044,0.96,1306,303,93
-By state,New Mexico,6,3391,0.82,230,3,23
-By state,New York,1919,24393,1.09,3099,1071,176
-By state,New York City,4483,19569,1.63,3118,1641,466
+By state,Nebraska,7,3343,0.88,258,2,25
+By state,Nevada,58,5462,0.96,418,47,34
+By state,New Hampshire,30,2743,1.01,187,11,29
+By state,New Jersey,626,17383,1.04,1431,327,95
+By state,New Mexico,8,3580,0.87,240,5,23
+By state,New York,1976,24606,1.1,3147,1103,177
+By state,New York City,5530,21077,1.75,3588,2017,589
 By state,North Carolina,0,6827,0.32,422,0,71
-By state,North Dakota,3,1350,0.87,113,0,17
-By state,Ohio,37,21178,0.76,1117,17,199
-By state,Oklahoma,30,7286,0.81,635,12,86
-By state,Oregon,31,6904,0.86,369,17,52
-By state,Pennsylvania,358,22700,0.74,1481,156,171
-By state,Rhode Island,5,1822,0.78,90,3,21
-By state,South Carolina,50,10589,0.98,619,23,87
+By state,North Dakota,3,1382,0.89,118,0,18
+By state,Ohio,38,22446,0.82,1186,18,208
+By state,Oklahoma,38,7437,0.83,654,15,86
+By state,Oregon,33,7043,0.87,375,18,53
+By state,Pennsylvania,434,22980,0.75,1535,189,171
+By state,Rhode Island,7,1829,0.79,92,4,21
+By state,South Carolina,76,10790,0.99,641,32,88
 By state,South Dakota,5,1625,0.89,129,2,18
-By state,Tennessee,47,15246,0.93,1115,22,115
-By state,Texas,84,40052,0.89,2835,31,289
-By state,Utah,11,3914,0.95,234,5,36
+By state,Tennessee,75,15583,0.95,1152,35,117
+By state,Texas,126,40657,0.91,2908,48,291
+By state,Utah,13,4016,0.97,244,5,37
 By state,Vermont,22,1307,1.02,87,8,14
-By state,Virginia,74,14574,0.96,735,25,93
-By state,Washington,356,12195,0.95,1001,191,94
-By state,West Virginia,0,3838,0.76,267,0,47
-By state,Wisconsin,82,11426,0.98,657,15,139
-By state,Wyoming,0,939,0.95,73,0,7
-By state,Puerto Rico,34,4082,0.64,584,18,26
-By sex,Total deaths,11356,569403,0.9,43358,5171,5055
-By sex,Male,6739,293045,0.9,22945,3028,2556
-By sex,Female,4617,276340,0.89,20413,2143,2499
-By sex,Unknown,0,18,0,0,0,0
-By place of death,Total,11356,569403,0.9,43358,5171,5055
-By place of death,"Healthcare setting, inpatient",8237,162019,0,29404,4196,3371
-By place of death,"Healthcare setting, outpatient or emergency room",677,34098,0,1630,254,164
-By place of death,"Healthcare setting, dead on arrival",15,1512,0,33,4,10
-By place of death,Decedent's home,891,184013,0,3485,101,775
-By place of death,Hospice facility,127,42819,0,2485,70,268
-By place of death,Nursing home/long term care facility,1317,108770,0,5570,513,401
-By place of death,Other,91,36079,0,741,32,66
-By place of death,Place of death unknown,1,93,0,10,1,0
+By state,Virginia,74,14751,0.97,746,25,93
+By state,Washington,357,12344,0.97,1007,192,94
+By state,West Virginia,1,4211,0.83,298,0,52
+By state,Wisconsin,82,11716,1,674,15,141
+By state,Wyoming,0,953,0.96,75,0,7
+By state,Puerto Rico,34,4155,0.65,591,18,26
+By sex,Total deaths,13130,582565,0.92,45019,5902,5228
+By sex,Male,7823,300021,0.93,23876,3469,2659
+By sex,Female,5307,282524,0.91,21143,2433,2569
+By sex,Unknown,0,20,0,0,0,0
+By place of death,Total,13130,582565,0.92,45019,5902,5228
+By place of death,"Healthcare setting, inpatient",9385,166008,0,30549,4769,3411
+By place of death,"Healthcare setting, outpatient or emergency room",788,34970,0,1735,301,164
+By place of death,"Healthcare setting, dead on arrival",19,1552,0,38,7,10
+By place of death,Decedent's home,1140,188257,0,3583,118,900
+By place of death,Hospice facility,140,43445,0,2549,78,269
+By place of death,Nursing home/long term care facility,1550,111415,0,5800,595,407
+By place of death,Other,107,36824,0,755,33,67
+By place of death,Place of death unknown,1,94,0,10,1,0
