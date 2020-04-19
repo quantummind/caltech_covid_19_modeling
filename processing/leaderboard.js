@@ -1,5 +1,6 @@
 leaderboard = `
 "sovclub",0.191903
+"erf_model_predictions_0416",0.199745
 "3 Commas",0.220602
 "3braincells",0.220602
 "ASCIT_DONUT test3",0.220602
