@@ -1,0 +1,69 @@
+import pandas as pd 
+import numpy as np
+import sys
+import traceback
+from tqdm.auto import tqdm
+
+csv_to_score = '../sample_submission.csv'
+
+def get_date(x):
+    return '-'.join(x.split('-')[:3])
+def get_fips(x):
+    return x.split('-')[-1]
+def pinball_loss(y_true, y_pred, quantile = 0.5):
+    delta = y_true - y_pred
+    loss_above = np.sum(delta[delta > 0])*(quantile)
+    loss_below = np.sum(-1*delta[delta < 0])*(1-quantile)
+    return (loss_above + loss_below) / len(y_true)
+def evaluate(test_df, user_df):
+    join_df = test_df.join(user_df, how = 'inner')
+    if(len(join_df) != len(test_df)):
+        sys.stderr.write("Submission not right length. \n")
+        raise Exception("Submission not right length")
+    if(user_df.isna().sum().sum() > 0 ):
+        sys.stderr.write("Submission contains NaN. \n")
+        raise Exception("Submission Contains NaN.")
+    if(join_df.index.equals(test_df.index) == False):
+        sys.stderr.write("Incorrect ID format in Submission. \n")
+        raise Exception("Incorrect ID format.")
+    total_loss = 0
+    for column in ['10','20','30','40','50', '60', '70', '80', '90']:
+        quantile = int(column) / 100.0
+        total_loss += pinball_loss(join_df['deaths'].values, join_df[column].values, quantile) / 9.0
+    return total_loss
+
+start_date = '2020-04-17' # First date to include in scoring
+daily_df = pd.read_csv('../data/us/covid/nyt_us_counties_daily.csv') # Daily data processed from NYT.
+end_date = daily_df['date'].max() # End with the most recent date.
+
+daily_df = daily_df[(daily_df['date'] <= end_date)  & (daily_df['date'] >= start_date)] # Select correct date range.
+daily_df['id'] = daily_df['date'] +'-'+ daily_df['fips'].astype(str) # Create id column
+
+sample_submission = pd.read_csv('../sample_submission.csv') # Load the sample submission with all 0's
+sample_submission['date'] = sample_submission['id'].apply(get_date)
+sample_submission['fips'] = sample_submission['id'].apply(get_fips).astype('int')
+sample_submission = sample_submission[(sample_submission['date'] <= end_date)  & (sample_submission['date'] >= start_date)]
+
+# Disabled FIPS is a set of FIPS to avoid scoring. Covid_active_fips is where there has been reports of covid, 
+# and inactive_fips are fips codes present in sample submission but with no cases reported by the New York Times.
+# Active FIPS should be scored against deaths data from NYT if such data is available, 
+# but Inactive FIPS should be scored with a target of 0.
+disabled_fips = {'36061'}
+covid_active_fips = set(daily_df.fips.unique()).intersection(set(sample_submission.fips.unique())) - disabled_fips
+inactive_fips = set(sample_submission.fips.unique()) - set(daily_df.fips.unique()) - disabled_fips
+
+# Create a DataFrame of all 0's for inactive fips by getting those from sample submission.
+inactive_df = sample_submission.set_index('fips')[['id','50']].loc[inactive_fips]
+inactive_df = inactive_df.set_index('id').rename({'50':'deaths'}, axis = 1)
+assert(inactive_df.sum().sum() == 0) 
+# Create a DataFrame of active fips from the New York Times data
+active_df = daily_df.set_index('fips')[['id', 'deaths']].loc[covid_active_fips].set_index('id')
+
+# Join the data frames
+example = pd.concat([inactive_df, active_df]).sort_index()
+
+
+# Read some CSV for score
+df = pd.read_csv(csv_to_score).set_index('id').sort_index()
+score = evaluate(example[['deaths']], df)
+print('Got score of {:.6f}'.format(score))
