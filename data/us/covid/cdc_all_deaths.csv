@@ -1,93 +1,93 @@
 Data as of,Group,State,Indicator,Start week,End week,All COVID-19 Deaths (U07.1),Deaths from All Causes,Percent of Expected Deaths,All Pneumonia Deaths (J12.0-J18.9),Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1),All Influenza Deaths (J09-J11)
-4/17/2020,By week,United States,Total Deaths,2/1/2020,4/18/2020,15251,603184,0.88,47445,6878,5313
-4/17/2020,By week,United States,Week-ending,2/1/2020,2/1/2020,0,56622,0.96,3648,0,454
-4/17/2020,By week,United States,Week-ending,2/8/2020,2/8/2020,0,57184,0.96,3637,0,488
-4/17/2020,By week,United States,Week-ending,2/15/2020,2/15/2020,0,56320,0.96,3652,0,507
-4/17/2020,By week,United States,Week-ending,2/22/2020,2/22/2020,0,55838,0.96,3500,0,520
-4/17/2020,By week,United States,Week-ending,2/29/2020,2/29/2020,5,55128,0.96,3522,3,590
-4/17/2020,By week,United States,Week-ending,3/7/2020,3/7/2020,20,54580,0.94,3619,11,567
-4/17/2020,By week,United States,Week-ending,3/14/2020,3/14/2020,44,52887,0.93,3595,22,564
-4/17/2020,By week,United States,Week-ending,3/21/2020,3/21/2020,461,52573,0.93,4025,211,482
-4/17/2020,By week,United States,Week-ending,3/28/2020,3/28/2020,2412,54502,0.97,5280,1121,372
-4/17/2020,By week,United States,Week-ending,4/4/2020,4/4/2020,6258,56195,1.01,7259,3038,379
-4/17/2020,By week,United States,Week-ending,4/11/2020,4/11/2020,5483,42225,0.76,4960,2270,350
-4/17/2020,By week,United States,Week-ending,4/18/2020,4/18/2020,568,9130,0.17,748,202,40
-4/17/2020,By age,United States,All ages,2/1/2020,4/18/2020,15251,603184,0.88,47445,6878,5313
-4/17/2020,By age,United States,Under 1 year,2/1/2020,4/18/2020,0,3170,0.63,28,0,11
-4/17/2020,By age,United States,1–4 years,2/1/2020,4/18/2020,2,627,0.72,31,2,27
-4/17/2020,By age,United States,5–14 years,2/1/2020,4/18/2020,1,920,0.7,30,0,37
-4/17/2020,By age,United States,15–24 years,2/1/2020,4/18/2020,14,5385,0.79,107,5,37
-4/17/2020,By age,United States,25–34 years,2/1/2020,4/18/2020,126,11371,0.85,334,50,119
-4/17/2020,By age,United States,35–44 years,2/1/2020,4/18/2020,319,16373,0.87,725,110,190
-4/17/2020,By age,United States,45–54 years,2/1/2020,4/18/2020,853,31572,0.8,1905,342,454
-4/17/2020,By age,United States,55–64 years,2/1/2020,4/18/2020,2032,76342,0.85,5698,860,984
-4/17/2020,By age,United States,65–74 years,2/1/2020,4/18/2020,3364,118659,0.91,9769,1410,1167
-4/17/2020,By age,United States,75–84 years,2/1/2020,4/18/2020,4212,149162,0.91,13152,2008,1178
-4/17/2020,By age,United States,85 years and over,2/1/2020,4/18/2020,4328,189603,0.87,15666,2091,1109
-4/17/2020,By state,United States,Total US,2/1/2020,4/18/2020,15251,603184,0.88,47445,6878,5313
-4/17/2020,By state,Alabama,Alabama,2/1/2020,4/18/2020,57,10632,0.84,636,19,81
-4/17/2020,By state,Alaska,Alaska,2/1/2020,4/18/2020,3,750,0.75,36,2,3
+4/17/2020,By week,United States,Total Deaths,2/1/2020,4/18/2020,17229,615428,0.9,49013,7676,5411
+4/17/2020,By week,United States,Week-ending,2/1/2020,2/1/2020,0,56645,0.96,3648,0,454
+4/17/2020,By week,United States,Week-ending,2/8/2020,2/8/2020,0,57225,0.96,3640,0,488
+4/17/2020,By week,United States,Week-ending,2/15/2020,2/15/2020,0,56416,0.96,3659,0,509
+4/17/2020,By week,United States,Week-ending,2/22/2020,2/22/2020,0,56120,0.97,3518,0,525
+4/17/2020,By week,United States,Week-ending,2/29/2020,2/29/2020,5,55678,0.97,3544,3,598
+4/17/2020,By week,United States,Week-ending,3/7/2020,3/7/2020,20,55185,0.95,3652,11,575
+4/17/2020,By week,United States,Week-ending,3/14/2020,3/14/2020,44,53142,0.93,3607,22,566
+4/17/2020,By week,United States,Week-ending,3/21/2020,3/21/2020,464,52813,0.93,4041,212,482
+4/17/2020,By week,United States,Week-ending,3/28/2020,3/28/2020,2441,55027,0.98,5339,1133,381
+4/17/2020,By week,United States,Week-ending,4/4/2020,4/4/2020,6500,57631,1.03,7508,3160,389
+4/17/2020,By week,United States,Week-ending,4/11/2020,4/11/2020,6524,46227,0.84,5650,2701,364
+4/17/2020,By week,United States,Week-ending,4/18/2020,4/18/2020,1231,13319,0.25,1207,434,80
+4/17/2020,By age,United States,All ages,2/1/2020,4/18/2020,17229,615428,0.9,49013,7676,5411
+4/17/2020,By age,United States,Under 1 year,2/1/2020,4/18/2020,0,3224,0.9,28,0,11
+4/17/2020,By age,United States,1–4 years,2/1/2020,4/18/2020,2,636,0.9,31,2,28
+4/17/2020,By age,United States,5–14 years,2/1/2020,4/18/2020,1,939,0.9,33,0,38
+4/17/2020,By age,United States,15–24 years,2/1/2020,4/18/2020,17,5474,0.9,110,6,38
+4/17/2020,By age,United States,25–34 years,2/1/2020,4/18/2020,139,11595,0.9,346,57,121
+4/17/2020,By age,United States,35–44 years,2/1/2020,4/18/2020,351,16718,0.9,752,124,192
+4/17/2020,By age,United States,45–54 years,2/1/2020,4/18/2020,943,32207,0.9,1974,375,467
+4/17/2020,By age,United States,55–64 years,2/1/2020,4/18/2020,2258,77835,0.9,5877,945,1001
+4/17/2020,By age,United States,65–74 years,2/1/2020,4/18/2020,3829,121198,0.9,10137,1613,1191
+4/17/2020,By age,United States,75–84 years,2/1/2020,4/18/2020,4780,152251,0.9,13612,2232,1199
+4/17/2020,By age,United States,85 years and over,2/1/2020,4/18/2020,4909,193351,0.9,16113,2322,1125
+4/17/2020,By state,United States,Total US,2/1/2020,4/18/2020,17229,615428,0.9,49013,7676,5411
+4/17/2020,By state,Alabama,Alabama,2/1/2020,4/18/2020,57,10777,0.85,650,19,81
+4/17/2020,By state,Alaska,Alaska,2/1/2020,4/18/2020,3,766,0.76,37,2,3
 4/17/2020,By state,Arizona,Arizona,2/1/2020,4/18/2020,105,14169,0.97,965,62,102
 4/17/2020,By state,Arkansas,Arkansas,2/1/2020,4/18/2020,15,6955,0.9,468,3,64
-4/17/2020,By state,California,California,2/1/2020,4/18/2020,505,60193,0.91,4944,275,533
-4/17/2020,By state,Colorado,Colorado,2/1/2020,4/18/2020,245,9139,0.96,719,159,86
+4/17/2020,By state,California,California,2/1/2020,4/18/2020,575,61390,0.93,5068,311,534
+4/17/2020,By state,Colorado,Colorado,2/1/2020,4/18/2020,270,9338,0.98,743,174,88
 4/17/2020,By state,Connecticut,Connecticut,2/1/2020,4/18/2020,0,0,0,0,0,0
 4/17/2020,By state,Delaware,Delaware,2/1/2020,4/18/2020,9,1665,0.74,82,4,11
-4/17/2020,By state,District of Columbia,District of Columbia,2/1/2020,4/18/2020,23,1243,0.86,121,23,6
-4/17/2020,By state,Florida,Florida,2/1/2020,4/18/2020,408,47135,0.93,3272,241,267
-4/17/2020,By state,Georgia,Georgia,2/1/2020,4/18/2020,211,16700,0.83,1020,111,89
-4/17/2020,By state,Hawaii,Hawaii,2/1/2020,4/18/2020,5,2459,0.88,171,2,17
-4/17/2020,By state,Idaho,Idaho,2/1/2020,4/18/2020,29,3177,0.93,176,8,24
+4/17/2020,By state,District of Columbia,District of Columbia,2/1/2020,4/18/2020,24,1265,0.87,123,24,6
+4/17/2020,By state,Florida,Florida,2/1/2020,4/18/2020,459,48156,0.95,3371,261,270
+4/17/2020,By state,Georgia,Georgia,2/1/2020,4/18/2020,251,17077,0.85,1059,123,89
+4/17/2020,By state,Hawaii,Hawaii,2/1/2020,4/18/2020,7,2601,0.94,180,3,18
+4/17/2020,By state,Idaho,Idaho,2/1/2020,4/18/2020,33,3238,0.94,180,9,24
 4/17/2020,By state,Illinois,Illinois,2/1/2020,4/18/2020,250,24604,0.96,1886,150,163
-4/17/2020,By state,Indiana,Indiana,2/1/2020,4/18/2020,152,14230,0.89,1179,88,117
-4/17/2020,By state,Iowa,Iowa,2/1/2020,4/18/2020,30,6502,0.89,456,5,77
+4/17/2020,By state,Indiana,Indiana,2/1/2020,4/18/2020,153,14574,0.91,1203,88,117
+4/17/2020,By state,Iowa,Iowa,2/1/2020,4/18/2020,36,6648,0.91,468,7,78
 4/17/2020,By state,Kansas,Kansas,2/1/2020,4/18/2020,33,5582,0.86,384,16,83
-4/17/2020,By state,Kentucky,Kentucky,2/1/2020,4/18/2020,52,9305,0.8,815,35,83
-4/17/2020,By state,Louisiana,Louisiana,2/1/2020,4/18/2020,360,9216,0.85,562,138,60
+4/17/2020,By state,Kentucky,Kentucky,2/1/2020,4/18/2020,52,9434,0.81,828,35,83
+4/17/2020,By state,Louisiana,Louisiana,2/1/2020,4/18/2020,360,9224,0.85,562,138,60
 4/17/2020,By state,Maine,Maine,2/1/2020,4/18/2020,18,3373,0.95,289,9,30
-4/17/2020,By state,Maryland,Maryland,2/1/2020,4/18/2020,266,11620,0.96,957,121,101
-4/17/2020,By state,Massachusetts,Massachusetts,2/1/2020,4/18/2020,569,14188,0.97,1395,252,146
-4/17/2020,By state,Michigan,Michigan,2/1/2020,4/18/2020,532,21975,0.94,1662,257,205
-4/17/2020,By state,Minnesota,Minnesota,2/1/2020,4/18/2020,63,9931,0.94,705,26,111
-4/17/2020,By state,Mississippi,Mississippi,2/1/2020,4/18/2020,85,6909,0.92,580,34,51
-4/17/2020,By state,Missouri,Missouri,2/1/2020,4/18/2020,79,13117,0.84,811,36,162
-4/17/2020,By state,Montana,Montana,2/1/2020,4/18/2020,6,2248,0.86,132,1,32
+4/17/2020,By state,Maryland,Maryland,2/1/2020,4/18/2020,260,11752,0.97,971,120,101
+4/17/2020,By state,Massachusetts,Massachusetts,2/1/2020,4/18/2020,660,14313,0.98,1430,282,147
+4/17/2020,By state,Michigan,Michigan,2/1/2020,4/18/2020,535,22293,0.95,1686,260,206
+4/17/2020,By state,Minnesota,Minnesota,2/1/2020,4/18/2020,67,10120,0.96,717,28,111
+4/17/2020,By state,Mississippi,Mississippi,2/1/2020,4/18/2020,102,7110,0.94,601,44,51
+4/17/2020,By state,Missouri,Missouri,2/1/2020,4/18/2020,79,13297,0.85,820,36,163
+4/17/2020,By state,Montana,Montana,2/1/2020,4/18/2020,6,2248,0.9,132,1,32
 4/17/2020,By state,Nebraska,Nebraska,2/1/2020,4/18/2020,7,3589,0.87,274,2,25
-4/17/2020,By state,Nevada,Nevada,2/1/2020,4/18/2020,68,5615,0.9,436,56,35
-4/17/2020,By state,New Hampshire,New Hampshire,2/1/2020,4/18/2020,31,2862,0.96,192,11,29
-4/17/2020,By state,New Jersey,New Jersey,2/1/2020,4/18/2020,1378,19032,1.05,1980,710,96
-4/17/2020,By state,New Mexico,New Mexico,2/1/2020,4/18/2020,10,3621,0.81,243,7,23
-4/17/2020,By state,New York,New York,2/1/2020,4/18/2020,2278,26189,1.08,3455,1267,180
-4/17/2020,By state,New York City,New York City,2/1/2020,4/18/2020,5870,22286,1.71,3741,2106,619
-4/17/2020,By state,North Carolina,North Carolina,2/1/2020,4/18/2020,0,7161,0.31,449,0,81
+4/17/2020,By state,Nevada,Nevada,2/1/2020,4/18/2020,76,5663,0.91,447,62,35
+4/17/2020,By state,New Hampshire,New Hampshire,2/1/2020,4/18/2020,31,2865,0.97,192,11,29
+4/17/2020,By state,New Jersey,New Jersey,2/1/2020,4/18/2020,1378,19038,1.05,1982,710,96
+4/17/2020,By state,New Mexico,New Mexico,2/1/2020,4/18/2020,16,3767,0.84,254,11,24
+4/17/2020,By state,New York,New York,2/1/2020,4/18/2020,2625,26769,1.1,3657,1423,183
+4/17/2020,By state,New York City,New York City,2/1/2020,4/18/2020,6862,24090,1.85,4191,2477,671
+4/17/2020,By state,North Carolina,North Carolina,2/1/2020,4/18/2020,0,8762,0.38,533,0,99
 4/17/2020,By state,North Dakota,North Dakota,2/1/2020,4/18/2020,3,1385,0.82,118,0,18
-4/17/2020,By state,Ohio,Ohio,2/1/2020,4/18/2020,38,22561,0.76,1190,18,208
-4/17/2020,By state,Oklahoma,Oklahoma,2/1/2020,4/18/2020,38,7720,0.8,674,15,86
-4/17/2020,By state,Oregon,Oregon,2/1/2020,4/18/2020,35,7188,0.82,380,19,53
-4/17/2020,By state,Pennsylvania,Pennsylvania,2/1/2020,4/18/2020,450,23146,0.7,1552,197,171
-4/17/2020,By state,Rhode Island,Rhode Island,2/1/2020,4/18/2020,9,1867,0.74,93,4,21
+4/17/2020,By state,Ohio,Ohio,2/1/2020,4/18/2020,40,23709,0.79,1282,18,215
+4/17/2020,By state,Oklahoma,Oklahoma,2/1/2020,4/18/2020,60,7848,0.81,693,22,88
+4/17/2020,By state,Oregon,Oregon,2/1/2020,4/18/2020,41,7384,0.84,390,19,54
+4/17/2020,By state,Pennsylvania,Pennsylvania,2/1/2020,4/18/2020,672,23604,0.71,1670,290,171
+4/17/2020,By state,Rhode Island,Rhode Island,2/1/2020,4/18/2020,9,1894,0.75,94,4,21
 4/17/2020,By state,South Carolina,South Carolina,2/1/2020,4/18/2020,76,11216,0.95,664,32,88
 4/17/2020,By state,South Dakota,South Dakota,2/1/2020,4/18/2020,6,1685,0.85,135,2,20
-4/17/2020,By state,Tennessee,Tennessee,2/1/2020,4/18/2020,92,16058,0.89,1195,43,117
+4/17/2020,By state,Tennessee,Tennessee,2/1/2020,4/18/2020,92,16272,0.91,1209,43,117
 4/17/2020,By state,Texas,Texas,2/1/2020,4/18/2020,176,42917,0.88,3085,66,297
-4/17/2020,By state,Utah,Utah,2/1/2020,4/18/2020,13,4032,0.89,245,5,37
+4/17/2020,By state,Utah,Utah,2/1/2020,4/18/2020,13,4172,0.92,249,5,37
 4/17/2020,By state,Vermont,Vermont,2/1/2020,4/18/2020,28,1385,0.99,91,8,15
-4/17/2020,By state,Virginia,Virginia,2/1/2020,4/18/2020,75,14871,0.9,750,25,93
-4/17/2020,By state,Washington,Washington,2/1/2020,4/18/2020,357,12426,0.9,1010,192,94
-4/17/2020,By state,West Virginia,West Virginia,2/1/2020,4/18/2020,2,4315,0.78,306,0,55
-4/17/2020,By state,Wisconsin,Wisconsin,2/1/2020,4/18/2020,101,12072,0.95,686,16,141
-4/17/2020,By state,Wyoming,Wyoming,2/1/2020,4/18/2020,0,968,0.9,78,0,7
-4/17/2020,By state,Puerto Rico,Puerto Rico,2/1/2020,4/18/2020,44,4312,0.62,618,23,27
-4/17/2020,By sex,United States,Total deaths,2/1/2020,4/18/2020,15251,603184,0.88,47445,6878,5313
-4/17/2020,By sex,United States,Male,2/1/2020,4/18/2020,9031,310671,0.88,25217,4041,2702
-4/17/2020,By sex,United States,Female,2/1/2020,4/18/2020,6220,292496,0.87,22228,2837,2611
-4/17/2020,By sex,United States,Unknown,2/1/2020,4/18/2020,0,17,0,0,0,0
-4/17/2020,By place of death,United States,Total,2/1/2020,4/18/2020,15251,603184,0.88,47445,6878,5313
-4/17/2020,By place of death,United States,"Healthcare setting, inpatient",2/1/2020,4/18/2020,10834,171521,0,32190,5541,3444
-4/17/2020,By place of death,United States,"Healthcare setting, outpatient or emergency room",2/1/2020,4/18/2020,882,36104,0,1824,332,168
-4/17/2020,By place of death,United States,"Healthcare setting, dead on arrival",2/1/2020,4/18/2020,21,1589,0,40,8,10
-4/17/2020,By place of death,United States,Decedent's home,2/1/2020,4/18/2020,1288,195388,0,3746,134,938
-4/17/2020,By place of death,United States,Hospice facility,2/1/2020,4/18/2020,162,44474,0,2633,89,272
-4/17/2020,By place of death,United States,Nursing home/long term care facility,2/1/2020,4/18/2020,1931,115827,0,6214,735,413
-4/17/2020,By place of death,United States,Other,2/1/2020,4/18/2020,132,38186,0,788,38,68
-4/17/2020,By place of death,United States,Place of death unknown,2/1/2020,4/18/2020,1,95,0,10,1,0
+4/17/2020,By state,Virginia,Virginia,2/1/2020,4/18/2020,75,15191,0.92,767,25,95
+4/17/2020,By state,Washington,Washington,2/1/2020,4/18/2020,420,12706,0.92,1054,221,95
+4/17/2020,By state,West Virginia,West Virginia,2/1/2020,4/18/2020,3,4361,0.79,306,0,55
+4/17/2020,By state,Wisconsin,Wisconsin,2/1/2020,4/18/2020,101,12196,0.96,694,16,141
+4/17/2020,By state,Wyoming,Wyoming,2/1/2020,4/18/2020,0,991,0.92,79,0,7
+4/17/2020,By state,Puerto Rico,Puerto Rico,2/1/2020,4/18/2020,44,4382,0.63,622,23,27
+4/17/2020,By sex,United States,Total deaths,2/1/2020,4/18/2020,17229,615428,0.9,49013,7676,5411
+4/17/2020,By sex,United States,Male,2/1/2020,4/18/2020,10129,317036,0.9,26049,4491,2749
+4/17/2020,By sex,United States,Female,2/1/2020,4/18/2020,7100,298371,0.9,22964,3185,2662
+4/17/2020,By sex,United States,Unknown,2/1/2020,4/18/2020,0,21,0,0,0,0
+4/17/2020,By place of death,United States,Total,2/1/2020,4/18/2020,17229,615428,0.9,49013,7676,5411
+4/17/2020,By place of death,United States,"Healthcare setting, inpatient",2/1/2020,4/18/2020,12070,175180,0.9,33258,6132,3470
+4/17/2020,By place of death,United States,"Healthcare setting, outpatient or emergency room",2/1/2020,4/18/2020,984,36833,0.9,1904,368,171
+4/17/2020,By place of death,United States,"Healthcare setting, dead on arrival",2/1/2020,4/18/2020,23,1619,0.9,41,9,10
+4/17/2020,By place of death,United States,Decedent's home,2/1/2020,4/18/2020,1458,199247,0.9,3842,155,999
+4/17/2020,By place of death,United States,Hospice facility,2/1/2020,4/18/2020,180,45243,0.9,2691,98,277
+4/17/2020,By place of death,United States,Nursing home/long term care facility,2/1/2020,4/18/2020,2363,118367,0.9,6466,871,414
+4/17/2020,By place of death,United States,Other,2/1/2020,4/18/2020,149,38837,0.9,800,42,70
+4/17/2020,By place of death,United States,Place of death unknown,2/1/2020,4/18/2020,2,102,0.9,11,1,0
