@@ -1,5 +1,5 @@
 leaderboard = `
-"erf_model_predictions_0416",0.241274
+"[Benchmark]",0.241274
 "bitsplease",0.244175
 "rona szn",0.256459
 "sovclub",0.266446
