@@ -8,7 +8,8 @@ datadir = f"{homedir}/data/international/italy/covid/"
 
 # translate regional file
 dfr = pd.read_csv(datadir + "dpc-covid19-ita-regioni.csv")
-dfr.columns = ["Date","Country", "Regional Code", "Region", "Latitude","Longitude","HospitalizedWithSymptoms","IntensiveCare","TotalHospitalized","HomeIsolation","TotalCurrentlyPositive","ChangeTotalPositive","NewCurrentlyPositive","DischargedHealed","Deaths","TotalCases","Tested","Note_IT","Note_ENG"]
+print(dfr.columns)
+dfr.columns = ["Date","Country", "Regional Code", "Region", "Latitude","Longitude","HospitalizedWithSymptoms","IntensiveCare","TotalHospitalized","HomeIsolation","TotalCurrentlyPositive","ChangeTotalPositive","NewCurrentlyPositive","DischargedHealed","Deaths","TotalCases","TestsPerformed","NumberOfPeopleTested","Note_IT","Note_ENG"]
 dfr.to_csv(datadir + 'dpc-covid19-ita-regioni.csv', index=False)
 
 # translate provincial file
