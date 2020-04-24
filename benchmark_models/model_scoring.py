@@ -1,56 +1,54 @@
 import numpy as np
 
-np.set_printoptions(precision=4)
+np.set_printoptions(precision=5)
 import utils
 from matplotlib import pyplot as plt
 
 
-# Bet fit preds, fixed % error
-# Best fit preds, globally optimize % error
-# Best fit preds, optimize % error in bins
-# Sampled preds, sampling error
-# Sampled preds, globally scale sampling error
-# Sampled preds, scale sampling error in bins
-
-
-def score_all_predictions(pred_file, date, mse=False, stretch_fac=1.0, key='deaths'):
+def score_all_predictions(pred_file, date, model_date, mse=False, key='cases', bin_cutoffs=[20, 1000]):
     true_data = utils.get_processed_df('nyt_us_counties_daily.csv')
     cum_data = utils.get_processed_df('nyt_us_counties.csv')
     proc_score_date = utils.process_date(date, true_data)
+    proc_model_date = utils.process_date(model_date, true_data)
     raw_pred_data = np.genfromtxt(pred_file, delimiter=',', skip_header=1, dtype=np.str)
     date_preds = np.array([row for row in raw_pred_data if date in row[0]])
     all_fips = np.array([row[0].split('-')[-1] for row in date_preds])
     all_preds = date_preds[:, 1:].astype(np.float)
+    true_data = np.array([utils.get_region_data(true_data, fips, proc_date=proc_score_date, key=key) for fips in all_fips])
+    cum_data = np.array([utils.get_region_data(cum_data, fips, proc_date=proc_model_date, key=key) for fips in all_fips])
+    return get_scores(all_fips, all_preds, true_data, cum_data, mse=mse, bin_cutoffs=bin_cutoffs)
 
-    for i, row in enumerate(all_preds):
-        row_stretch = row[4] + stretch_fac * (row - row[4])
-        all_preds[i] = np.maximum(np.zeros(row.shape), row_stretch)
+
+def get_scores(all_fips, all_preds, true_data, cum_data, bin_cutoffs=[20, 1000], mse=False):
+    # stretch_fac = 0.5
+    # for i, row in enumerate(all_preds):
+    #     row_stretch = row[4] + stretch_fac * (row - row[4])
+    #     all_preds[i] = np.maximum(np.zeros(row.shape), row_stretch)
     # all_preds = np.round(all_preds)
+    all_preds[all_preds < 0.75] = 0.0
 
     # all_preds = np.zeros(all_preds.shape)
 
     tot_loss = 0
-    small_loss, mid_loss, large_loss = 0, 0, 0
-    small_count, mid_count, large_count = 0, 0, 0
-    for fips, preds in zip(all_fips, all_preds):
-        true_number = utils.get_region_data(true_data, fips, proc_date=proc_score_date, key=key)
+    bin_losses, bin_counts = np.zeros(len(bin_cutoffs) + 1), np.zeros(len(bin_cutoffs) + 1)
+    for fips, preds, true_number, cum_number in zip(all_fips, all_preds, true_data, cum_data):
         if mse:
             loss = (preds[4] - true_number) ** 2
         else:
             loss = pinball_loss(preds, true_number)
         tot_loss += loss
-        cum_number = utils.get_region_data(cum_data, fips, proc_date=proc_score_date, key=key)
-        if cum_number < 20:
-            small_loss += loss
-            small_count += 1
-        elif cum_number < 1000:
-            mid_loss += loss
-            mid_count += 1
-        else:
-            large_loss += loss
-            large_count += 1
-    return np.array(
-        [tot_loss / len(all_preds), small_loss / small_count, mid_loss / mid_count, large_loss / large_count])
+        done = False
+        for i, bc in enumerate(bin_cutoffs):
+            if cum_number <= bc:
+                bin_losses[i] += loss
+                bin_counts[i] += 1
+                done = True
+                break
+        if not done:
+            bin_losses[-1] += loss
+            bin_counts[-1] += 1
+
+    return tot_loss / len(all_preds), bin_losses / bin_counts
 
 
 def pinball_loss(preds, true_val, p_vals=np.arange(0.1, 1.0, 0.1)):
@@ -65,11 +63,31 @@ def pinball_loss(preds, true_val, p_vals=np.arange(0.1, 1.0, 0.1)):
 
 
 if __name__ == '__main__':
-    pred_file = 'C:\\Users\\dyurk\\Repos\\caltech_covid_19_modeling\\benchmark_models\\erf_model_case_predictions_dvar_0329.csv'
-    print(score_all_predictions(pred_file, '2020-04-12', key='cases'))
-    print(score_all_predictions(pred_file, '2020-04-12', key='cases', stretch_fac=0.75))
-    print(score_all_predictions(pred_file, '2020-04-12', key='cases', stretch_fac=0.5))
-    print(score_all_predictions(pred_file, '2020-04-12', key='cases', stretch_fac=0.25))
+    bin_cutoffs = [1, 10, 50, 100, 500]
+    bin_x = [1, 5, 30, 75, 250, 750]
+    pred_file = 'C:\\Users\\dyurk\\Repos\\caltech_covid_19_modeling\\benchmark_models\\erf_model_predictions_0413.csv'
+    scores = score_all_predictions(pred_file, '2020-04-14', '2020-04-13', key='deaths', bin_cutoffs=bin_cutoffs)
+    scores_mse = score_all_predictions(pred_file, '2020-04-14', '2020-04-13', key='deaths', bin_cutoffs=bin_cutoffs, mse=True)
+    print(scores, scores_mse)
+    plt.plot(bin_x, scores[1], label='erf model', c='r')
+    plt.plot(bin_x, np.sqrt(scores_mse[1]), label='erf model rmse', ls='--', c='r')
+    pred_file = 'C:\\Users\\dyurk\\Repos\\caltech_covid_19_modeling\\benchmark_models\\rona_szn_0414_sub.csv'
+    scores = score_all_predictions(pred_file, '2020-04-14', '2020-04-13', key='deaths', bin_cutoffs=bin_cutoffs)
+    scores_mse = score_all_predictions(pred_file, '2020-04-14', '2020-04-13', key='deaths', bin_cutoffs=bin_cutoffs, mse=True)
+    print(scores, scores_mse)
+    plt.plot(bin_x, scores[1], label='rona szn model', c='b')
+    plt.plot(bin_x, np.sqrt(scores_mse[1]), label='rona szn model rmse', ls='--', c='b')
+    plt.xscale('log')
+    plt.yscale('log')
+    plt.xlabel('Cumulative Deaths on 0413')
+    plt.ylabel('Pinball Score in Bin')
+    plt.title('Comparing Models at Different Death Counts')
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig('model_comp_0413.png', bbox_inches='tight')
+    # print(score_all_predictions(pred_file, '2020-04-12', key='cases', stretch_fac=0.75))
+    # print(score_all_predictions(pred_file, '2020-04-12', key='cases', stretch_fac=0.5))
+    # print(score_all_predictions(pred_file, '2020-04-12', key='cases', stretch_fac=0.25))
     # Boundary 2020-03-29: 0.16222992725893742
     #        w/ rounding: 0.1613920777743304
     #      w/ truncating: 0.16475678284551995
@@ -96,7 +114,6 @@ if __name__ == '__main__':
 
 # Case Pred Baseline:           [ 3.1096  0.1233  2.8409 85.5501]
 # Case Pred DataVar:            [ 4.28    0.124   2.991  129.97 ]
-
 
 
 # Loss Baseline:                 [ 0.1622  0.016   10.1678]
