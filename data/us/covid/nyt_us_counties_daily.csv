@@ -5018,7 +5018,7 @@ fips,date,county,state,cases,deaths
 51059,2020-04-19,Fairfax,Virginia,176.0,0.0
 51059,2020-04-20,Fairfax,Virginia,116.0,22.0
 51059,2020-04-21,Fairfax,Virginia,152.0,5.0
-51059,2020-04-22,Fairfax,Virginia,0.0,0.0
+51059,2020-04-22,Fairfax,Virginia,179.0,2.0
 53037,2020-03-07,Kittitas,Washington,1.0,0.0
 53037,2020-03-08,Kittitas,Washington,0.0,0.0
 53037,2020-03-09,Kittitas,Washington,0.0,0.0
@@ -8112,7 +8112,7 @@ fips,date,county,state,cases,deaths
 51107,2020-04-19,Loudoun,Virginia,12.0,2.0
 51107,2020-04-20,Loudoun,Virginia,21.0,0.0
 51107,2020-04-21,Loudoun,Virginia,22.0,1.0
-51107,2020-04-22,Loudoun,Virginia,0.0,0.0
+51107,2020-04-22,Loudoun,Virginia,7.0,1.0
 53057,2020-03-10,Skagit,Washington,1.0,0.0
 53057,2020-03-11,Skagit,Washington,0.0,0.0
 53057,2020-03-12,Skagit,Washington,1.0,0.0
@@ -9662,7 +9662,7 @@ fips,date,county,state,cases,deaths
 51013,2020-04-19,Arlington,Virginia,55.0,8.0
 51013,2020-04-20,Arlington,Virginia,18.0,0.0
 51013,2020-04-21,Arlington,Virginia,32.0,3.0
-51013,2020-04-22,Arlington,Virginia,0.0,0.0
+51013,2020-04-22,Arlington,Virginia,38.0,1.0
 53029,2020-03-11,Island,Washington,1.0,0.0
 53029,2020-03-12,Island,Washington,2.0,0.0
 53029,2020-03-13,Island,Washington,0.0,0.0
@@ -11725,7 +11725,7 @@ fips,date,county,state,cases,deaths
 51085,2020-04-19,Hanover,Virginia,5.0,0.0
 51085,2020-04-20,Hanover,Virginia,7.0,0.0
 51085,2020-04-21,Hanover,Virginia,2.0,6.0
-51085,2020-04-22,Hanover,Virginia,0.0,0.0
+51085,2020-04-22,Hanover,Virginia,4.0,0.0
 51095,2020-03-12,James City,Virginia,3.0,0.0
 51095,2020-03-13,James City,Virginia,5.0,0.0
 51095,2020-03-14,James City,Virginia,1.0,1.0
@@ -11767,7 +11767,7 @@ fips,date,county,state,cases,deaths
 51095,2020-04-19,James City,Virginia,2.0,0.0
 51095,2020-04-20,James City,Virginia,0.0,0.0
 51095,2020-04-21,James City,Virginia,5.0,9.0
-51095,2020-04-22,James City,Virginia,0.0,0.0
+51095,2020-04-22,James City,Virginia,1.0,0.0
 51147,2020-03-12,Prince Edward,Virginia,1.0,0.0
 51147,2020-03-13,Prince Edward,Virginia,0.0,0.0
 51147,2020-03-14,Prince Edward,Virginia,0.0,0.0
@@ -11851,7 +11851,7 @@ fips,date,county,state,cases,deaths
 51153,2020-04-19,Prince William,Virginia,42.0,0.0
 51153,2020-04-20,Prince William,Virginia,51.0,0.0
 51153,2020-04-21,Prince William,Virginia,74.0,15.0
-51153,2020-04-22,Prince William,Virginia,0.0,0.0
+51153,2020-04-22,Prince William,Virginia,57.0,1.0
 53013,2020-03-12,Columbia,Washington,1.0,0.0
 53013,2020-03-13,Columbia,Washington,0.0,0.0
 53013,2020-03-14,Columbia,Washington,0.0,0.0
@@ -16636,7 +16636,7 @@ fips,date,county,state,cases,deaths
 51041,2020-04-19,Chesterfield,Virginia,1.0,0.0
 51041,2020-04-20,Chesterfield,Virginia,20.0,0.0
 51041,2020-04-21,Chesterfield,Virginia,15.0,2.0
-51041,2020-04-22,Chesterfield,Virginia,0.0,0.0
+51041,2020-04-22,Chesterfield,Virginia,10.0,0.0
 51177,2020-03-14,Spotsylvania,Virginia,1.0,0.0
 51177,2020-03-15,Spotsylvania,Virginia,0.0,0.0
 51177,2020-03-16,Spotsylvania,Virginia,0.0,0.0
@@ -16676,7 +16676,7 @@ fips,date,county,state,cases,deaths
 51177,2020-04-19,Spotsylvania,Virginia,2.0,0.0
 51177,2020-04-20,Spotsylvania,Virginia,3.0,0.0
 51177,2020-04-21,Spotsylvania,Virginia,2.0,2.0
-51177,2020-04-22,Spotsylvania,Virginia,0.0,0.0
+51177,2020-04-22,Spotsylvania,Virginia,4.0,1.0
 53039,2020-03-14,Klickitat,Washington,1.0,0.0
 53039,2020-03-15,Klickitat,Washington,0.0,0.0
 53039,2020-03-16,Klickitat,Washington,0.0,0.0
@@ -20458,7 +20458,7 @@ fips,date,county,state,cases,deaths
 51179,2020-04-19,Stafford,Virginia,9.0,0.0
 51179,2020-04-20,Stafford,Virginia,9.0,0.0
 51179,2020-04-21,Stafford,Virginia,3.0,1.0
-51179,2020-04-22,Stafford,Virginia,0.0,0.0
+51179,2020-04-22,Stafford,Virginia,6.0,0.0
 51199,2020-03-16,York,Virginia,1.0,0.0
 51199,2020-03-17,York,Virginia,0.0,0.0
 51199,2020-03-18,York,Virginia,0.0,0.0
@@ -22866,7 +22866,7 @@ fips,date,county,state,cases,deaths
 51075,2020-04-19,Goochland,Virginia,0.0,0.0
 51075,2020-04-20,Goochland,Virginia,3.0,0.0
 51075,2020-04-21,Goochland,Virginia,4.0,2.0
-51075,2020-04-22,Goochland,Virginia,0.0,0.0
+51075,2020-04-22,Goochland,Virginia,1.0,0.0
 51087,2020-03-17,Henrico,Virginia,2.0,0.0
 51087,2020-03-18,Henrico,Virginia,0.0,0.0
 51087,2020-03-19,Henrico,Virginia,0.0,0.0
@@ -22903,7 +22903,7 @@ fips,date,county,state,cases,deaths
 51087,2020-04-19,Henrico,Virginia,25.0,26.0
 51087,2020-04-20,Henrico,Virginia,14.0,0.0
 51087,2020-04-21,Henrico,Virginia,23.0,6.0
-51087,2020-04-22,Henrico,Virginia,0.0,0.0
+51087,2020-04-22,Henrico,Virginia,63.0,5.0
 51830,2020-03-17,Williamsburg city,Virginia,1.0,0.0
 51830,2020-03-18,Williamsburg city,Virginia,0.0,0.0
 51830,2020-03-19,Williamsburg city,Virginia,0.0,0.0
@@ -35133,7 +35133,7 @@ fips,date,county,state,cases,deaths
 51001,2020-04-19,Accomack,Virginia,9.0,0.0
 51001,2020-04-20,Accomack,Virginia,10.0,0.0
 51001,2020-04-21,Accomack,Virginia,0.0,1.0
-51001,2020-04-22,Accomack,Virginia,0.0,0.0
+51001,2020-04-22,Accomack,Virginia,7.0,0.0
 51073,2020-03-20,Gloucester,Virginia,1.0,0.0
 51073,2020-03-21,Gloucester,Virginia,1.0,0.0
 51073,2020-03-22,Gloucester,Virginia,0.0,0.0
@@ -39376,7 +39376,7 @@ fips,date,county,state,cases,deaths
 51003,2020-04-19,Albemarle,Virginia,1.0,0.0
 51003,2020-04-20,Albemarle,Virginia,4.0,0.0
 51003,2020-04-21,Albemarle,Virginia,5.0,3.0
-51003,2020-04-22,Albemarle,Virginia,0.0,0.0
+51003,2020-04-22,Albemarle,Virginia,2.0,0.0
 51023,2020-03-21,Botetourt,Virginia,1.0,0.0
 51023,2020-03-22,Botetourt,Virginia,0.0,0.0
 51023,2020-03-23,Botetourt,Virginia,0.0,0.0
@@ -39409,7 +39409,7 @@ fips,date,county,state,cases,deaths
 51023,2020-04-19,Botetourt,Virginia,1.0,0.0
 51023,2020-04-20,Botetourt,Virginia,0.0,0.0
 51023,2020-04-21,Botetourt,Virginia,1.0,3.0
-51023,2020-04-22,Botetourt,Virginia,0.0,0.0
+51023,2020-04-22,Botetourt,Virginia,1.0,0.0
 51067,2020-03-21,Franklin,Virginia,1.0,0.0
 51067,2020-03-22,Franklin,Virginia,0.0,0.0
 51067,2020-03-23,Franklin,Virginia,0.0,0.0
@@ -39475,7 +39475,7 @@ fips,date,county,state,cases,deaths
 51093,2020-04-19,Isle of Wight,Virginia,3.0,0.0
 51093,2020-04-20,Isle of Wight,Virginia,0.0,0.0
 51093,2020-04-21,Isle of Wight,Virginia,2.0,1.0
-51093,2020-04-22,Isle of Wight,Virginia,0.0,0.0
+51093,2020-04-22,Isle of Wight,Virginia,2.0,1.0
 51117,2020-03-21,Mecklenburg,Virginia,1.0,0.0
 51117,2020-03-22,Mecklenburg,Virginia,0.0,0.0
 51117,2020-03-23,Mecklenburg,Virginia,0.0,0.0
@@ -39508,7 +39508,7 @@ fips,date,county,state,cases,deaths
 51117,2020-04-19,Mecklenburg,Virginia,1.0,0.0
 51117,2020-04-20,Mecklenburg,Virginia,0.0,0.0
 51117,2020-04-21,Mecklenburg,Virginia,3.0,1.0
-51117,2020-04-22,Mecklenburg,Virginia,0.0,0.0
+51117,2020-04-22,Mecklenburg,Virginia,1.0,0.0
 51800,2020-03-21,Suffolk city,Virginia,1.0,0.0
 51800,2020-03-22,Suffolk city,Virginia,0.0,0.0
 51800,2020-03-23,Suffolk city,Virginia,0.0,0.0
@@ -42680,7 +42680,7 @@ fips,date,county,state,cases,deaths
 51019,2020-04-19,Bedford,Virginia,1.0,0.0
 51019,2020-04-20,Bedford,Virginia,0.0,0.0
 51019,2020-04-21,Bedford,Virginia,1.0,0.0
-51019,2020-04-22,Bedford,Virginia,0.0,0.0
+51019,2020-04-22,Bedford,Virginia,1.0,0.0
 51047,2020-03-22,Culpeper,Virginia,2.0,0.0
 51047,2020-03-23,Culpeper,Virginia,0.0,0.0
 51047,2020-03-24,Culpeper,Virginia,0.0,0.0
@@ -42712,7 +42712,7 @@ fips,date,county,state,cases,deaths
 51047,2020-04-19,Culpeper,Virginia,4.0,0.0
 51047,2020-04-20,Culpeper,Virginia,8.0,0.0
 51047,2020-04-21,Culpeper,Virginia,14.0,1.0
-51047,2020-04-22,Culpeper,Virginia,0.0,0.0
+51047,2020-04-22,Culpeper,Virginia,8.0,0.0
 51065,2020-03-22,Fluvanna,Virginia,1.0,0.0
 51065,2020-03-23,Fluvanna,Virginia,0.0,0.0
 51065,2020-03-24,Fluvanna,Virginia,0.0,0.0
@@ -42744,7 +42744,7 @@ fips,date,county,state,cases,deaths
 51065,2020-04-19,Fluvanna,Virginia,0.0,0.0
 51065,2020-04-20,Fluvanna,Virginia,2.0,0.0
 51065,2020-04-21,Fluvanna,Virginia,0.0,4.0
-51065,2020-04-22,Fluvanna,Virginia,0.0,0.0
+51065,2020-04-22,Fluvanna,Virginia,1.0,0.0
 51105,2020-03-22,Lee,Virginia,2.0,0.0
 51105,2020-03-23,Lee,Virginia,0.0,0.0
 51105,2020-03-24,Lee,Virginia,0.0,0.0
@@ -42808,7 +42808,7 @@ fips,date,county,state,cases,deaths
 51109,2020-04-19,Louisa,Virginia,0.0,0.0
 51109,2020-04-20,Louisa,Virginia,0.0,0.0
 51109,2020-04-21,Louisa,Virginia,2.0,0.0
-51109,2020-04-22,Louisa,Virginia,0.0,0.0
+51109,2020-04-22,Louisa,Virginia,2.0,0.0
 51165,2020-03-22,Rockingham,Virginia,2.0,0.0
 51165,2020-03-23,Rockingham,Virginia,0.0,0.0
 51165,2020-03-24,Rockingham,Virginia,1.0,0.0
@@ -42840,7 +42840,7 @@ fips,date,county,state,cases,deaths
 51165,2020-04-19,Rockingham,Virginia,0.0,0.0
 51165,2020-04-20,Rockingham,Virginia,6.0,0.0
 51165,2020-04-21,Rockingham,Virginia,16.0,1.0
-51165,2020-04-22,Rockingham,Virginia,0.0,0.0
+51165,2020-04-22,Rockingham,Virginia,23.0,0.0
 53075,2020-03-22,Whitman,Washington,1.0,0.0
 53075,2020-03-23,Whitman,Washington,1.0,0.0
 53075,2020-03-24,Whitman,Washington,0.0,0.0
@@ -54137,7 +54137,7 @@ fips,date,county,state,cases,deaths
 51069,2020-04-19,Frederick,Virginia,0.0,0.0
 51069,2020-04-20,Frederick,Virginia,0.0,0.0
 51069,2020-04-21,Frederick,Virginia,2.0,0.0
-51069,2020-04-22,Frederick,Virginia,0.0,0.0
+51069,2020-04-22,Frederick,Virginia,3.0,0.0
 51630,2020-03-25,Fredericksburg city,Virginia,1.0,0.0
 51630,2020-03-26,Fredericksburg city,Virginia,0.0,0.0
 51630,2020-03-27,Fredericksburg city,Virginia,0.0,0.0
@@ -54282,7 +54282,7 @@ fips,date,county,state,cases,deaths
 51125,2020-04-19,Nelson,Virginia,0.0,0.0
 51125,2020-04-20,Nelson,Virginia,0.0,0.0
 51125,2020-04-21,Nelson,Virginia,1.0,0.0
-51125,2020-04-22,Nelson,Virginia,0.0,0.0
+51125,2020-04-22,Nelson,Virginia,1.0,0.0
 51135,2020-03-25,Nottoway,Virginia,1.0,0.0
 51135,2020-03-26,Nottoway,Virginia,0.0,0.0
 51135,2020-03-27,Nottoway,Virginia,0.0,0.0
@@ -54340,7 +54340,7 @@ fips,date,county,state,cases,deaths
 51137,2020-04-19,Orange,Virginia,0.0,0.0
 51137,2020-04-20,Orange,Virginia,1.0,0.0
 51137,2020-04-21,Orange,Virginia,0.0,0.0
-51137,2020-04-22,Orange,Virginia,0.0,0.0
+51137,2020-04-22,Orange,Virginia,1.0,0.0
 51161,2020-03-25,Roanoke,Virginia,1.0,0.0
 51161,2020-03-26,Roanoke,Virginia,0.0,0.0
 51161,2020-03-27,Roanoke,Virginia,0.0,0.0
@@ -54398,7 +54398,7 @@ fips,date,county,state,cases,deaths
 51171,2020-04-19,Shenandoah,Virginia,0.0,0.0
 51171,2020-04-20,Shenandoah,Virginia,2.0,0.0
 51171,2020-04-21,Shenandoah,Virginia,4.0,0.0
-51171,2020-04-22,Shenandoah,Virginia,0.0,0.0
+51171,2020-04-22,Shenandoah,Virginia,8.0,0.0
 53019,2020-03-25,Ferry,Washington,1.0,0.0
 53019,2020-03-26,Ferry,Washington,0.0,0.0
 53019,2020-03-27,Ferry,Washington,0.0,0.0
@@ -57797,7 +57797,7 @@ fips,date,county,state,cases,deaths
 51061,2020-04-19,Fauquier,Virginia,3.0,0.0
 51061,2020-04-20,Fauquier,Virginia,2.0,0.0
 51061,2020-04-21,Fauquier,Virginia,8.0,1.0
-51061,2020-04-22,Fauquier,Virginia,0.0,0.0
+51061,2020-04-22,Fauquier,Virginia,7.0,0.0
 51079,2020-03-26,Greene,Virginia,1.0,0.0
 51079,2020-03-27,Greene,Virginia,0.0,0.0
 51079,2020-03-28,Greene,Virginia,0.0,0.0
@@ -57825,7 +57825,7 @@ fips,date,county,state,cases,deaths
 51079,2020-04-19,Greene,Virginia,0.0,0.0
 51079,2020-04-20,Greene,Virginia,0.0,0.0
 51079,2020-04-21,Greene,Virginia,0.0,1.0
-51079,2020-04-22,Greene,Virginia,0.0,0.0
+51079,2020-04-22,Greene,Virginia,1.0,0.0
 51650,2020-03-26,Hampton city,Virginia,1.0,0.0
 51650,2020-03-27,Hampton city,Virginia,4.0,0.0
 51650,2020-03-28,Hampton city,Virginia,2.0,0.0
@@ -57881,7 +57881,7 @@ fips,date,county,state,cases,deaths
 51099,2020-04-19,King George,Virginia,0.0,0.0
 51099,2020-04-20,King George,Virginia,0.0,0.0
 51099,2020-04-21,King George,Virginia,1.0,2.0
-51099,2020-04-22,King George,Virginia,0.0,0.0
+51099,2020-04-22,King George,Virginia,1.0,2.0
 51680,2020-03-26,Lynchburg city,Virginia,1.0,0.0
 51680,2020-03-27,Lynchburg city,Virginia,1.0,0.0
 51680,2020-03-28,Lynchburg city,Virginia,0.0,0.0
@@ -57937,7 +57937,7 @@ fips,date,county,state,cases,deaths
 51131,2020-04-19,Northampton,Virginia,2.0,0.0
 51131,2020-04-20,Northampton,Virginia,0.0,0.0
 51131,2020-04-21,Northampton,Virginia,0.0,0.0
-51131,2020-04-22,Northampton,Virginia,0.0,0.0
+51131,2020-04-22,Northampton,Virginia,1.0,0.0
 51143,2020-03-26,Pittsylvania,Virginia,1.0,0.0
 51143,2020-03-27,Pittsylvania,Virginia,0.0,0.0
 51143,2020-03-28,Pittsylvania,Virginia,0.0,0.0
@@ -57965,7 +57965,7 @@ fips,date,county,state,cases,deaths
 51143,2020-04-19,Pittsylvania,Virginia,0.0,0.0
 51143,2020-04-20,Pittsylvania,Virginia,0.0,0.0
 51143,2020-04-21,Pittsylvania,Virginia,1.0,1.0
-51143,2020-04-22,Pittsylvania,Virginia,0.0,0.0
+51143,2020-04-22,Pittsylvania,Virginia,2.0,0.0
 51735,2020-03-26,Poquoson city,Virginia,1.0,0.0
 51735,2020-03-27,Poquoson city,Virginia,0.0,0.0
 51735,2020-03-28,Poquoson city,Virginia,1.0,0.0
@@ -58077,7 +58077,7 @@ fips,date,county,state,cases,deaths
 51175,2020-04-19,Southampton,Virginia,7.0,0.0
 51175,2020-04-20,Southampton,Virginia,1.0,0.0
 51175,2020-04-21,Southampton,Virginia,1.0,1.0
-51175,2020-04-22,Southampton,Virginia,0.0,0.0
+51175,2020-04-22,Southampton,Virginia,1.0,0.0
 51187,2020-03-26,Warren,Virginia,2.0,0.0
 51187,2020-03-27,Warren,Virginia,0.0,0.0
 51187,2020-03-28,Warren,Virginia,0.0,0.0
@@ -58105,7 +58105,7 @@ fips,date,county,state,cases,deaths
 51187,2020-04-19,Warren,Virginia,0.0,0.0
 51187,2020-04-20,Warren,Virginia,0.0,0.0
 51187,2020-04-21,Warren,Virginia,2.0,0.0
-51187,2020-04-22,Warren,Virginia,0.0,0.0
+51187,2020-04-22,Warren,Virginia,1.0,0.0
 51191,2020-03-26,Washington,Virginia,1.0,0.0
 51191,2020-03-27,Washington,Virginia,0.0,0.0
 51191,2020-03-28,Washington,Virginia,0.0,0.0
@@ -64205,7 +64205,7 @@ fips,date,county,state,cases,deaths
 51121,2020-04-19,Montgomery,Virginia,0.0,0.0
 51121,2020-04-20,Montgomery,Virginia,2.0,0.0
 51121,2020-04-21,Montgomery,Virginia,4.0,0.0
-51121,2020-04-22,Montgomery,Virginia,0.0,0.0
+51121,2020-04-22,Montgomery,Virginia,2.0,0.0
 51127,2020-03-28,New Kent,Virginia,1.0,0.0
 51127,2020-03-29,New Kent,Virginia,0.0,0.0
 51127,2020-03-30,New Kent,Virginia,0.0,0.0
@@ -64283,7 +64283,7 @@ fips,date,county,state,cases,deaths
 51145,2020-04-19,Powhatan,Virginia,0.0,0.0
 51145,2020-04-20,Powhatan,Virginia,0.0,0.0
 51145,2020-04-21,Powhatan,Virginia,0.0,0.0
-51145,2020-04-22,Powhatan,Virginia,0.0,0.0
+51145,2020-04-22,Powhatan,Virginia,1.0,0.0
 55085,2020-03-28,Oneida,Wisconsin,1.0,0.0
 55085,2020-03-29,Oneida,Wisconsin,0.0,0.0
 55085,2020-03-30,Oneida,Wisconsin,2.0,0.0
@@ -66361,7 +66361,7 @@ fips,date,county,state,cases,deaths
 51081,2020-04-19,Greensville,Virginia,0.0,0.0
 51081,2020-04-20,Greensville,Virginia,3.0,0.0
 51081,2020-04-21,Greensville,Virginia,2.0,4.0
-51081,2020-04-22,Greensville,Virginia,0.0,0.0
+51081,2020-04-22,Greensville,Virginia,1.0,0.0
 51685,2020-03-29,Manassas Park city,Virginia,1.0,0.0
 51685,2020-03-30,Manassas Park city,Virginia,0.0,0.0
 51685,2020-03-31,Manassas Park city,Virginia,0.0,0.0
@@ -66461,7 +66461,7 @@ fips,date,county,state,cases,deaths
 51197,2020-04-19,Wythe,Virginia,2.0,0.0
 51197,2020-04-20,Wythe,Virginia,0.0,0.0
 51197,2020-04-21,Wythe,Virginia,0.0,1.0
-51197,2020-04-22,Wythe,Virginia,0.0,0.0
+51197,2020-04-22,Wythe,Virginia,1.0,0.0
 54011,2020-03-29,Cabell,West Virginia,1.0,0.0
 54011,2020-03-30,Cabell,West Virginia,0.0,0.0
 54011,2020-03-31,Cabell,West Virginia,0.0,0.0
@@ -70602,7 +70602,7 @@ fips,date,county,state,cases,deaths
 51025,2020-04-19,Brunswick,Virginia,0.0,0.0
 51025,2020-04-20,Brunswick,Virginia,0.0,0.0
 51025,2020-04-21,Brunswick,Virginia,0.0,0.0
-51025,2020-04-22,Brunswick,Virginia,0.0,0.0
+51025,2020-04-22,Brunswick,Virginia,1.0,0.0
 51029,2020-03-31,Buckingham,Virginia,2.0,0.0
 51029,2020-04-01,Buckingham,Virginia,0.0,0.0
 51029,2020-04-02,Buckingham,Virginia,0.0,0.0
@@ -70763,7 +70763,7 @@ fips,date,county,state,cases,deaths
 51139,2020-04-19,Page,Virginia,0.0,0.0
 51139,2020-04-20,Page,Virginia,1.0,0.0
 51139,2020-04-21,Page,Virginia,0.0,0.0
-51139,2020-04-22,Page,Virginia,0.0,0.0
+51139,2020-04-22,Page,Virginia,2.0,0.0
 51181,2020-03-31,Surry,Virginia,1.0,0.0
 51181,2020-04-01,Surry,Virginia,0.0,0.0
 51181,2020-04-02,Surry,Virginia,0.0,0.0
@@ -72221,7 +72221,7 @@ fips,date,county,state,cases,deaths
 51015,2020-04-19,Augusta,Virginia,0.0,0.0
 51015,2020-04-20,Augusta,Virginia,2.0,0.0
 51015,2020-04-21,Augusta,Virginia,4.0,0.0
-51015,2020-04-22,Augusta,Virginia,0.0,0.0
+51015,2020-04-22,Augusta,Virginia,2.0,0.0
 51580,2020-04-01,Covington city,Virginia,1.0,0.0
 51580,2020-04-02,Covington city,Virginia,0.0,0.0
 51580,2020-04-03,Covington city,Virginia,0.0,0.0
@@ -74806,7 +74806,7 @@ fips,date,county,state,cases,deaths
 51033,2020-04-19,Caroline,Virginia,0.0,0.0
 51033,2020-04-20,Caroline,Virginia,1.0,0.0
 51033,2020-04-21,Caroline,Virginia,3.0,0.0
-51033,2020-04-22,Caroline,Virginia,0.0,0.0
+51033,2020-04-22,Caroline,Virginia,3.0,0.0
 51595,2020-04-03,Emporia city,Virginia,1.0,0.0
 51595,2020-04-04,Emporia city,Virginia,1.0,0.0
 51595,2020-04-05,Emporia city,Virginia,0.0,0.0
@@ -74866,7 +74866,7 @@ fips,date,county,state,cases,deaths
 51155,2020-04-19,Pulaski,Virginia,0.0,0.0
 51155,2020-04-20,Pulaski,Virginia,0.0,0.0
 51155,2020-04-21,Pulaski,Virginia,0.0,0.0
-51155,2020-04-22,Pulaski,Virginia,0.0,0.0
+51155,2020-04-22,Pulaski,Virginia,1.0,0.0
 51159,2020-04-03,Richmond,Virginia,1.0,0.0
 51159,2020-04-04,Richmond,Virginia,0.0,0.0
 51159,2020-04-05,Richmond,Virginia,0.0,0.0
@@ -74906,7 +74906,7 @@ fips,date,county,state,cases,deaths
 51193,2020-04-19,Westmoreland,Virginia,0.0,0.0
 51193,2020-04-20,Westmoreland,Virginia,0.0,0.0
 51193,2020-04-21,Westmoreland,Virginia,0.0,0.0
-51193,2020-04-22,Westmoreland,Virginia,0.0,0.0
+51193,2020-04-22,Westmoreland,Virginia,2.0,0.0
 51195,2020-04-03,Wise,Virginia,1.0,0.0
 51195,2020-04-04,Wise,Virginia,0.0,0.0
 51195,2020-04-05,Wise,Virginia,0.0,0.0
@@ -77237,7 +77237,7 @@ fips,date,county,state,cases,deaths
 51011,2020-04-19,Appomattox,Virginia,0.0,0.0
 51011,2020-04-20,Appomattox,Virginia,0.0,0.0
 51011,2020-04-21,Appomattox,Virginia,0.0,0.0
-51011,2020-04-22,Appomattox,Virginia,0.0,0.0
+51011,2020-04-22,Appomattox,Virginia,3.0,0.0
 51071,2020-04-06,Giles,Virginia,1.0,0.0
 51071,2020-04-07,Giles,Virginia,1.0,0.0
 51071,2020-04-08,Giles,Virginia,0.0,0.0
@@ -80620,3 +80620,4 @@ fips,date,county,state,cases,deaths
 38103,2020-04-22,Wells,North Dakota,1.0,0.0
 48047,2020-04-22,Brooks,Texas,1.0,0.0
 48483,2020-04-22,Wheeler,Texas,1.0,0.0
+51091,2020-04-22,Highland,Virginia,1.0,0.0
