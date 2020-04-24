@@ -48,7 +48,7 @@ sample_submission = sample_submission[(sample_submission['date'] <= end_date)  &
 # and inactive_fips are fips codes present in sample submission but with no cases reported by the New York Times.
 # Active FIPS should be scored against deaths data from NYT if such data is available, 
 # but Inactive FIPS should be scored with a target of 0.
-disabled_fips = {'36061'}
+disabled_fips = {36061}
 covid_active_fips = set(daily_df.fips.unique()).intersection(set(sample_submission.fips.unique())) - disabled_fips
 inactive_fips = set(sample_submission.fips.unique()) - set(daily_df.fips.unique()) - disabled_fips
 
