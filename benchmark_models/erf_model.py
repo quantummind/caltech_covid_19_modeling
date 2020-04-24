@@ -1,6 +1,5 @@
 from scipy.special import erf
 from scipy.optimize import curve_fit
-from scipy.stats import norm
 import numpy as np
 import time
 
@@ -74,28 +73,6 @@ def sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors, num_samples=100)
     return all_deciles
 
 
-def data_var_bootstrap_err(fit_func, popt, true_vals, start_date_proc, last_date_obv_proc, last_date_pred_proc):
-    if len(true_vals) < last_date_obv_proc + 1:
-        true_vals = np.concatenate((np.zeros(int(last_date_obv_proc + 1 - len(true_vals))), true_vals))
-    inds = np.where(true_vals > 10)[0]
-    if len(inds) < 10:
-        return None
-    preds = run_model(fit_func, popt, np.arange(0, last_date_pred_proc + 1))
-    preds_trim_diff = np.diff(preds[inds[0]:len(true_vals)])
-    good_inds = np.where(preds_trim_diff > 5)[0]
-    if len(good_inds) < 10:
-        return None
-    preds_trim_diff = preds_trim_diff[good_inds]
-    true_vals_trim_diff = np.diff(true_vals[inds[0:]])[good_inds]
-    percent_errs = (preds_trim_diff - true_vals_trim_diff) / preds_trim_diff
-    err_std = max(0.01, np.std(percent_errs))
-    pred_centers = np.diff(preds)[int(start_date_proc):]
-    pred_quants = np.zeros((int(last_date_pred_proc - start_date_proc), 9))
-    for i, quant in enumerate(np.arange(0.1, 1.0, 0.1)):
-        pred_quants[:, i] = max(0, norm.ppf(quant, loc=1.0, scale=err_std)) * pred_centers
-    return pred_quants
-
-
 def make_erf_quant_predictions(df, county_fips, key='deaths', last_date_pred='2020-06-30', start_date='2020-03-31',
                                boundary_date=None):
     '''
@@ -163,7 +140,6 @@ def make_erf_quant_predictions(df, county_fips, key='deaths', last_date_pred='20
     # Get error bars on the fitted parameters
     errors = np.sqrt(np.diag(pcov))
 
-    # all_deciles = data_var_bootstrap_err(fit_func, popt, y, start_date_proc, last_date_obv_proc, last_date_pred_proc)
     # if all_deciles is None:
     t = np.arange(max(start_date_proc, first_date_obv_proc), last_date_pred_proc + 1)
     all_deciles = sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors)
@@ -251,7 +227,8 @@ def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_pr
     # Go through each county one by one, perform our fit, and record predictions
     for fi, fips in enumerate(out_fips):
         print('Processing FIPS', fips)
-        preds = make_erf_quant_predictions(df, fips, last_date_pred=last_date_pred, boundary_date=boundary_date, key=key)
+        preds = make_erf_quant_predictions(df, fips, last_date_pred=last_date_pred, boundary_date=boundary_date,
+                                           key=key)
         # Indices are disjointed because we're recording a single FIPS on many different dates
         out[np.arange(fi, out.shape[0], num_fips)] = preds
     # Add in the header line
