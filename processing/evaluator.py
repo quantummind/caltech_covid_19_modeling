@@ -34,13 +34,13 @@ def evaluate(test_df, user_df):
 
 start_date = '2020-04-17' # First date to include in scoring
 
-daily_df = pd.read_csv('../caltech_covid_19_modeling/data/us/covid/nyt_us_counties_daily.csv')
+daily_df = pd.read_csv('../data/us/covid/nyt_us_counties_daily.csv')
 end_date = daily_df['date'].max()
 daily_df['id'] = daily_df['date'] +'-'+ daily_df['fips'].astype(str)
 preperiod_df = daily_df[(daily_df['date'] < start_date)]
 daily_df = daily_df[(daily_df['date'] <= end_date)  & (daily_df['date'] >= start_date)]
 
-sample_submission = pd.read_csv('sample_submission.csv') # Load the sample submission with all 0's
+sample_submission = pd.read_csv('../sample_submission.csv') # Load the sample submission with all 0's
 sample_submission['date'] = sample_submission['id'].apply(get_date)
 sample_submission['fips'] = sample_submission['id'].apply(get_fips).astype('int')
 sample_submission = sample_submission[(sample_submission['date'] <= end_date)  & (sample_submission['date'] >= start_date)]
