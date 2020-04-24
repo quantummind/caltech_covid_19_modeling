@@ -10,5 +10,6 @@ Summary:
 * `daily_state_tests.csv`: COVID-19 positive and negative test counts per state from the [COVID-19 Tracking project](https://covidtracking.com/) http://covidtracking.com/api/states/daily.csv 
 * `nyt_us_states.csv` : Time series data on confirmed cases and deaths of COVID-19 at the state level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
 * `nyt_us_counties.csv` : Time series data on confirmed cases and deaths of COVID-19 at the county level in the US reported by the New York Times. [github link](https://github.com/nytimes/covid-19-data)
+* `nyt_us_counties_daily.csv` : Differenced version of `nyt_us_counties.csv`, showing the new number of cases and deaths per day. This is what is used to score submissions.
 
 Compiled by quantummind & mrazomej & alexcdot
