@@ -46,23 +46,42 @@ sample_submission = sample_submission[(sample_submission['date'] <= end_date)  &
 
 # Disabled FIPS is a set of FIPS to avoid scoring. Covid_active_fips is where there has been reports of covid, 
 # and inactive_fips are fips codes present in sample submission but with no cases reported by the New York Times.
+# New_active_fips are FIPS that were introduced into the dataset during the scoring period. 
 # Active FIPS should be scored against deaths data from NYT if such data is available, 
 # but Inactive FIPS should be scored with a target of 0.
 disabled_fips = {36061}
-covid_active_fips = set(daily_df.fips.unique()).intersection(set(sample_submission.fips.unique())) - disabled_fips
-inactive_fips = set(sample_submission.fips.unique()) - set(daily_df.fips.unique()) - disabled_fips
+prev_active_fips = set(preperiod_df.fips.unique())
+curr_active_fips = set(daily_df.fips.unique())
+all_fips = set(sample_submission.fips.unique())
+covid_active_fips = prev_active_fips.intersection(all_fips).intersection(curr_active_fips) - disabled_fips
+inactive_fips = all_fips - prev_active_fips - curr_active_fips - disabled_fips
+new_active_fips = (curr_active_fips - prev_active_fips).intersection(all_fips) - disabled_fips
 
 # Create a DataFrame of all 0's for inactive fips by getting those from sample submission.
 inactive_df = sample_submission.set_index('fips')[['id','50']].loc[inactive_fips]
 inactive_df = inactive_df.set_index('id').rename({'50':'deaths'}, axis = 1)
-assert(inactive_df.sum().sum() == 0) 
+assert(inactive_df.sum().sum() == 0)
 # Create a DataFrame of active fips from the New York Times data
 active_df = daily_df.set_index('fips')[['id', 'deaths']].loc[covid_active_fips].set_index('id')
 
+# Create dataframe for new fips
+sample_search = sample_submission.set_index('fips')[['id','50']].rename({'50':'deaths'}, axis = 1)
+daily_search = daily_df.set_index('fips')
+new_df_arr = []
+for fips in new_active_fips:
+    tmp_sample = sample_search.loc[[fips]].set_index('id')
+    tmp_daily = daily_search.loc[[fips]].set_index('id')
+    tmp_sample.update(tmp_daily)
+    tmp_sample = tmp_sample[tmp_sample.index <= tmp_daily.index.max()]
+    new_df_arr.append(tmp_sample)
+
 # Join the data frames
-example = pd.concat([inactive_df, active_df]).sort_index()
-
-
+example = None
+if(len(new_active_fips) > 0):
+    new_df = pd.concat(new_df_arr)
+    example = pd.concat([inactive_df, active_df, new_df]).sort_index()
+else:
+    example = pd.concat([inactive_df, active_df]).sort_index()
 # Read some CSV for score
 df = pd.read_csv(csv_to_score).set_index('id').sort_index()
 score = evaluate(example[['deaths']], df)
