@@ -1,4 +1,4 @@
-leaderboard = `
+leaderboard1 = `
 "bitsplease",0.174933
 "rona szn",0.179656
 "[Benchmark]",0.180862
@@ -54,7 +54,7 @@ leaderboard = `
 "Big Clappy",34.262202
 "TPLink",44.523596
 "Python charmers",7237.757108
-`;ensemble_weight = `
+`;ensemble_weight1 = `
 "3 Commas",0.000000
 "3braincells",0.000000
 "ASCIT_DONUT test3",0.000000
@@ -110,7 +110,7 @@ leaderboard = `
 "Unflixable",0.000000
 "Virus Goin Back",0.000095
 "[Benchmark]",0.082363
-`;rmse = `
+`;rmse1 = `
 "3 Commas",3.902786
 "3braincells",3.902786
 "ASCIT_DONUT test3",3.902786
@@ -166,5 +166,566 @@ leaderboard = `
 "Unflixable",3.902786
 "Virus Goin Back",4.714135
 "[Benchmark]",2.710499
+`;leaderboard3 = `
+"bitsplease",n/a
+"rona szn",n/a
+"[Benchmark]",n/a
+"sovclub",n/a
+"RNGesus",n/a
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"billy-kimba",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Random perMutation",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Unflixable",n/a
+"Tentin Quarantino",n/a
+"Jar Half Empty",n/a
+"Virus Goin Back",n/a
+"goosefish",n/a
+"Underestimators",n/a
+"Literally Anything",n/a
+"OwO",n/a
+"Big Clappy",n/a
+"TPLink",n/a
+"Python charmers",n/a
+`;ensemble_weight3 = `
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"Big Clappy",n/a
+"billy-kimba",n/a
+"bitsplease",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"goosefish",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Jar Half Empty",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Literally Anything",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"OwO",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Python charmers",n/a
+"Random perMutation",n/a
+"RNGesus",n/a
+"rona szn",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"sovclub",n/a
+"Tentin Quarantino",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"TPLink",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Underestimators",n/a
+"Unflixable",n/a
+"Virus Goin Back",n/a
+"[Benchmark]",n/a
+`;rmse3 = `
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"Big Clappy",n/a
+"billy-kimba",n/a
+"bitsplease",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"goosefish",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Jar Half Empty",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Literally Anything",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"OwO",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Python charmers",n/a
+"Random perMutation",n/a
+"RNGesus",n/a
+"rona szn",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"sovclub",n/a
+"Tentin Quarantino",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"TPLink",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Underestimators",n/a
+"Unflixable",n/a
+"Virus Goin Back",n/a
+"[Benchmark]",n/a
+`;leaderboard7 = `
+"bitsplease",n/a
+"rona szn",n/a
+"[Benchmark]",n/a
+"sovclub",n/a
+"RNGesus",n/a
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"billy-kimba",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Random perMutation",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Unflixable",n/a
+"Tentin Quarantino",n/a
+"Jar Half Empty",n/a
+"Virus Goin Back",n/a
+"goosefish",n/a
+"Underestimators",n/a
+"Literally Anything",n/a
+"OwO",n/a
+"Big Clappy",n/a
+"TPLink",n/a
+"Python charmers",n/a
+`;ensemble_weight7 = `
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"Big Clappy",n/a
+"billy-kimba",n/a
+"bitsplease",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"goosefish",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Jar Half Empty",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Literally Anything",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"OwO",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Python charmers",n/a
+"Random perMutation",n/a
+"RNGesus",n/a
+"rona szn",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"sovclub",n/a
+"Tentin Quarantino",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"TPLink",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Underestimators",n/a
+"Unflixable",n/a
+"Virus Goin Back",n/a
+"[Benchmark]",n/a
+`;rmse7 = `
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"Big Clappy",n/a
+"billy-kimba",n/a
+"bitsplease",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"goosefish",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Jar Half Empty",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Literally Anything",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"OwO",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Python charmers",n/a
+"Random perMutation",n/a
+"RNGesus",n/a
+"rona szn",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"sovclub",n/a
+"Tentin Quarantino",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"TPLink",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Underestimators",n/a
+"Unflixable",n/a
+"Virus Goin Back",n/a
+"[Benchmark]",n/a
+`;leaderboard14 = `
+"bitsplease",n/a
+"rona szn",n/a
+"[Benchmark]",n/a
+"sovclub",n/a
+"RNGesus",n/a
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"billy-kimba",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Random perMutation",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Unflixable",n/a
+"Tentin Quarantino",n/a
+"Jar Half Empty",n/a
+"Virus Goin Back",n/a
+"goosefish",n/a
+"Underestimators",n/a
+"Literally Anything",n/a
+"OwO",n/a
+"Big Clappy",n/a
+"TPLink",n/a
+"Python charmers",n/a
+`;ensemble_weight14 = `
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"Big Clappy",n/a
+"billy-kimba",n/a
+"bitsplease",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"goosefish",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Jar Half Empty",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Literally Anything",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"OwO",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Python charmers",n/a
+"Random perMutation",n/a
+"RNGesus",n/a
+"rona szn",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"sovclub",n/a
+"Tentin Quarantino",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"TPLink",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Underestimators",n/a
+"Unflixable",n/a
+"Virus Goin Back",n/a
+"[Benchmark]",n/a
+`;rmse14 = `
+"3 Commas",n/a
+"3braincells",n/a
+"ASCIT_DONUT test3",n/a
+"Big Clappy",n/a
+"billy-kimba",n/a
+"bitsplease",n/a
+"Bparentheses",n/a
+"brownies",n/a
+"BunnyTeam",n/a
+"Central Cats",n/a
+"Covengers",n/a
+"crocs",n/a
+"Curve Flattened",n/a
+"deep fried oreos",n/a
+"Evolving Situation",n/a
+"Firewall",n/a
+"Global Minimum Gang",n/a
+"goosefish",n/a
+"Gorgonio",n/a
+"Host_4056_Team",n/a
+"Jar Half Empty",n/a
+"Last Place",n/a
+"Learning Support",n/a
+"Literally Anything",n/a
+"Mask_Man",n/a
+"Mertocracy",n/a
+"Mystics of Tarot",n/a
+"NAIVE",n/a
+"Noninvasive",n/a
+"Orange Watch",n/a
+"OwO",n/a
+"Pay The Price",n/a
+"Priests of Horus",n/a
+"Python charmers",n/a
+"Random perMutation",n/a
+"RNGesus",n/a
+"rona szn",n/a
+"Self Quaranteens",n/a
+"SER",n/a
+"SKTW",n/a
+"Social Inferencing",n/a
+"Socially Distanced",n/a
+"sovclub",n/a
+"Tentin Quarantino",n/a
+"The Oracles",n/a
+"The Outsiders",n/a
+"tiny-fondue-hands",n/a
+"TPLink",n/a
+"two_and_a_half_cs_majors",n/a
+"T_T",n/a
+"Undecided 2.0",n/a
+"Underestimators",n/a
+"Unflixable",n/a
+"Virus Goin Back",n/a
+"[Benchmark]",n/a
+`;submission_dates = `
+"3 Commas",4/17/2020
+"3braincells",4/17/2020
+"ASCIT_DONUT test3",4/17/2020
+"Big Clappy",4/17/2020
+"billy-kimba",4/17/2020
+"bitsplease",4/17/2020
+"Bparentheses",4/17/2020
+"brownies",4/17/2020
+"BunnyTeam",4/17/2020
+"Central Cats",4/17/2020
+"Covengers",4/17/2020
+"crocs",4/17/2020
+"Curve Flattened",4/17/2020
+"deep fried oreos",4/17/2020
+"Evolving Situation",4/17/2020
+"Firewall",4/17/2020
+"Global Minimum Gang",4/17/2020
+"goosefish",4/17/2020
+"Gorgonio",4/17/2020
+"Host_4056_Team",4/17/2020
+"Jar Half Empty",4/17/2020
+"Last Place",4/17/2020
+"Learning Support",4/17/2020
+"Literally Anything",4/17/2020
+"Mask_Man",4/17/2020
+"Mertocracy",4/17/2020
+"Mystics of Tarot",4/17/2020
+"NAIVE",4/17/2020
+"Noninvasive",4/17/2020
+"Orange Watch",4/17/2020
+"OwO",4/17/2020
+"Pay The Price",4/17/2020
+"Priests of Horus",4/17/2020
+"Python charmers",4/17/2020
+"Random perMutation",4/17/2020
+"RNGesus",4/17/2020
+"rona szn",4/17/2020
+"Self Quaranteens",4/17/2020
+"SER",4/17/2020
+"SKTW",4/17/2020
+"Social Inferencing",4/17/2020
+"Socially Distanced",4/17/2020
+"sovclub",4/17/2020
+"Tentin Quarantino",4/17/2020
+"The Oracles",4/17/2020
+"The Outsiders",4/17/2020
+"tiny-fondue-hands",4/17/2020
+"TPLink",4/17/2020
+"two_and_a_half_cs_majors",4/17/2020
+"T_T",4/17/2020
+"Undecided 2.0",4/17/2020
+"Underestimators",4/17/2020
+"Unflixable",4/17/2020
+"Virus Goin Back",4/17/2020
+"[Benchmark]",4/17/2020
 `;
+
  refresh_date = '2020-04-23';
