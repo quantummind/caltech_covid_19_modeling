@@ -110,5 +110,61 @@ leaderboard = `
 "Unflixable",0.000000
 "Virus Goin Back",0.000095
 "[Benchmark]",0.082363
+`;rmse = `
+"3 Commas",3.902786
+"3braincells",3.902786
+"ASCIT_DONUT test3",3.902786
+"Big Clappy",68.596011
+"billy-kimba",3.902786
+"bitsplease",3.143976
+"Bparentheses",3.902786
+"brownies",3.902786
+"BunnyTeam",3.902786
+"Central Cats",3.902786
+"Covengers",3.902786
+"crocs",3.902786
+"Curve Flattened",3.902786
+"deep fried oreos",3.902786
+"Evolving Situation",3.902786
+"Firewall",3.902786
+"Global Minimum Gang",3.902786
+"goosefish",4.229944
+"Gorgonio",3.902786
+"Host_4056_Team",3.902786
+"Jar Half Empty",3.615341
+"Last Place",3.902786
+"Learning Support",3.902786
+"Literally Anything",3.881713
+"Mask_Man",3.902786
+"Mertocracy",3.902786
+"Mystics of Tarot",3.902786
+"NAIVE",3.902786
+"Noninvasive",3.902786
+"Orange Watch",3.902786
+"OwO",48.421963
+"Pay The Price",3.902786
+"Priests of Horus",3.902786
+"Python charmers",2139059.591351
+"Random perMutation",3.902786
+"RNGesus",3.880718
+"rona szn",2.510834
+"Self Quaranteens",3.902786
+"SER",3.902786
+"SKTW",3.902786
+"Social Inferencing",3.902786
+"Socially Distanced",3.902786
+"sovclub",2.651043
+"Tentin Quarantino",3.508613
+"The Oracles",3.902786
+"The Outsiders",3.902786
+"tiny-fondue-hands",3.902786
+"TPLink",132.204676
+"two_and_a_half_cs_majors",3.902786
+"T_T",3.902786
+"Undecided 2.0",3.902786
+"Underestimators",4.458184
+"Unflixable",3.902786
+"Virus Goin Back",4.714135
+"[Benchmark]",2.710499
 `;
  refresh_date = '2020-04-23';
