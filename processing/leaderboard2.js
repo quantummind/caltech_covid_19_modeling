@@ -54,5 +54,61 @@ leaderboard = `
 "Big Clappy",34.262202
 "TPLink",44.523596
 "Python charmers",7237.757108
+`;ensemble_weight = `
+"3 Commas",0.000000
+"3braincells",0.000000
+"ASCIT_DONUT test3",0.000000
+"Big Clappy",0.000000
+"billy-kimba",0.000000
+"bitsplease",0.040717
+"Bparentheses",0.000000
+"brownies",0.000000
+"BunnyTeam",0.000000
+"Central Cats",0.000000
+"Covengers",0.000000
+"crocs",0.000000
+"Curve Flattened",0.000000
+"deep fried oreos",0.000000
+"Evolving Situation",0.000000
+"Firewall",0.000000
+"Global Minimum Gang",0.000000
+"goosefish",0.067680
+"Gorgonio",0.000000
+"Host_4056_Team",0.000000
+"Jar Half Empty",0.109551
+"Last Place",0.000000
+"Learning Support",0.000000
+"Literally Anything",0.000000
+"Mask_Man",0.000000
+"Mertocracy",0.000000
+"Mystics of Tarot",0.000000
+"NAIVE",0.000000
+"Noninvasive",0.000000
+"Orange Watch",0.000000
+"OwO",0.000000
+"Pay The Price",0.000000
+"Priests of Horus",0.000000
+"Python charmers",0.000000
+"Random perMutation",0.000000
+"RNGesus",0.000000
+"rona szn",0.076012
+"Self Quaranteens",0.000000
+"SER",0.000000
+"SKTW",0.000000
+"Social Inferencing",0.000000
+"Socially Distanced",0.000000
+"sovclub",0.265150
+"Tentin Quarantino",0.000000
+"The Oracles",0.000000
+"The Outsiders",0.000000
+"tiny-fondue-hands",0.000000
+"TPLink",0.000403
+"two_and_a_half_cs_majors",0.000000
+"T_T",0.000000
+"Undecided 2.0",0.000000
+"Underestimators",0.091936
+"Unflixable",0.000000
+"Virus Goin Back",0.000095
+"[Benchmark]",0.082363
 `;
  refresh_date = '2020-04-23';
