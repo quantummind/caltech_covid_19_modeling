@@ -28,7 +28,7 @@ leaderboard = `
 "Mask_Man",0.305827
 "Last Place",0.308126
 "BunnyTeam",0.311225
-"A Team",0.314272
+"Team 54",0.314272
 "Covengers",0.314272
 "Evolving Situation",0.314272
 "Global Minimum Gang",0.314272
