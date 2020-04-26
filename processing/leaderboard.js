@@ -16,6 +16,7 @@ leaderboard = `
 "rona szn",0.210237
 "Tentin Quarantino",0.214763
 "Virus Goin Back",0.221372
+"[Benchmark]",0.230097
 "Team 1",0.234779
 "NAIVE",0.238826
 "billy-kimba",0.245129
@@ -58,14 +59,14 @@ leaderboard = `
 `;ensemble_weight = `
 "3 Commas",0.000000
 "A Team",0.000000
-"ASCIT_DONUT test3",0.000711
+"ASCIT_DONUT test3",0.000747
 "Big Clappy",0.000000
 "billy-kimba",0.000000
 "bitsplease",0.000000
 "Bparentheses",0.000000
 "brownies",0.000000
 "BunnyTeam",0.000000
-"Central Cats",0.383328
+"Central Cats",0.362853
 "Covengers",0.000000
 "crocs",0.000000
 "Curve Flattened",0.000000
@@ -81,9 +82,9 @@ leaderboard = `
 "Learning Support",0.000000
 "Literally Anything",0.000000
 "Mask_Man",0.000000
-"Mertocracy",0.008676
-"Mystics of Tarot",0.231083
-"NAIVE",0.017938
+"Mertocracy",0.008673
+"Mystics of Tarot",0.235813
+"NAIVE",0.022284
 "Noninvasive",0.000000
 "Orange Watch",0.000000
 "OwO",0.000000
@@ -95,10 +96,10 @@ leaderboard = `
 "rona szn",0.000000
 "Self Quaranteens",0.000000
 "SER",0.000000
-"SKTW",0.000572
+"SKTW",0.000590
 "Social Inferencing",0.000000
 "Socially Distanced",0.000000
-"sovclub",0.177496
+"sovclub",0.177549
 "Team 1",0.000000
 "Team 23",0.000000
 "Tentin Quarantino",0.000000
@@ -109,9 +110,10 @@ leaderboard = `
 "two_and_a_half_cs_majors",0.000000
 "T_T",0.000000
 "Undecided 2.0",0.000000
-"Underestimators",0.073734
-"Unflixable",0.038524
-"Virus Goin Back",0.001399
+"Underestimators",0.070222
+"Unflixable",0.037787
+"Virus Goin Back",0.000000
+"[Benchmark]",0.019394
 `;rmse = `
 "3 Commas",2.219796
 "A Team",5.897192
@@ -169,5 +171,6 @@ leaderboard = `
 "Underestimators",1.679343
 "Unflixable",3.686765
 "Virus Goin Back",5.138762
+"[Benchmark]",3.712348
 `;
  refresh_date = '2020-04-24';
