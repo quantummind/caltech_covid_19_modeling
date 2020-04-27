@@ -32,9 +32,10 @@ def evaluate(test_df, user_df):
         total_loss += pinball_loss(join_df['deaths'].values, join_df[column].values, quantile) / 9.0
     return total_loss
 
-start_date = '2020-04-17' # First date to include in scoring
+start_date = '2020-04-24' # First date to include in scoring
 
 daily_df = pd.read_csv('../data/us/covid/nyt_us_counties_daily.csv')
+daily_df['fips'] = daily_df['fips'].astype(int)
 end_date = daily_df['date'].max()
 daily_df['id'] = daily_df['date'] +'-'+ daily_df['fips'].astype(str)
 preperiod_df = daily_df[(daily_df['date'] < start_date)]
@@ -50,7 +51,7 @@ sample_submission = sample_submission[(sample_submission['date'] <= end_date)  &
 # New_active_fips are FIPS that were introduced into the dataset during the scoring period. 
 # Active FIPS should be scored against deaths data from NYT if such data is available, 
 # but Inactive FIPS should be scored with a target of 0.
-disabled_fips = {36061}
+disabled_fips = set({})
 prev_active_fips = set(preperiod_df.fips.unique())
 curr_active_fips = set(daily_df.fips.unique())
 all_fips = set(sample_submission.fips.unique())
