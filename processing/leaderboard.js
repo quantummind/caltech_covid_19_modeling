@@ -28,7 +28,7 @@ leaderboard = `
 "goosefish",0.292311
 "Jar Half Empty",0.297764
 "Last Place",0.300523
-"A Team",0.305655
+Team 54",0.305655
 "Covengers",0.305655
 "Evolving Situation",0.305655
 "Global Minimum Gang",0.305655
