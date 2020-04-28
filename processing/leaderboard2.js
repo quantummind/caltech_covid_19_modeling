@@ -58,7 +58,7 @@ leaderboard = `
 `;ensemble_weight = `
 "The Oracles",0.000000
 "Priests of Horus",0.000000
-"TPLink",0.000125
+"TPLink",0.000000
 "Orange Watch",0.000000
 "Covengers",0.000000
 "Global Minimum Gang",0.000000
@@ -66,19 +66,19 @@ leaderboard = `
 "Evolving Situation",0.000000
 "T_T",0.000000
 "Host_4056_Team",0.000000
-"deep fried oreos",0.022463
+"deep fried oreos",0.000000
 "crocs",0.000000
 "Socially Distanced",0.000000
 "tiny-fondue-hands",0.000000
 "Team 1",0.000000
-"Mystics of Tarot",0.078530
+"Mystics of Tarot",0.000000
 "Virus Goin Back",0.000000
-"Underestimators",0.017613
+"Underestimators",0.000000
 "Central Cats",0.000000
-"ASCIT_DONUT test3",0.000756
+"ASCIT_DONUT test3",0.000000
 "Curve Flattened",0.000000
 "SER",0.000000
-"Team 23",0.063865
+"Team 23",0.000000
 "sovclub",0.000000
 "Random perMutation",0.000000
 "Firewall",0.000000
@@ -87,7 +87,7 @@ leaderboard = `
 "billy-kimba",0.000000
 "bitsplease",0.000000
 "goosefish",0.000000
-"brownies",0.032534
+"brownies",0.000000
 "Bparentheses",0.000000
 "Pay The Price",0.000000
 "OwO",0.000000
@@ -100,13 +100,13 @@ leaderboard = `
 "Noninvasive",0.000000
 "Social Inferencing",0.000000
 "A Team",0.000000
-"Mask_Man",0.009689
-"3 Commas",0.221602
+"Mask_Man",0.000000
+"3 Commas",0.000000
 "Undecided 2.0",0.000000
-"Big Clappy",0.442241
+"Big Clappy",0.000000
 "Python charmers",0.000000
-"Mertocracy",0.007407
-"Unflixable",0.009321
+"Mertocracy",0.000000
+"Unflixable",0.000000
 "Self Quaranteens",0.000000
 "Learning Support",0.000000
 "Last Place",0.000000
