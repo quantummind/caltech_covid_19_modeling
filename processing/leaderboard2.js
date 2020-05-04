@@ -57,7 +57,7 @@ leaderboard = `
 "TPLink",44.804763
 "OwO",121.960226
 `;ensemble_weight = `
-"Benchmark",0.000000
+"Benchmark",0.303500
 "The Oracles",0.000000
 "Priests of Horus",0.000000
 "TPLink",0.000000
@@ -70,23 +70,23 @@ leaderboard = `
 "Host_4056_Team",0.000000
 "deep fried oreos",0.000000
 "crocs",0.000000
-"Socially Distanced",0.000000
+"Socially Distanced",0.087618
 "tiny-fondue-hands",0.000000
-"Team 1",0.000000
-"Mystics of Tarot",0.000000
-"Virus Goin Back",0.000000
+"Team 1",0.115824
+"Mystics of Tarot",0.122628
+"Virus Goin Back",0.113488
 "Underestimators",0.000000
 "Central Cats",0.000000
 "ASCIT_DONUT test3",0.000000
-"Curve Flattened",0.000000
+"Curve Flattened",0.189143
 "SER",0.000000
 "Team 23",0.000000
 "sovclub",0.000000
 "Random perMutation",0.000000
-"Firewall",0.000000
+"Firewall",0.098996
 "rona szn",0.000000
 "Jar Half Empty",0.000000
-"billy-kimba",0.000000
+"billy-kimba",0.062575
 "bitsplease",0.000000
 "goosefish",0.000000
 "brownies",0.000000
@@ -98,7 +98,7 @@ leaderboard = `
 "BunnyTeam",0.000000
 "Tentin Quarantino",0.000000
 "SKTW",0.000000
-"NAIVE",0.000000
+"NAIVE",0.003134
 "Noninvasive",0.000000
 "Social Inferencing",0.000000
 "A Team",0.000000
@@ -106,7 +106,7 @@ leaderboard = `
 "3 Commas",0.000000
 "Undecided 2.0",0.000000
 "Big Clappy",0.000000
-"Python charmers",0.000000
+"Python charmers",0.196126
 "Mertocracy",0.000000
 "Unflixable",0.000000
 "Learning Support",0.000000
