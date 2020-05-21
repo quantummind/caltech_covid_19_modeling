@@ -57,26 +57,26 @@ leaderboard = `
 "Self Quaranteens",8.227608
 "TPLink",44.831461
 `;ensemble_weight = `
-"bitsplease",7.22%
-"Python charmers",14.92%
-"goosefish",0.34%
-"Mask_Man",6.35%
-"Pay The Price",2.74%
-"Gorgonio",28.95%
-"sovclub",3.90%
-"Mystics of Tarot",3.53%
-"SKTW",7.14%
-"Firewall",1.14%
-"Underestimators",0.64%
-"Virus Goin Back",0.48%
-"Bparentheses",0.00%
-"Random perMutation",1.74%
-"billy-kimba",3.33%
-"Benchmark",0.02%
-"Curve Flattened",5.41%
-"ASCIT_DONUT test3",2.18%
-"RNGesus",0.45%
-"NAIVE",9.51%
+"bitsplease",0.64%
+"Python charmers",22.86%
+"goosefish",0.77%
+"Mask_Man",7.26%
+"Pay The Price",1.11%
+"Gorgonio",14.96%
+"sovclub",2.94%
+"Mystics of Tarot",0.51%
+"SKTW",5.40%
+"Firewall",1.25%
+"Underestimators",0.00%
+"Virus Goin Back",1.19%
+"Bparentheses",0.28%
+"Random perMutation",0.10%
+"billy-kimba",3.96%
+"Benchmark",0.16%
+"Curve Flattened",11.90%
+"ASCIT_DONUT test3",6.92%
+"RNGesus",0.13%
+"NAIVE",17.67%
 "Socially Distanced",0.00%
 "3 Commas",0.00%
 "Team 1",0.00%
