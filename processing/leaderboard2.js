@@ -23,7 +23,6 @@ leaderboard = `
 "Mask_Man",0.093667
 "Pay The Price",0.094558
 "rona szn",0.094586
-"Benchmark",0.096121
 "Unflixable",0.096965
 "Tentin Quarantino",0.098246
 "Noninvasive",0.098443
@@ -32,6 +31,7 @@ leaderboard = `
 "NAIVE",0.101622
 "Random perMutation",0.102980
 "Bparentheses",0.103745
+"Benchmark",0.103870
 "two_and_a_half_cs_majors",0.104207
 "Big Clappy",0.105348
 "Self Quaranteens",0.105872
@@ -81,7 +81,6 @@ leaderboard = `
 "Mask_Man",0.00%
 "Pay The Price",0.00%
 "rona szn",0.00%
-"Benchmark",0.00%
 "Unflixable",0.00%
 "Tentin Quarantino",0.00%
 "Noninvasive",0.00%
@@ -90,6 +89,7 @@ leaderboard = `
 "NAIVE",0.00%
 "Random perMutation",0.00%
 "Bparentheses",0.00%
+"Benchmark",0.00%
 "two_and_a_half_cs_majors",0.00%
 "Big Clappy",0.00%
 "Self Quaranteens",0.00%
@@ -115,7 +115,7 @@ leaderboard = `
 "Literally Anything",0.00%
 "TPLink",0.00%
 `;rmse = `
-"Benchmark",1.049775
+"Benchmark",1.142473
 "Priests of Horus",1.223964
 "TPLink",132.231775
 "The Outsiders",1.223964
@@ -195,7 +195,6 @@ leaderboard = `
 "ASCIT_DONUT test3",0.091090
 "Team 1",0.092035
 "rona szn",0.094586
-"Benchmark",0.096121
 "Mask_Man",0.097419
 "RNGesus",0.100009
 "Mystics of Tarot",0.100993
@@ -203,6 +202,7 @@ leaderboard = `
 "Big Clappy",0.102214
 "Random perMutation",0.102980
 "Bparentheses",0.103745
+"Benchmark",0.103870
 "two_and_a_half_cs_majors",0.104207
 "The Oracles",0.105501
 "crocs",0.106131
@@ -242,11 +242,11 @@ leaderboard = `
 "sovclub",0.101345
 "Pay The Price",0.101866
 "Gorgonio",0.103130
+"Benchmark",0.103426
 "The Oracles",0.105822
 "crocs",0.108020
 "Socially Distanced",0.109448
 "Team 1",0.110050
-"Benchmark",0.110243
 "Global Minimum Gang",0.112532
 "Random perMutation",0.114154
 "BunnyTeam",0.115021
@@ -300,6 +300,7 @@ leaderboard = `
 "Global Minimum Gang",0.123326
 "Random perMutation",0.124552
 "Virus Goin Back",0.125500
+"Benchmark",0.126507
 "Python charmers",0.126649
 "BunnyTeam",0.130792
 "ASCIT_DONUT test3",0.132143
@@ -307,7 +308,6 @@ leaderboard = `
 "Mask_Man",0.136710
 "deep fried oreos",0.137262
 "Bparentheses",0.141970
-"Benchmark",0.146677
 "billy-kimba",0.148828
 "Socially Distanced",0.151596
 "Team 1",0.152817
@@ -352,6 +352,7 @@ leaderboard = `
 "Python charmers",0.126041
 "sovclub",0.127908
 "SKTW",0.130652
+"Benchmark",0.133423
 "Mask_Man",0.133577
 "Gorgonio",0.134913
 "Mystics of Tarot",0.135592
@@ -359,7 +360,6 @@ leaderboard = `
 "ASCIT_DONUT test3",0.142624
 "Bparentheses",0.147881
 "Random perMutation",0.148130
-"Benchmark",0.150527
 "Underestimators",0.150574
 "billy-kimba",0.152102
 "Curve Flattened",0.155640
