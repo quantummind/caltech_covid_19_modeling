@@ -5,6 +5,8 @@ import time
 
 import utils
 
+SPICY_ERF = False
+
 
 def erf_curve(t, log_max, slope, center):
     '''
@@ -14,6 +16,13 @@ def erf_curve(t, log_max, slope, center):
     # Using log(max) as the input rather than just max makes it easier for a curve fitter to match exponential data
     max_val = 10 ** log_max
     deaths = max_val * (1 + erf(slope * (t - center))) / 2
+    return deaths
+
+
+def erf2_curve(t, log_max1, log_max2, slope1, slope2, center):
+    curve_1 = (10 ** log_max1) * (1 + erf(slope1 * (t - center))) / 2
+    curve_2 = ((10 ** log_max1) / 2) + (10 ** log_max2) * erf(slope2 * (t - center)) / 2
+    deaths = curve_1 * (t <= center) + curve_2 * (t > center)
     return deaths
 
 
@@ -51,12 +60,16 @@ def run_model(func, params, t):
     return preds
 
 
-def sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors, num_samples=100):
+def sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors, num_samples=100, fixed_params=None):
     all_samples = []
+    if fixed_params is None:
+        fixed_params = [False] * len(popt)
     # To bootstrap error bars, we run 100 models with randomly sampled parameters and measure their spread
     for i in range(num_samples):
         sample = np.random.normal(loc=popt, scale=errors)
-        for ind, (param, bound) in enumerate(zip(sample, fit_bounds)):
+        for ind, param in enumerate(sample):
+            if fixed_params[ind]:
+                sample[ind] = popt[ind]
             # Make sure the randomly selected parameters fall within our bounds
             if param < fit_bounds[0][ind]:
                 sample[ind] = fit_bounds[0][ind]
@@ -137,12 +150,30 @@ def make_erf_quant_predictions(df, county_fips, key='deaths', last_date_pred='20
     # Use scipy to fit either a linear or erf model to the data
     popt, pcov = curve_fit(fit_func, fit_x, fit_y,
                            p0=fit_params0, bounds=fit_bounds)
+    fixed_params = None
+    if SPICY_ERF and (not do_lin_model) and popt[2] < np.max(x) - 10 and np.max(y) > 100:
+        try:
+            print('Erf2!', '%.1f' % popt[2], np.max(x), np.max(y))
+            fit_func = erf2_curve
+            fit_x, fit_y = x, y
+            fit_params0 = [np.log10(2 * np.max(data[key])), np.log10(2 * np.max(data[key])), 0.1, 0.1, 80]
+            fit_bounds = [bnd for bnd in zip(*[[np.log10(0.5 * np.max(data[key])), np.log10(3 * np.max(data[key]))],
+                                               [np.log10(np.max(data[key])), np.log10(3 * np.max(data[key]))],
+                                               [0.001, 10], [0.001, 10],
+                                               [0, 200]])]
+            popt, pcov = curve_fit(fit_func, fit_x, fit_y,
+                                   p0=fit_params0, bounds=fit_bounds)
+            fixed_params = [True, False, True, False, False]
+        except RuntimeError as e:
+            print(e)
+            fit_func = erf_curve
+
     # Get error bars on the fitted parameters
     errors = np.sqrt(np.diag(pcov))
 
     # if all_deciles is None:
     t = np.arange(max(start_date_proc, first_date_obv_proc), last_date_pred_proc + 1)
-    all_deciles = sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors)
+    all_deciles = sample_bootstrap_err(t, fit_func, fit_bounds, popt, errors, fixed_params=fixed_params)
 
     # If data didn't start for this FIPS until after our start date, pad the beginning with zeroes
     if len(all_deciles) < num_days:
@@ -151,7 +182,7 @@ def make_erf_quant_predictions(df, county_fips, key='deaths', last_date_pred='20
 
 
 def make_erf_point_predictions(df, county_fips, key='deaths', last_date_pred='2020-06-30', start_date='2020-03-31',
-                               boundary_date=None):
+                               boundary_date=None, do_diff=True):
     '''
     df: main nyt data frame
     county_fips: fips code of the county to be fit
@@ -215,7 +246,9 @@ def make_erf_point_predictions(df, county_fips, key='deaths', last_date_pred='20
     popt, pcov = curve_fit(fit_func, fit_x, fit_y,
                            p0=fit_params0, bounds=fit_bounds)
     t = np.arange(start_date_proc, last_date_pred_proc + 1)
-    return np.diff(run_model(fit_func, popt, t))
+    if do_diff:
+        return np.diff(run_model(fit_func, popt, t))
+    return run_model(fit_func, popt, t)
 
 
 def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_predictions.csv', boundary_date=None,
@@ -244,6 +277,6 @@ def predict_all_counties(df, last_date_pred='2020-06-30', out_file='erf_model_pr
 if __name__ == '__main__':
     start = time.time()
     df = utils.get_processed_df()
-    predict_all_counties(df, boundary_date='2020-04-16', out_file='erf_model_predictions_0416.csv',
+    predict_all_counties(df, boundary_date='2020-05-15', out_file='erf_model_predictions_0515.csv',
                          key='deaths')
     print('Runtime: %.1f seconds' % (time.time() - start))
