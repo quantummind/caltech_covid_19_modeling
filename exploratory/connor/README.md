@@ -1,4 +1,4 @@
-## `exploratory`
+## `exploratory - connor`
 
 Any kind of preliminary analysis that you do should be done in your own
 folder. If you do not have a folder, please create one using your first name
